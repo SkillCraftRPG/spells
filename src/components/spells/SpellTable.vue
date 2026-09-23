@@ -2,8 +2,8 @@
   <table class="table table-sm table-striped text-center">
     <thead>
       <tr>
-        <th scope="col" class="w-5">{{ t("spells.level") }}</th>
-        <th scope="col" class="w-10">{{ t("spells.school") }}</th>
+        <th scope="col" class="w-5">{{ t("spells.level.label") }}</th>
+        <th scope="col" class="w-10">{{ t("spells.school.label") }}</th>
         <th scope="col" class="w-15">{{ t("spells.name") }}</th>
         <th scope="col" class="w-10">{{ t("spells.castingTime.label") }}</th>
         <th scope="col" class="w-5">{{ t("spells.castingTime.ritual") }}</th>
@@ -18,8 +18,8 @@
     </thead>
     <tbody>
       <tr v-for="spell in spells" :key="spell.name">
-        <td class="w-5">{{ spell.level ? n(spell.level, "integer") : t("spells.cantrip") }}</td>
-        <td class="w-10">{{ spell.school }}</td>
+        <td class="w-5">{{ spell.level ? n(spell.level, "integer") : t("spells.level.cantrip") }}</td>
+        <td class="w-10">{{ t(`spells.school.options.${spell.school}`) }}</td>
         <td class="w-15">
           <a :href="spell.src" target="_blank">{{ spell.name }}</a>
         </td>

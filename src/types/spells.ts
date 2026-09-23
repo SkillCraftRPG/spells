@@ -1,4 +1,15 @@
+export type RangeFilter<T> = {
+  minimum?: T | null;
+  maximum?: T | null;
+};
+
 export type School = "Abjuration" | "Conjuration" | "Divination" | "Enchantment" | "Evocation" | "Illusion" | "Necromancy" | "Transmutation";
+
+export type SearchSpellsPayload = {
+  level: RangeFilter<number>;
+  school: string;
+  search: string;
+};
 
 export type Spell = {
   name: string;

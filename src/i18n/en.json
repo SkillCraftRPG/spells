@@ -1,4 +1,8 @@
 {
+  "actions": {
+    "search": "Search"
+  },
+  "all": "All",
   "brand": "SkillCraft",
   "home": {
     "go": "Go to Home",
@@ -10,7 +14,6 @@
     "lead": "Page Not Found"
   },
   "spells": {
-    "cantrip": "Cantrip",
     "castingTime": {
       "label": "Casting Time",
       "options": {
@@ -43,7 +46,12 @@
       "seconds": "{count} second | {count} second | {count} seconds",
       "untilDispelled": "Until Dispelled"
     },
-    "level": "Level",
+    "level": {
+      "cantrip": "Cantrip",
+      "label": "Level",
+      "maximum": "Maximum Level",
+      "minimum": "Minimum Level"
+    },
     "name": "Name",
     "range": {
       "label": "Range",
@@ -51,7 +59,19 @@
       "touch": "Touch",
       "unlimited": "Unlimited"
     },
-    "school": "School",
+    "school": {
+      "label": "School",
+      "options": {
+        "Abjuration": "Abjuration",
+        "Conjuration": "Conjuration",
+        "Divination": "Divination",
+        "Enchantment": "Enchantment",
+        "Evocation": "Evocation",
+        "Illusion": "Illusion",
+        "Necromancy": "Necromancy",
+        "Transmutation": "Transmutation"
+      }
+    },
     "title": {
       "abjuration": "School of Abjuration Spells",
       "animism": "Animism Spells",
