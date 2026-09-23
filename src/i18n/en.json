@@ -3,12 +3,14 @@
     "search": "Search"
   },
   "all": "All",
+  "any": " Any",
   "brand": "SkillCraft",
   "home": {
     "go": "Go to Home",
     "text": "A multi-tenant game Web application managing world-scoped data, character sheets, and real-time gameplay state for interactive roleplaying experiences.",
     "title": "Home"
   },
+  "none": "None",
   "notFound": {
     "help": "The requested page could not be found.",
     "lead": "Page Not Found"
@@ -30,11 +32,8 @@
       },
       "ritual": "Ritual"
     },
-    "components": {
-      "material": "Material",
-      "somatic": "Somatic",
-      "verbal": "Verbal"
-    },
+    "classes": "Classes",
+    "components": "Components",
     "duration": {
       "concentration": "Concentration",
       "days": "{count} day | {count} day | {count} days",
@@ -46,6 +45,7 @@
       "seconds": "{count} second | {count} second | {count} seconds",
       "untilDispelled": "Until Dispelled"
     },
+    "empty": "No spells match the current criteria.",
     "level": {
       "cantrip": "Cantrip",
       "label": "Level",
@@ -70,20 +70,24 @@
         "Illusion": "Illusion",
         "Necromancy": "Necromancy",
         "Transmutation": "Transmutation"
-      }
+      },
+      "title": "Schools"
     },
+    "spirituality": "Spiritualité",
     "title": {
-      "abjuration": "School of Abjuration Spells",
+      "abjuration": "Abjuration Spells",
+      "all": "All Spells",
       "animism": "Animism Spells",
-      "conjuration": "School of Conjuration Spells",
-      "divination": "School of Divination Spells",
+      "conjuration": "Conjuration Spells",
+      "divination": "Divination Spells",
       "divine": "Divine Spells",
-      "enchantment": "School of Enchantment Spells",
-      "evocation": "School of Evocation Spells",
-      "illusion": "School of Illusion Spells",
-      "necromancy": "School of Necromancy Spells",
-      "transmutation": "School of Transmutation Spells"
-    }
+      "enchantment": "Enchantment Spells",
+      "evocation": "Evocation Spells",
+      "illusion": "Illusion Spells",
+      "necromancy": "Necromancy Spells",
+      "transmutation": "Transmutation Spells"
+    },
+    "total": "Total Spells: {total}"
   },
   "theme": {
     "title": "Theme",
