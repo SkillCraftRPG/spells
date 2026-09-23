@@ -1,1 +1,8 @@
 Aid|Le spell inverse (Malédiction) réduit les PV courants & maximum.
+Augury|Devient un talent de tiers 1 accessible à tous les spellcasters.
+Dispel Evil and Good|Break Enchantment va dans Protection, tandis que Dismissal va dans Bannissement.
+Find Steed|Talent pour le Champion, ou capacité de la spécialisation, utilise le Pouvoir divin.
+Gift of Alacrity|Également en lien avec la Surprise.
+Prayer of Healing|Talent de tiers 1 pour le Clerc, utilise le Pouvoir divin; par ailleurs problème avec Renvoi des morts-vivants, à reformuler.
+Silvery Barbs|Avec Pendulum.
+Dragon's Breath|Remplace le souffle de la transformation; pour souffle du serpent, poison seulement. 7 éléments pour transformation!

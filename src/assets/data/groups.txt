@@ -1,11 +1,192 @@
+Adaptation naturelle|Barkskin
+Adaptation naturelle|Darkvision
+Adaptation naturelle|Enhance Ability
+Adaptation naturelle|Guardian of Nature
+Adaptation naturelle|Water Breathing
+Affaiblissement|Blindness/Deafness
+Affaiblissement|Ray of Enfeeblement
+Affaiblissement|Ray of Sickness
+Animation des morts|Animate Dead
+Animation des morts|Negative Energy Flood
+Arcane Light|Continual Flame
+Arcane Light|Dancing Lights
+Arts féériques|Druidcraft
+Arts féériques|Healing Spirit
+Arts féériques|Mending
+Arts féériques|Pass Without Trace
+Arts féériques|Shillelagh
+Balancier|Fortune's Favor
+Balancier|Silvery Barbs
+Bannissement|Banishing Smite
+Bannissement|Banishment
+Bannissement|Dispel Evil and Good
+Bosquet|Antilife Shell
+Bosquet|Druid Grove
+Bosquet|Reincarnate
+Bosquet|Wall of Thorns
+Bosquet|Wrath Of Nature
 Bénédiction|Aid
 Bénédiction|Bane
 Bénédiction|Bless
 Bénédiction|Guidance
+Cage spirituelle|Magic Jar
+Cage spirituelle|Soul Cage
+Cage spirituelle|Tether Essence
+Calamité|Bestow Curse
+Calamité|Blight
+Calamité|Contagion
+Calamité|Hex
+Champion|Find Greater Steed
+Champion|Find Steed
+Clairvoyance|Arcane Eye
+Clairvoyance|Clairvoyance
+Clairvoyance|Scrying
+Cognition|Borrowed Knowledge
+Cognition|Identify
+Cognition|Legend Lore
+Communion|Commune
+Communion|Commune with Nature
+Communion|Contact Other Plane
+Communion|Divination
+Compréhension linguistique|Comprehend Languages
+Compréhension linguistique|Tongues
+Conscience éveillée|Detect Thoughts
+Conscience éveillée|Find Traps
+Conscience éveillée|Gift of Alacrity
+Conscience éveillée|See Invisibility
+Convoi divin|Etherealness
+Convoi divin|Plane Shift
+Convoi divin|Word of Recall
+Corde enchantée|Earthbind
+Corde enchantée|Rope Trick
+Corde enchantée|Snare
+Danse macabre|Create Undead
+Danse macabre|Danse Macabre
+Darkvision|Darkvision
+Déluge de projectiles|Conjure Barrage
+Déluge de projectiles|Conjure Volley
+Déluge de projectiles|Cordon of Arrows
+Déluge de projectiles|Swift Quiver
+Esprits funèbres|Shadow Of Moil
+Esprits funèbres|Spirit Of Death
+Esprits funèbres|Spirit Shroud
+Esprits funèbres|Summon Undead
+Esprits gardiens|Beacon of Hope
+Esprits gardiens|Spirit Guardians
+Esprits gardiens|Spirit Shroud
+Etherealness|Etherealness
+Exaltation|Ashardalon's Stride
+Faucheur|Circle of Death
+Faucheur|Finger of Death
+Faucheur|Harm
+Flamme sacrée|Guiding Bolt
+Flamme sacrée|Sacred Flame
+Frappe véritable|Hunter's Mark
+Frappe véritable|Mind Spike
+Frappe véritable|True Strike
+Frisson|Cause Fear
+Frisson|Chill Touch
+Frisson|Sapping Sting
+Frisson|Wither and Bloom
 Guérison|Cure Wounds
 Guérison|Healing Word
 Guérison|Mass Cure Wounds
 Guérison|Mass Healing Word
+Invocation céleste|Conjure Celestial
+Invocation céleste|Planar Ally
+Invocation céleste|Summon Celestial
+Liberté|Fly
+Liberté|Freedom of Movement
+Liberté|Jump
+Liberté|Longstrider
+Lien animal|Animal Friendship
+Lien animal|Animal Messenger
+Lien animal|Beast Bond
+Lien animal|Beast Sense
+Lien animal|Speak with Animals
+Localisation|Find the Path
+Localisation|Locate Animals or Plants
+Localisation|Locate Creature
+Localisation|Locate Object
+Lueurs féériques|Create Bonfire
+Lueurs féériques|Faerie Fire
+Lueurs féériques|Moonbeam
+Lumière|Daylight
+Lumière|Light
+Lumière|Word of Radiance
+Manifestation draconique|Draconic Transformation
+Manifestation draconique|Dragon's Breath
+Manifestation draconique|Summon Draconic Spirit
+Miracles|Divine Word
+Miracles|Heal
+Miracles|Heroes' Feast
+Miracles|Regenerate
+Mirage|Hallucinatory Terrain
+Mirage|Mirage Arcane
+N/A|Goodberry
+N/A|Magic Weapon
+Peste|Giant Insect
+Peste|Infestation
+Peste|Insect Plague
+Prestidigitation|Mending
+Protection contre la magie|Counterspell
+Protection contre la magie|Detect Magic
+Protection contre la magie|Dispel Magic
+Protection contre la magie|Warp Sense
+Protection contre le bien et le mal|Detect Evil and Good
+Protection contre le bien et le mal|Dispel Evil and Good
+Protection contre le bien et le mal|Protection from Evil and Good
+Protection contre les poisons et maladies|Create Food and Water
+Protection contre les poisons et maladies|Detect Poison and Disease
+Protection contre les poisons et maladies|Purify Food and Drink
+Préservation|Feign Death
+Préservation|Gentle Repose
+Préservation|Spare the Dying
+Préservation|Speak with Dead
 Restauration|Greater Restoration
 Restauration|Lesser Restoration
-Restauration|Remove Curse
+Réseau de racines|Plane Shift
+Réseau de racines|Transport via Plants
+Réseau de racines|Tree Stride
+Résurrection|Raise Dead
+Résurrection|Resurrection
+Résurrection|Revivify
+Sceau magique|Gate Seal
+Sceau magique|Magic Circle
+Sceau magique|Planar Binding
+Souffle du serpent|Dragon's Breath
+Souffle du serpent|Poison Spray
+Souffle du serpent|Protection from Poison
+Talent|Augury
+Talent|Prayer of Healing
+Temple|Forbiddance
+Temple|Hallow
+Temple|Temple of the Gods
+Thaumaturgie|Ceremony
+Thaumaturgie|Mending
+Thaumaturgie|Thaumaturgy
+Thaumaturgie|Toll the Dead
+Toucher vampirique|False Life
+Toucher vampirique|Inflict Wounds
+Toucher vampirique|Life Transference
+Toucher vampirique|Vampiric Touch
+Troisième œil|True Seeing
+Téléportation|Plane Shift
+Vignes épineuses|Ensnaring Strike
+Vignes épineuses|Entangle
+Vignes épineuses|Hail of Thorns
+Vignes épineuses|Spike Growth
+Vignes épineuses|Thorn Whip
+Warding Bond|Life Transference
+Water Breathing|Water Breathing
+Émanations sépulcrales|Enervation
+Émanations sépulcrales|Eyebite
+Éveil|Awaken
+Éveil|Grasping Vine
+Éveil|Plant Growth
+Éveil|Speak with Plants
+Êtres féériques|Conjure Animals
+Êtres féériques|Conjure Fey
+Êtres féériques|Conjure Woodland Beings
+Êtres féériques|Summon Beast
+Êtres féériques|Summon Fey

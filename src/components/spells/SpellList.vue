@@ -1,7 +1,7 @@
 <template>
   <div>
+    <p v-if="scopedSpells.length" class="text-body-secondary">{{ t("spells.total", { total: scopedSpells.length }) }}</p>
     <SpellFilters :classes="classes" :groups="groups" :school="school" :tags="tags" v-model="filters" />
-    <p class="text-body-secondary">{{ t("spells.total", { total: scopedSpells.length }) }}</p>
     <SpellTable v-if="filteredSpells.length" :spells="filteredSpells" @clicked="onClicked" />
     <p v-else>{{ t("spells.empty") }}</p>
     <SpellModal v-if="spell" ref="modal" :spell="spell" />
