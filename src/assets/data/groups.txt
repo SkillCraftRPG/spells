@@ -163,9 +163,11 @@ Temple|Forbiddance
 Temple|Hallow
 Temple|Temple of the Gods
 Thaumaturgie|Ceremony
+Thaumaturgie|Life Transference
 Thaumaturgie|Mending
 Thaumaturgie|Thaumaturgy
 Thaumaturgie|Toll the Dead
+Thaumaturgie|Warding Bond
 Toucher vampirique|False Life
 Toucher vampirique|Inflict Wounds
 Toucher vampirique|Life Transference
@@ -177,7 +179,6 @@ Vignes épineuses|Entangle
 Vignes épineuses|Hail of Thorns
 Vignes épineuses|Spike Growth
 Vignes épineuses|Thorn Whip
-Warding Bond|Life Transference
 Water Breathing|Water Breathing
 Émanations sépulcrales|Enervation
 Émanations sépulcrales|Eyebite
