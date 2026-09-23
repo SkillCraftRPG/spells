@@ -12,6 +12,11 @@ const router = createRouter({
     },
     // Spells
     {
+      name: "Spells",
+      path: "/spells",
+      component: () => import("./views/spells/SpellsView.vue"),
+    },
+    {
       name: "AbjurationSpells",
       path: "/spells/abjuration",
       component: () => import("./views/spells/AbjurationSpellsView.vue"),

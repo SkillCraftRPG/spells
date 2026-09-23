@@ -1,5 +1,6 @@
 [
   {
+    "slug": "acid-splash",
     "name": "Acid Splash",
     "src": "https://dnd5e.wikidot.com/spell:acid-splash",
     "school": "Conjuration",
@@ -31,6 +32,7 @@
     ]
   },
   {
+    "slug": "blade-ward",
     "name": "Blade Ward",
     "src": "https://dnd5e.wikidot.com/spell:blade-ward",
     "school": "Abjuration",
@@ -48,6 +50,7 @@
     "tags": ["action", "arcane", "combat", "damage", "damage-slashing", "self", "somatic", "verbal"]
   },
   {
+    "slug": "booming-blade",
     "name": "Booming Blade",
     "src": "https://dnd5e.wikidot.com/spell:booming-blade",
     "school": "Evocation",
@@ -83,6 +86,7 @@
     ]
   },
   {
+    "slug": "chill-touch",
     "name": "Chill Touch",
     "src": "https://dnd5e.wikidot.com/spell:chill-touch",
     "school": "Necromancy",
@@ -115,10 +119,10 @@
       "upcastable",
       "verbal",
       "vs-undead"
-    ],
-    "group": "Frisson"
+    ]
   },
   {
+    "slug": "control-flames",
     "name": "Control Flames",
     "src": "https://dnd5e.wikidot.com/spell:control-flames",
     "school": "Transmutation",
@@ -136,6 +140,7 @@
     "tags": ["action", "arcane", "area", "creature-target", "cube", "light", "multi-target", "object-target", "somatic", "unwilling-ok", "utility"]
   },
   {
+    "slug": "create-bonfire",
     "name": "Create Bonfire",
     "src": "https://dnd5e.wikidot.com/spell:create-bonfire",
     "school": "Conjuration",
@@ -169,10 +174,10 @@
       "unwilling-ok",
       "upcastable",
       "verbal"
-    ],
-    "group": "Lueurs féériques"
+    ]
   },
   {
+    "slug": "dancing-lights",
     "name": "Dancing Lights",
     "src": "https://dnd5e.wikidot.com/spell:dancing-lights",
     "school": "Evocation",
@@ -203,10 +208,10 @@
       "unwilling-ok",
       "utility",
       "verbal"
-    ],
-    "group": "Dancing Lights / Continual Flame"
+    ]
   },
   {
+    "slug": "druidcraft",
     "name": "Druidcraft",
     "src": "https://dnd5e.wikidot.com/spell:druidcraft",
     "school": "Transmutation",
@@ -221,10 +226,10 @@
     "verbal": true,
     "description": "Whispering to the spirits of nature, you create one of the following effects within range:\n\nYou create a tiny, harmless sensory effect that predicts what the weather will be at your location for the next 24 hours. The effect might manifest as a golden orb for clear skies, a cloud for rain, falling snowflakes for snow, and so on. This effect persists for 1 round.\n\nYou instantly make a flower blossom, a seed pod open, or a leaf bud bloom.\n\nYou create an instantaneous, harmless sensory effect, such as falling leaves, a puff of wind, the sound of a small animal, or the faint odor of skunk. The effect must fit in a 5-foot cube.\n\nYou instantly light or snuff out a candle, a torch, or a small campfire.",
     "classes": ["Druid"],
-    "tags": ["action", "area", "cube", "multi-target", "nature", "somatic", "unwilling-ok", "utility", "verbal", "weather"],
-    "group": "Arts féériques"
+    "tags": ["action", "area", "cube", "multi-target", "nature", "somatic", "unwilling-ok", "utility", "verbal", "weather"]
   },
   {
+    "slug": "eldritch-blast",
     "name": "Eldritch Blast",
     "src": "https://dnd5e.wikidot.com/spell:eldritch-blast",
     "school": "Evocation",
@@ -255,6 +260,7 @@
     ]
   },
   {
+    "slug": "encode-thoughts",
     "name": "Encode Thoughts",
     "src": "https://dnd5e.wikidot.com/spell:encode-thoughts",
     "school": "Enchantment",
@@ -268,10 +274,11 @@
     "somatic": true,
     "verbal": false,
     "description": "You pull a memory, an idea, or a message from your mind and transform it into a tangible string of glowing energy called a thought strand, which persists for the duration or until you cast this spell again. The thought strand appears in an unoccupied space within 5 feet of you as a Tiny, weightless, semisolid object that can be held and carried like a ribbon. It is otherwise stationary.\n\nIf you cast this spell while concentrating on a spell or an ability that allows you to read or manipulate the thoughts of others (such as detect thoughts or modify memory), you can transform the thoughts or memories you read, rather than your own, into a thought strand.\n\nCasting this spell while holding a thought strand allows you to instantly receive whatever memory, idea, or message the thought strand contains. (Casting detect thoughts on the strand has the same effect.)",
-    "classes": ["None"],
+    "classes": [],
     "tags": ["action", "communication", "detection", "knowledge", "memory", "mind-affecting", "object-target", "self", "somatic", "utility"]
   },
   {
+    "slug": "fire-bolt",
     "name": "Fire Bolt",
     "src": "https://dnd5e.wikidot.com/spell:fire-bolt",
     "school": "Evocation",
@@ -304,6 +311,7 @@
     ]
   },
   {
+    "slug": "friends",
     "name": "Friends",
     "src": "https://dnd5e.wikidot.com/spell:friends",
     "school": "Enchantment",
@@ -339,6 +347,7 @@
     ]
   },
   {
+    "slug": "frostbite",
     "name": "Frostbite",
     "src": "https://dnd5e.wikidot.com/spell:frostbite",
     "school": "Evocation",
@@ -373,6 +382,7 @@
     ]
   },
   {
+    "slug": "green-flame-blade",
     "name": "Green-Flame Blade",
     "src": "https://dnd5e.wikidot.com/spell:green-flame-blade",
     "school": "Evocation",
@@ -409,6 +419,7 @@
     ]
   },
   {
+    "slug": "guidance",
     "name": "Guidance",
     "src": "https://dnd5e.wikidot.com/spell:guidance",
     "school": "Divination",
@@ -436,10 +447,10 @@
       "utility",
       "verbal",
       "willing-only"
-    ],
-    "group": "Bénédiction"
+    ]
   },
   {
+    "slug": "gust",
     "name": "Gust",
     "src": "https://dnd5e.wikidot.com/spell:gust",
     "school": "Transmutation",
@@ -457,6 +468,7 @@
     "tags": ["action", "arcane", "creature-target", "forced-movement", "object-target", "save-str", "saving-throw", "somatic", "utility", "verbal"]
   },
   {
+    "slug": "infestation",
     "name": "Infestation",
     "src": "https://dnd5e.wikidot.com/spell:infestation",
     "school": "Conjuration",
@@ -489,6 +501,7 @@
     ]
   },
   {
+    "slug": "light",
     "name": "Light",
     "src": "https://dnd5e.wikidot.com/spell:light",
     "school": "Evocation",
@@ -519,10 +532,10 @@
       "unwilling-ok",
       "utility",
       "verbal"
-    ],
-    "group": "Lumière"
+    ]
   },
   {
+    "slug": "lightning-lure",
     "name": "Lightning Lure",
     "src": "https://dnd5e.wikidot.com/spell:lightning-lure",
     "school": "Evocation",
@@ -557,6 +570,7 @@
     ]
   },
   {
+    "slug": "mage-hand",
     "name": "Mage Hand",
     "src": "https://dnd5e.wikidot.com/spell:mage-hand",
     "school": "Conjuration",
@@ -574,6 +588,7 @@
     "tags": ["action", "arcane", "object-target", "somatic", "utility", "verbal"]
   },
   {
+    "slug": "magic-stone",
     "name": "Magic Stone",
     "src": "https://dnd5e.wikidot.com/spell:magic-stone",
     "school": "Transmutation",
@@ -604,6 +619,7 @@
     ]
   },
   {
+    "slug": "mending",
     "name": "Mending",
     "src": "https://dnd5e.wikidot.com/spell:mending",
     "school": "Transmutation",
@@ -618,10 +634,10 @@
     "verbal": true,
     "description": "This spell repairs a single break or tear in an object you touch, such as a broken chain link, two halves of a broken key, a torn cloak, or a leaking wineskin. As long as the break or tear is no larger than 1 foot in any dimension, you mend it, leaving no trace of the former damage.\n\nThis spell can physically repair a magic item or construct, but the spell can't restore magic to such an object.",
     "classes": ["Artificer", "Bard", "Cleric", "Druid", "Sorcerer", "Wizard"],
-    "tags": ["arcane", "healing", "longer-casting", "material-component", "object-target", "somatic", "support", "touch", "verbal", "vs-construct"],
-    "group": "Arts féériques / Prestidigitation / Thaumaturgie"
+    "tags": ["arcane", "healing", "longer-casting", "material-component", "object-target", "somatic", "support", "touch", "verbal", "vs-construct"]
   },
   {
+    "slug": "message",
     "name": "Message",
     "src": "https://dnd5e.wikidot.com/spell:message",
     "school": "Transmutation",
@@ -652,6 +668,7 @@
     ]
   },
   {
+    "slug": "mind-sliver",
     "name": "Mind Sliver",
     "src": "https://dnd5e.wikidot.com/spell:mind-sliver",
     "school": "Enchantment",
@@ -679,10 +696,10 @@
       "single-target",
       "upcastable",
       "verbal"
-    ],
-    "group": "Éclat mental"
+    ]
   },
   {
+    "slug": "minor-illusion",
     "name": "Minor Illusion",
     "src": "https://dnd5e.wikidot.com/spell:minor-illusion",
     "school": "Illusion",
@@ -710,10 +727,10 @@
       "somatic",
       "unwilling-ok",
       "utility"
-    ],
-    "group": "Hallucination"
+    ]
   },
   {
+    "slug": "mold-earth",
     "name": "Mold Earth",
     "src": "https://dnd5e.wikidot.com/spell:mold-earth",
     "school": "Transmutation",
@@ -731,6 +748,7 @@
     "tags": ["action", "arcane", "area", "area-denial", "cube", "multi-target", "nature", "somatic", "terrain", "unwilling-ok", "utility"]
   },
   {
+    "slug": "poison-spray",
     "name": "Poison Spray",
     "src": "https://dnd5e.wikidot.com/spell:poison-spray",
     "school": "Conjuration",
@@ -759,10 +777,10 @@
       "somatic",
       "upcastable",
       "verbal"
-    ],
-    "group": "Souffle du serpent"
+    ]
   },
   {
+    "slug": "prestidigitation",
     "name": "Prestidigitation",
     "src": "https://dnd5e.wikidot.com/spell:prestidigitation",
     "school": "Transmutation",
@@ -777,10 +795,10 @@
     "verbal": true,
     "description": "This spell is a minor magical trick that novice spellcasters use for practice. You create one of the following magical effects within range:\n\nYou create an instantaneous, harmless sensory effect, such as a shower of sparks, a puff of wind, faint musical notes, or an odd odor.\n\nYou instantaneously light or snuff out a candle, a torch, or a small campfire.\n\nYou instantaneously clean or soil an object no larger than 1 cubic foot.\n\nYou chill, warm, or flavor up to 1 cubic foot of nonliving material for 1 hour.\n\nYou make a color, a small mark, or a symbol appear on an object or a surface for 1 hour.\n\nYou create a nonmagical trinket or an illusory image that can fit in your hand and that lasts until the end of your next turn.\n\nIf you cast this spell multiple times, you can have up to three of its non-instantaneous effects active at a time, and you can dismiss such an effect as an action.",
     "classes": ["Artificer", "Bard", "Sorcerer", "Warlock", "Wizard"],
-    "tags": ["action", "arcane", "illusion-image", "object-target", "somatic", "trap", "utility", "verbal"],
-    "group": "Prestidigitation"
+    "tags": ["action", "arcane", "illusion-image", "object-target", "somatic", "trap", "utility", "verbal"]
   },
   {
+    "slug": "primal-savagery",
     "name": "Primal Savagery",
     "src": "https://dnd5e.wikidot.com/spell:primal-savagery",
     "school": "Transmutation",
@@ -810,6 +828,7 @@
     ]
   },
   {
+    "slug": "produce-flame",
     "name": "Produce Flame",
     "src": "https://dnd5e.wikidot.com/spell:produce-flame",
     "school": "Conjuration",
@@ -844,6 +863,7 @@
     ]
   },
   {
+    "slug": "ray-of-frost",
     "name": "Ray of Frost",
     "src": "https://dnd5e.wikidot.com/spell:ray-of-frost",
     "school": "Evocation",
@@ -878,6 +898,7 @@
     ]
   },
   {
+    "slug": "resistance",
     "name": "Resistance",
     "src": "https://dnd5e.wikidot.com/spell:resistance",
     "school": "Abjuration",
@@ -906,10 +927,10 @@
       "utility",
       "verbal",
       "willing-only"
-    ],
-    "group": "Résistance élémentaire"
+    ]
   },
   {
+    "slug": "sacred-flame",
     "name": "Sacred Flame",
     "src": "https://dnd5e.wikidot.com/spell:sacred-flame",
     "school": "Evocation",
@@ -937,10 +958,10 @@
       "somatic",
       "upcastable",
       "verbal"
-    ],
-    "group": "Flamme sacrée"
+    ]
   },
   {
+    "slug": "sapping-sting",
     "name": "Sapping Sting",
     "src": "https://dnd5e.wikidot.com/spell:sapping-sting",
     "school": "Necromancy",
@@ -971,10 +992,10 @@
       "somatic",
       "upcastable",
       "verbal"
-    ],
-    "group": "Frisson"
+    ]
   },
   {
+    "slug": "shape-water",
     "name": "Shape Water",
     "src": "https://dnd5e.wikidot.com/spell:shape-water",
     "school": "Transmutation",
@@ -992,6 +1013,7 @@
     "tags": ["action", "arcane", "area", "cold-freeze", "creature-target", "cube", "multi-target", "somatic", "unwilling-ok", "utility"]
   },
   {
+    "slug": "shillelagh",
     "name": "Shillelagh",
     "src": "https://dnd5e.wikidot.com/spell:shillelagh",
     "school": "Transmutation",
@@ -1006,10 +1028,10 @@
     "verbal": true,
     "description": "The wood of a club or quarterstaff you are holding is imbued with nature's power. For the duration, you can use your spellcasting ability instead of Strength for the attack and damage rolls of melee attacks using that weapon, and the weapon's damage die becomes a d8. The weapon also becomes magical, if it isn't already. The spell ends if you cast it again or if you let go of the weapon.",
     "classes": ["Druid"],
-    "tags": ["bonus-action", "material-component", "somatic", "touch", "utility", "verbal"],
-    "group": "Arts féériques"
+    "tags": ["bonus-action", "material-component", "somatic", "touch", "utility", "verbal"]
   },
   {
+    "slug": "shocking-grasp",
     "name": "Shocking Grasp",
     "src": "https://dnd5e.wikidot.com/spell:shocking-grasp",
     "school": "Evocation",
@@ -1043,6 +1065,7 @@
     ]
   },
   {
+    "slug": "spare-the-dying",
     "name": "Spare the Dying",
     "src": "https://dnd5e.wikidot.com/spell:spare-the-dying",
     "school": "Necromancy",
@@ -1057,10 +1080,10 @@
     "verbal": true,
     "description": "You touch a living creature that has 0 hit points. The creature becomes stable. This spell has no effect on undead or constructs.",
     "classes": ["Artificer", "Cleric"],
-    "tags": ["action", "arcane", "creature-target", "somatic", "touch", "utility", "verbal", "vs-construct", "vs-undead"],
-    "group": "Préservation"
+    "tags": ["action", "arcane", "creature-target", "somatic", "touch", "utility", "verbal", "vs-construct", "vs-undead"]
   },
   {
+    "slug": "sword-burst",
     "name": "Sword Burst",
     "src": "https://dnd5e.wikidot.com/spell:sword-burst",
     "school": "Conjuration",
@@ -1094,6 +1117,7 @@
     ]
   },
   {
+    "slug": "thaumaturgy",
     "name": "Thaumaturgy",
     "src": "https://dnd5e.wikidot.com/spell:thaumaturgy",
     "school": "Transmutation",
@@ -1108,10 +1132,10 @@
     "verbal": true,
     "description": "You manifest a minor wonder, a sign of supernatural power, within range. You create one of the following magical effects within range:\n\nYour voice booms up to three times as loud as normal for 1 minute.\n\nYou cause flames to flicker, brighten, dim, or change color for 1 minute.\n\nYou cause harmless tremors in the ground for 1 minute.\n\nYou create an instantaneous sound that originates from a point of your choice within range, such as a rumble of thunder, the cry of a raven, or ominous whispers.\n\nYou instantaneously cause an unlocked door or window to fly open or slam shut.\n\nYou alter the appearance of your eyes for 1 minute.\n\nIf you cast this spell multiple times, you can have up to three of its 1-minute effects active at a time, and you can dismiss such an effect as an action.",
     "classes": ["Cleric"],
-    "tags": ["action", "sound", "utility", "verbal"],
-    "group": "Thaumaturgie"
+    "tags": ["action", "sound", "utility", "verbal"]
   },
   {
+    "slug": "thorn-whip",
     "name": "Thorn Whip",
     "src": "https://dnd5e.wikidot.com/spell:thorn-whip",
     "school": "Transmutation",
@@ -1140,10 +1164,10 @@
       "spell-attack",
       "upcastable",
       "verbal"
-    ],
-    "group": "Vignes épineuses"
+    ]
   },
   {
+    "slug": "thunderclap",
     "name": "Thunderclap",
     "src": "https://dnd5e.wikidot.com/spell:thunderclap",
     "school": "Evocation",
@@ -1178,6 +1202,7 @@
     ]
   },
   {
+    "slug": "toll-the-dead",
     "name": "Toll the Dead",
     "src": "https://dnd5e.wikidot.com/spell:toll-the-dead",
     "school": "Necromancy",
@@ -1205,10 +1230,10 @@
       "somatic",
       "upcastable",
       "verbal"
-    ],
-    "group": "Thaumaturgie"
+    ]
   },
   {
+    "slug": "true-strike",
     "name": "True Strike",
     "src": "https://dnd5e.wikidot.com/spell:true-strike",
     "school": "Divination",
@@ -1223,10 +1248,10 @@
     "verbal": false,
     "description": "You extend your hand and point a finger at a target in range. Your magic grants you a brief insight into the target's defenses. On your next turn, you gain advantage on your first attack roll against the target, provided that this spell hasn't ended.",
     "classes": ["Bard", "Sorcerer", "Warlock", "Wizard"],
-    "tags": ["action", "advantage", "arcane", "buff", "concentration", "knowledge", "single-target", "somatic", "support", "sustained"],
-    "group": "Frappe véritable"
+    "tags": ["action", "advantage", "arcane", "buff", "concentration", "knowledge", "single-target", "somatic", "support", "sustained"]
   },
   {
+    "slug": "vicious-mockery",
     "name": "Vicious Mockery",
     "src": "https://dnd5e.wikidot.com/spell:vicious-mockery",
     "school": "Enchantment",
@@ -1256,10 +1281,10 @@
       "single-target",
       "upcastable",
       "verbal"
-    ],
-    "group": "Éclat mental"
+    ]
   },
   {
+    "slug": "word-of-radiance",
     "name": "Word of Radiance",
     "src": "https://dnd5e.wikidot.com/spell:word-of-radiance",
     "school": "Evocation",
@@ -1289,10 +1314,10 @@
       "unwilling-ok",
       "upcastable",
       "verbal"
-    ],
-    "group": "Lumière"
+    ]
   },
   {
+    "slug": "absorb-elements",
     "name": "Absorb Elements",
     "src": "https://dnd5e.wikidot.com/spell:absorb-elements",
     "school": "Abjuration",
@@ -1322,10 +1347,10 @@
       "sound",
       "spell-absorption",
       "upcastable"
-    ],
-    "group": "Résistance élémentaire"
+    ]
   },
   {
+    "slug": "alarm",
     "name": "Alarm",
     "src": "https://dnd5e.wikidot.com/spell:alarm",
     "school": "Abjuration",
@@ -1355,10 +1380,10 @@
       "unwilling-ok",
       "utility",
       "verbal"
-    ],
-    "group": "Interdiction"
+    ]
   },
   {
+    "slug": "animal-friendship",
     "name": "Animal Friendship",
     "src": "https://dnd5e.wikidot.com/spell:animal-friendship",
     "school": "Enchantment",
@@ -1394,6 +1419,7 @@
     ]
   },
   {
+    "slug": "armor-of-agathys",
     "name": "Armor of Agathys",
     "src": "https://dnd5e.wikidot.com/spell:armor-of-agathys",
     "school": "Abjuration",
@@ -1428,6 +1454,7 @@
     ]
   },
   {
+    "slug": "arms-of-hadar",
     "name": "Arms of Hadar",
     "src": "https://dnd5e.wikidot.com/spell:arms-of-hadar",
     "school": "Conjuration",
@@ -1462,6 +1489,7 @@
     ]
   },
   {
+    "slug": "bane",
     "name": "Bane",
     "src": "https://dnd5e.wikidot.com/spell:bane",
     "school": "Enchantment",
@@ -1492,10 +1520,10 @@
       "upcastable",
       "utility",
       "verbal"
-    ],
-    "group": "Bénédiction"
+    ]
   },
   {
+    "slug": "beast-bond",
     "name": "Beast Bond",
     "src": "https://dnd5e.wikidot.com/spell:beast-bond",
     "school": "Divination",
@@ -1537,6 +1565,7 @@
     ]
   },
   {
+    "slug": "bless",
     "name": "Bless",
     "src": "https://dnd5e.wikidot.com/spell:bless",
     "school": "Enchantment",
@@ -1566,10 +1595,10 @@
       "upcastable",
       "utility",
       "verbal"
-    ],
-    "group": "Bénédiction"
+    ]
   },
   {
+    "slug": "burning-hands",
     "name": "Burning Hands",
     "src": "https://dnd5e.wikidot.com/spell:burning-hands",
     "school": "Evocation",
@@ -1606,6 +1635,7 @@
     ]
   },
   {
+    "slug": "catapult",
     "name": "Catapult",
     "src": "https://dnd5e.wikidot.com/spell:catapult",
     "school": "Transmutation",
@@ -1634,10 +1664,10 @@
       "single-target",
       "somatic",
       "upcastable"
-    ],
-    "group": "Prestidigitation"
+    ]
   },
   {
+    "slug": "cause-fear",
     "name": "Cause Fear",
     "src": "https://dnd5e.wikidot.com/spell:cause-fear",
     "school": "Necromancy",
@@ -1674,10 +1704,10 @@
       "verbal",
       "vs-construct",
       "vs-undead"
-    ],
-    "group": "Frisson"
+    ]
   },
   {
+    "slug": "ceremony",
     "name": "Ceremony",
     "src": "https://dnd5e.wikidot.com/spell:ceremony",
     "school": "Abjuration",
@@ -1712,10 +1742,10 @@
       "verbal",
       "vs-undead",
       "willing-only"
-    ],
-    "group": "Thaumaturgie"
+    ]
   },
   {
+    "slug": "chaos-bolt",
     "name": "Chaos Bolt",
     "src": "https://dnd5e.wikidot.com/spell:chaos-bolt",
     "school": "Evocation",
@@ -1745,6 +1775,7 @@
     ]
   },
   {
+    "slug": "charm-person",
     "name": "Charm Person",
     "src": "https://dnd5e.wikidot.com/spell:charm-person",
     "school": "Enchantment",
@@ -1777,6 +1808,7 @@
     ]
   },
   {
+    "slug": "chromatic-orb",
     "name": "Chromatic Orb",
     "src": "https://dnd5e.wikidot.com/spell:chromatic-orb",
     "school": "Evocation",
@@ -1811,6 +1843,7 @@
     ]
   },
   {
+    "slug": "color-spray",
     "name": "Color Spray",
     "src": "https://dnd5e.wikidot.com/spell:color-spray",
     "school": "Illusion",
@@ -1847,6 +1880,7 @@
     ]
   },
   {
+    "slug": "command",
     "name": "Command",
     "src": "https://dnd5e.wikidot.com/spell:command",
     "school": "Enchantment",
@@ -1880,6 +1914,7 @@
     ]
   },
   {
+    "slug": "compelled-duel",
     "name": "Compelled Duel",
     "src": "https://dnd5e.wikidot.com/spell:compelled-duel",
     "school": "Enchantment",
@@ -1912,6 +1947,7 @@
     ]
   },
   {
+    "slug": "comprehend-languages",
     "name": "Comprehend Languages",
     "src": "https://dnd5e.wikidot.com/spell:comprehend-languages",
     "school": "Divination",
@@ -1939,10 +1975,10 @@
       "somatic",
       "utility",
       "verbal"
-    ],
-    "group": "Compréhension linguistique"
+    ]
   },
   {
+    "slug": "create-or-destroy-water",
     "name": "Create or Destroy Water",
     "src": "https://dnd5e.wikidot.com/spell:create-or-destroy-water",
     "school": "Transmutation",
@@ -1974,6 +2010,7 @@
     ]
   },
   {
+    "slug": "cure-wounds",
     "name": "Cure Wounds",
     "src": "https://dnd5e.wikidot.com/spell:cure-wounds",
     "school": "Evocation",
@@ -2001,10 +2038,10 @@
       "verbal",
       "vs-construct",
       "vs-undead"
-    ],
-    "group": "Guérison"
+    ]
   },
   {
+    "slug": "detect-evil-and-good",
     "name": "Detect Evil and Good",
     "src": "https://dnd5e.wikidot.com/spell:detect-evil-and-good",
     "school": "Divination",
@@ -2037,10 +2074,10 @@
       "vs-celestial",
       "vs-fiend",
       "vs-undead"
-    ],
-    "group": "Protection contre le bien et le mal"
+    ]
   },
   {
+    "slug": "detect-magic",
     "name": "Detect Magic",
     "src": "https://dnd5e.wikidot.com/spell:detect-magic",
     "school": "Divination",
@@ -2069,10 +2106,10 @@
       "sustained",
       "utility",
       "verbal"
-    ],
-    "group": "Protection contre la magie"
+    ]
   },
   {
+    "slug": "detect-poison-and-disease",
     "name": "Detect Poison and Disease",
     "src": "https://dnd5e.wikidot.com/spell:detect-poison-and-disease",
     "school": "Divination",
@@ -2102,10 +2139,10 @@
       "sustained",
       "utility",
       "verbal"
-    ],
-    "group": "Protection contre les poisons et maladies"
+    ]
   },
   {
+    "slug": "disguise-self",
     "name": "Disguise Self",
     "src": "https://dnd5e.wikidot.com/spell:disguise-self",
     "school": "Illusion",
@@ -2136,6 +2173,7 @@
     ]
   },
   {
+    "slug": "dissonant-whispers",
     "name": "Dissonant Whispers",
     "src": "https://dnd5e.wikidot.com/spell:dissonant-whispers",
     "school": "Enchantment",
@@ -2166,10 +2204,10 @@
       "sound",
       "upcastable",
       "verbal"
-    ],
-    "group": "Éclat mental"
+    ]
   },
   {
+    "slug": "distort-value",
     "name": "Distort Value",
     "src": "https://dnd5e.wikidot.com/spell:distort-value",
     "school": "Illusion",
@@ -2187,6 +2225,7 @@
     "tags": ["arcane", "illusion-image", "longer-casting", "object-target", "touch", "upcastable", "utility", "verbal"]
   },
   {
+    "slug": "divine-favor",
     "name": "Divine Favor",
     "src": "https://dnd5e.wikidot.com/spell:divine-favor",
     "school": "Evocation",
@@ -2204,6 +2243,7 @@
     "tags": ["bonus-action", "combat", "concentration", "damage", "damage-radiant", "divine", "self", "somatic", "sustained", "verbal"]
   },
   {
+    "slug": "earth-tremor",
     "name": "Earth Tremor",
     "src": "https://dnd5e.wikidot.com/spell:earth-tremor",
     "school": "Evocation",
@@ -2244,6 +2284,7 @@
     ]
   },
   {
+    "slug": "ensnaring-strike",
     "name": "Ensnaring Strike",
     "src": "https://dnd5e.wikidot.com/spell:ensnaring-strike",
     "school": "Conjuration",
@@ -2278,10 +2319,10 @@
       "upcastable",
       "verbal",
       "weapon-attack"
-    ],
-    "group": "Vignes épineuses"
+    ]
   },
   {
+    "slug": "entangle",
     "name": "Entangle",
     "src": "https://dnd5e.wikidot.com/spell:entangle",
     "school": "Conjuration",
@@ -2313,10 +2354,10 @@
       "sustained",
       "terrain",
       "verbal"
-    ],
-    "group": "Vignes épineuses"
+    ]
   },
   {
+    "slug": "expeditious-retreat",
     "name": "Expeditious Retreat",
     "src": "https://dnd5e.wikidot.com/spell:expeditious-retreat",
     "school": "Transmutation",
@@ -2331,10 +2372,10 @@
     "verbal": true,
     "description": "This spell allows you to move at an incredible pace. When you cast this spell, and then as a bonus action on each of your turns until the spell ends, you can take the Dash action.",
     "classes": ["Artificer", "Sorcerer", "Warlock", "Wizard"],
-    "tags": ["arcane", "bonus-action", "concentration", "exploration", "self", "somatic", "sustained", "utility", "verbal"],
-    "group": "N/A"
+    "tags": ["arcane", "bonus-action", "concentration", "exploration", "self", "somatic", "sustained", "utility", "verbal"]
   },
   {
+    "slug": "faerie-fire",
     "name": "Faerie Fire",
     "src": "https://dnd5e.wikidot.com/spell:faerie-fire",
     "school": "Evocation",
@@ -2368,10 +2409,10 @@
       "sustained",
       "unwilling-ok",
       "verbal"
-    ],
-    "group": "Lueurs féériques"
+    ]
   },
   {
+    "slug": "false-life",
     "name": "False Life",
     "src": "https://dnd5e.wikidot.com/spell:false-life",
     "school": "Necromancy",
@@ -2386,10 +2427,10 @@
     "verbal": true,
     "description": "Bolstering yourself with a necromantic facsimile of life, you gain 1d4 + 4 temporary hit points for the duration.\n\n**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you gain 5 additional temporary hit points for each slot level above 1st.",
     "classes": ["Artificer", "Sorcerer", "Wizard"],
-    "tags": ["action", "arcane", "buff", "material-component", "self", "somatic", "support", "temporary-hit-points", "upcastable", "verbal"],
-    "group": "Toucher vampirique"
+    "tags": ["action", "arcane", "buff", "material-component", "self", "somatic", "support", "temporary-hit-points", "upcastable", "verbal"]
   },
   {
+    "slug": "feather-fall",
     "name": "Feather Fall",
     "src": "https://dnd5e.wikidot.com/spell:feather-fall",
     "school": "Transmutation",
@@ -2407,6 +2448,7 @@
     "tags": ["arcane", "creature-target", "material-component", "multi-target", "reaction", "unwilling-ok", "utility", "verbal"]
   },
   {
+    "slug": "find-familiar",
     "name": "Find Familiar",
     "src": "https://dnd5e.wikidot.com/spell:find-familiar",
     "school": "Conjuration",
@@ -2448,6 +2490,7 @@
     ]
   },
   {
+    "slug": "fog-cloud",
     "name": "Fog Cloud",
     "src": "https://dnd5e.wikidot.com/spell:fog-cloud",
     "school": "Conjuration",
@@ -2480,6 +2523,7 @@
     ]
   },
   {
+    "slug": "frost-fingers",
     "name": "Frost Fingers",
     "src": "https://dnd5e.wikidot.com/spell:frost-fingers",
     "school": "Evocation",
@@ -2516,6 +2560,7 @@
     ]
   },
   {
+    "slug": "gift-of-alacrity",
     "name": "Gift of Alacrity",
     "src": "https://dnd5e.wikidot.com/spell:gift-of-alacrity",
     "school": "Divination",
@@ -2530,10 +2575,10 @@
     "verbal": true,
     "description": "You touch a willing creature. For the duration, the target can add 1d8 to its initiative rolls.",
     "classes": ["Wizard"],
-    "tags": ["arcane", "creature-target", "dunamancy", "knowledge", "longer-casting", "single-target", "somatic", "touch", "utility", "verbal", "willing-only"],
-    "group": "Conscience éveillée (cannot be surprised)"
+    "tags": ["arcane", "creature-target", "dunamancy", "knowledge", "longer-casting", "single-target", "somatic", "touch", "utility", "verbal", "willing-only"]
   },
   {
+    "slug": "goodberry",
     "name": "Goodberry",
     "src": "https://dnd5e.wikidot.com/spell:goodberry",
     "school": "Transmutation",
@@ -2548,10 +2593,10 @@
     "verbal": true,
     "description": "Up to ten berries appear in your hand and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day.\n\nThe berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.",
     "classes": ["Druid", "Ranger"],
-    "tags": ["action", "creature-target", "material-component", "single-target", "somatic", "touch", "utility", "verbal"],
-    "group": "N/A"
+    "tags": ["action", "creature-target", "material-component", "single-target", "somatic", "touch", "utility", "verbal"]
   },
   {
+    "slug": "grease",
     "name": "Grease",
     "src": "https://dnd5e.wikidot.com/spell:grease",
     "school": "Conjuration",
@@ -2586,6 +2631,7 @@
     ]
   },
   {
+    "slug": "guiding-bolt",
     "name": "Guiding Bolt",
     "src": "https://dnd5e.wikidot.com/spell:guiding-bolt",
     "school": "Evocation",
@@ -2614,10 +2660,10 @@
       "spell-attack",
       "upcastable",
       "verbal"
-    ],
-    "group": "Flamme sacrée"
+    ]
   },
   {
+    "slug": "hail-of-thorns",
     "name": "Hail of Thorns",
     "src": "https://dnd5e.wikidot.com/spell:hail-of-thorns",
     "school": "Conjuration",
@@ -2649,10 +2695,10 @@
       "upcastable",
       "verbal",
       "weapon-attack"
-    ],
-    "group": "Vignes épineuses"
+    ]
   },
   {
+    "slug": "healing-word",
     "name": "Healing Word",
     "src": "https://dnd5e.wikidot.com/spell:healing-word",
     "school": "Evocation",
@@ -2667,10 +2713,10 @@
     "verbal": true,
     "description": "A creature of your choice that you can see within range regains hit points equal to 1d4 + your spellcasting ability modifier. This spell has no effect on undead or constructs.\n\n**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the healing increases by 1d4 for each slot level above 1st.",
     "classes": ["Bard", "Cleric", "Druid"],
-    "tags": ["arcane", "bonus-action", "creature-target", "healing", "single-target", "support", "upcastable", "verbal", "vs-construct", "vs-undead"],
-    "group": "Guérison"
+    "tags": ["arcane", "bonus-action", "creature-target", "healing", "single-target", "support", "upcastable", "verbal", "vs-construct", "vs-undead"]
   },
   {
+    "slug": "hellish-rebuke",
     "name": "Hellish Rebuke",
     "src": "https://dnd5e.wikidot.com/spell:hellish-rebuke",
     "school": "Evocation",
@@ -2702,6 +2748,7 @@
     ]
   },
   {
+    "slug": "heroism",
     "name": "Heroism",
     "src": "https://dnd5e.wikidot.com/spell:heroism",
     "school": "Enchantment",
@@ -2742,6 +2789,7 @@
     ]
   },
   {
+    "slug": "hex",
     "name": "Hex",
     "src": "https://dnd5e.wikidot.com/spell:hex",
     "school": "Enchantment",
@@ -2776,10 +2824,10 @@
       "sustained",
       "upcastable",
       "verbal"
-    ],
-    "group": "Calamité"
+    ]
   },
   {
+    "slug": "hunters-mark",
     "name": "Hunter's Mark",
     "src": "https://dnd5e.wikidot.com/spell:hunters-mark",
     "school": "Divination",
@@ -2808,10 +2856,10 @@
       "upcastable",
       "verbal",
       "weapon-attack"
-    ],
-    "group": "Frappe véritable"
+    ]
   },
   {
+    "slug": "ice-knife",
     "name": "Ice Knife",
     "src": "https://dnd5e.wikidot.com/spell:ice-knife",
     "school": "Conjuration",
@@ -2847,6 +2895,7 @@
     ]
   },
   {
+    "slug": "identify",
     "name": "Identify",
     "src": "https://dnd5e.wikidot.com/spell:identify",
     "school": "Divination",
@@ -2876,10 +2925,10 @@
       "touch",
       "utility",
       "verbal"
-    ],
-    "group": "Cognition"
+    ]
   },
   {
+    "slug": "illusory-script",
     "name": "Illusory Script",
     "src": "https://dnd5e.wikidot.com/spell:illusory-script",
     "school": "Illusion",
@@ -2915,6 +2964,7 @@
     ]
   },
   {
+    "slug": "inflict-wounds",
     "name": "Inflict Wounds",
     "src": "https://dnd5e.wikidot.com/spell:inflict-wounds",
     "school": "Necromancy",
@@ -2942,10 +2992,10 @@
       "touch",
       "upcastable",
       "verbal"
-    ],
-    "group": "Toucher vampirique"
+    ]
   },
   {
+    "slug": "jims-magic-missile",
     "name": "Jim's Magic Missile",
     "src": "https://dnd5e.wikidot.com/spell:jims-magic-missile",
     "school": "Evocation",
@@ -2978,6 +3028,7 @@
     ]
   },
   {
+    "slug": "jump",
     "name": "Jump",
     "src": "https://dnd5e.wikidot.com/spell:jump",
     "school": "Transmutation",
@@ -2992,10 +3043,10 @@
     "verbal": true,
     "description": "You touch a creature. The creature's jump distance is tripled until the spell ends.",
     "classes": ["Artificer", "Druid", "Ranger", "Sorcerer", "Wizard"],
-    "tags": ["action", "arcane", "creature-target", "material-component", "single-target", "somatic", "touch", "utility", "verbal"],
-    "group": "Liberté"
+    "tags": ["action", "arcane", "creature-target", "material-component", "single-target", "somatic", "touch", "utility", "verbal"]
   },
   {
+    "slug": "longstrider",
     "name": "Longstrider",
     "src": "https://dnd5e.wikidot.com/spell:longstrider",
     "school": "Transmutation",
@@ -3024,10 +3075,10 @@
       "touch",
       "upcastable",
       "verbal"
-    ],
-    "group": "Liberté"
+    ]
   },
   {
+    "slug": "mage-armor",
     "name": "Mage Armor",
     "src": "https://dnd5e.wikidot.com/spell:mage-armor",
     "school": "Abjuration",
@@ -3056,10 +3107,10 @@
       "touch",
       "verbal",
       "willing-only"
-    ],
-    "group": "Armure magique"
+    ]
   },
   {
+    "slug": "magic-missile",
     "name": "Magic Missile",
     "src": "https://dnd5e.wikidot.com/spell:magic-missile",
     "school": "Evocation",
@@ -3077,6 +3128,7 @@
     "tags": ["action", "arcane", "combat", "creature-target", "damage", "damage-force", "single-target", "somatic", "upcastable", "verbal"]
   },
   {
+    "slug": "magnify-gravity",
     "name": "Magnify Gravity",
     "src": "https://dnd5e.wikidot.com/spell:magnify-gravity",
     "school": "Transmutation",
@@ -3112,6 +3164,7 @@
     ]
   },
   {
+    "slug": "protection-from-evil-and-good",
     "name": "Protection from Evil and Good",
     "src": "https://dnd5e.wikidot.com/spell:protection-from-evil-and-good",
     "school": "Abjuration",
@@ -3156,10 +3209,10 @@
       "verbal",
       "vs-undead",
       "willing-only"
-    ],
-    "group": "Protection contre le bien et le mal"
+    ]
   },
   {
+    "slug": "purify-food-and-drink",
     "name": "Purify Food and Drink",
     "src": "https://dnd5e.wikidot.com/spell:purify-food-and-drink",
     "school": "Transmutation",
@@ -3174,10 +3227,10 @@
     "verbal": true,
     "description": "All nonmagical food and drink within a 5-foot-radius sphere centered on a point of your choice within range is purified and rendered free of poison and disease.",
     "classes": ["Artificer", "Cleric", "Druid", "Paladin"],
-    "tags": ["action", "arcane", "area", "disease", "multi-target", "ritual", "ritual-utility", "somatic", "sphere", "unwilling-ok", "utility", "verbal"],
-    "group": "Protection contre les poisons et maladies"
+    "tags": ["action", "arcane", "area", "disease", "multi-target", "ritual", "ritual-utility", "somatic", "sphere", "unwilling-ok", "utility", "verbal"]
   },
   {
+    "slug": "ray-of-sickness",
     "name": "Ray of Sickness",
     "src": "https://dnd5e.wikidot.com/spell:ray-of-sickness",
     "school": "Necromancy",
@@ -3210,10 +3263,10 @@
       "spell-attack",
       "upcastable",
       "verbal"
-    ],
-    "group": "Affaiblissement"
+    ]
   },
   {
+    "slug": "sanctuary",
     "name": "Sanctuary",
     "src": "https://dnd5e.wikidot.com/spell:sanctuary",
     "school": "Abjuration",
@@ -3244,6 +3297,7 @@
     ]
   },
   {
+    "slug": "searing-smite",
     "name": "Searing Smite",
     "src": "https://dnd5e.wikidot.com/spell:searing-smite",
     "school": "Evocation",
@@ -3277,6 +3331,7 @@
     ]
   },
   {
+    "slug": "shield",
     "name": "Shield",
     "src": "https://dnd5e.wikidot.com/spell:shield",
     "school": "Abjuration",
@@ -3291,10 +3346,10 @@
     "verbal": true,
     "description": "An invisible barrier of magical force appears and protects you. Until the start of your next turn, you have a +5 bonus to AC, including against the triggering attack, and you take no damage from magic missile.",
     "classes": ["Sorcerer", "Wizard"],
-    "tags": ["ac-bonus", "arcane", "buff", "condition-invisible", "invisibility", "protection", "reaction", "self", "somatic", "support", "verbal"],
-    "group": "Armure magique"
+    "tags": ["ac-bonus", "arcane", "buff", "condition-invisible", "invisibility", "protection", "reaction", "self", "somatic", "support", "verbal"]
   },
   {
+    "slug": "shield-of-faith",
     "name": "Shield of Faith",
     "src": "https://dnd5e.wikidot.com/spell:shield-of-faith",
     "school": "Abjuration",
@@ -3327,6 +3382,7 @@
     ]
   },
   {
+    "slug": "silent-image",
     "name": "Silent Image",
     "src": "https://dnd5e.wikidot.com/spell:silent-image",
     "school": "Illusion",
@@ -3360,6 +3416,7 @@
     ]
   },
   {
+    "slug": "silvery-barbs",
     "name": "Silvery Barbs",
     "src": "https://dnd5e.wikidot.com/spell:silvery-barbs",
     "school": "Enchantment",
@@ -3374,10 +3431,10 @@
     "verbal": true,
     "description": "You magically distract the triggering creature and turn its momentary uncertainty into encouragement for another creature. The triggering creature must reroll the d20 and use the lower roll.\n\nYou can then choose a different creature you can see within range (you can choose yourself). The chosen creature has advantage on the next attack roll, ability check, or saving throw it makes within 1 minute. A creature can be empowered by only one use of this spell at a time.",
     "classes": ["Bard", "Sorcerer", "Wizard"],
-    "tags": ["advantage", "arcane", "buff", "creature-target", "mind-affecting", "reaction", "saving-throw", "single-target", "support", "verbal"],
-    "group": "Balancier (avec Pendulum)"
+    "tags": ["advantage", "arcane", "buff", "creature-target", "mind-affecting", "reaction", "saving-throw", "single-target", "support", "verbal"]
   },
   {
+    "slug": "sleep",
     "name": "Sleep",
     "src": "https://dnd5e.wikidot.com/spell:sleep",
     "school": "Enchantment",
@@ -3419,6 +3476,7 @@
     ]
   },
   {
+    "slug": "snare",
     "name": "Snare",
     "src": "https://dnd5e.wikidot.com/spell:snare",
     "school": "Abjuration",
@@ -3456,10 +3514,10 @@
       "touch",
       "trap",
       "unwilling-ok"
-    ],
-    "group": "Corde enchantée"
+    ]
   },
   {
+    "slug": "speak-with-animals",
     "name": "Speak with Animals",
     "src": "https://dnd5e.wikidot.com/spell:speak-with-animals",
     "school": "Divination",
@@ -3491,6 +3549,7 @@
     ]
   },
   {
+    "slug": "tashas-caustic-brew",
     "name": "Tasha's Caustic Brew",
     "src": "https://dnd5e.wikidot.com/spell:tashas-caustic-brew",
     "school": "Evocation",
@@ -3529,6 +3588,7 @@
     ]
   },
   {
+    "slug": "tashas-hideous-laughter",
     "name": "Tasha's Hideous Laughter",
     "src": "https://dnd5e.wikidot.com/spell:tashas-hideous-laughter",
     "school": "Enchantment",
@@ -3565,6 +3625,7 @@
     ]
   },
   {
+    "slug": "tensers-floating-disk",
     "name": "Tenser's Floating Disk",
     "src": "https://dnd5e.wikidot.com/spell:tensers-floating-disk",
     "school": "Conjuration",
@@ -3582,6 +3643,7 @@
     "tags": ["action", "arcane", "gravity", "material-component", "planar", "ritual", "ritual-utility", "somatic", "utility", "verbal"]
   },
   {
+    "slug": "thunderous-smite",
     "name": "Thunderous Smite",
     "src": "https://dnd5e.wikidot.com/spell:thunderous-smite",
     "school": "Evocation",
@@ -3617,6 +3679,7 @@
     ]
   },
   {
+    "slug": "thunderwave",
     "name": "Thunderwave",
     "src": "https://dnd5e.wikidot.com/spell:thunderwave",
     "school": "Evocation",
@@ -3653,6 +3716,7 @@
     ]
   },
   {
+    "slug": "unseen-servant",
     "name": "Unseen Servant",
     "src": "https://dnd5e.wikidot.com/spell:unseen-servant",
     "school": "Conjuration",
@@ -3682,6 +3746,7 @@
     ]
   },
   {
+    "slug": "witch-bolt",
     "name": "Witch Bolt",
     "src": "https://dnd5e.wikidot.com/spell:witch-bolt",
     "school": "Evocation",
@@ -3717,6 +3782,7 @@
     ]
   },
   {
+    "slug": "wrathful-smite",
     "name": "Wrathful Smite",
     "src": "https://dnd5e.wikidot.com/spell:wrathful-smite",
     "school": "Evocation",
@@ -3754,6 +3820,7 @@
     ]
   },
   {
+    "slug": "zephyr-strike",
     "name": "Zephyr Strike",
     "src": "https://dnd5e.wikidot.com/spell:zephyr-strike",
     "school": "Transmutation",
@@ -3785,6 +3852,7 @@
     ]
   },
   {
+    "slug": "aganazzars-scorcher",
     "name": "Aganazzar's Scorcher",
     "src": "https://dnd5e.wikidot.com/spell:aganazzars-scorcher",
     "school": "Evocation",
@@ -3821,6 +3889,7 @@
     ]
   },
   {
+    "slug": "aid",
     "name": "Aid",
     "src": "https://dnd5e.wikidot.com/spell:aid",
     "school": "Abjuration",
@@ -3835,10 +3904,10 @@
     "verbal": true,
     "description": "Your spell bolsters your allies with toughness and resolve. Choose up to three creatures within range. Each target's hit point maximum and current hit points increase by 5 for the duration.\n\n**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, a target's hit points increase by an additional 5 for each slot level above 2nd.",
     "classes": ["Artificer", "Bard", "Cleric", "Paladin", "Ranger"],
-    "tags": ["action", "arcane", "creature-target", "material-component", "multi-target", "somatic", "unwilling-ok", "upcastable", "utility", "verbal"],
-    "group": "Bénédiction"
+    "tags": ["action", "arcane", "creature-target", "material-component", "multi-target", "somatic", "unwilling-ok", "upcastable", "utility", "verbal"]
   },
   {
+    "slug": "air-bubble",
     "name": "Air Bubble",
     "src": "https://dnd5e.wikidot.com/spell:air-bubble",
     "school": "Conjuration",
@@ -3856,6 +3925,7 @@
     "tags": ["action", "arcane", "creature-target", "somatic", "upcastable", "utility", "willing-only"]
   },
   {
+    "slug": "alter-self",
     "name": "Alter Self",
     "src": "https://dnd5e.wikidot.com/spell:alter-self",
     "school": "Transmutation",
@@ -3891,10 +3961,10 @@
       "sustained",
       "swim",
       "verbal"
-    ],
-    "group": "Métamorphose"
+    ]
   },
   {
+    "slug": "animal-messenger",
     "name": "Animal Messenger",
     "src": "https://dnd5e.wikidot.com/spell:animal-messenger",
     "school": "Enchantment",
@@ -3928,6 +3998,7 @@
     ]
   },
   {
+    "slug": "arcane-lock",
     "name": "Arcane Lock",
     "src": "https://dnd5e.wikidot.com/spell:arcane-lock",
     "school": "Abjuration",
@@ -3954,10 +4025,10 @@
       "touch",
       "utility",
       "verbal"
-    ],
-    "group": "Interdiction"
+    ]
   },
   {
+    "slug": "augury",
     "name": "Augury",
     "src": "https://dnd5e.wikidot.com/spell:augury",
     "school": "Divination",
@@ -3985,10 +4056,10 @@
       "somatic",
       "utility",
       "verbal"
-    ],
-    "group": "Talent de tiers 1 pour tous les magiciens"
+    ]
   },
   {
+    "slug": "barkskin",
     "name": "Barkskin",
     "src": "https://dnd5e.wikidot.com/spell:barkskin",
     "school": "Transmutation",
@@ -4018,6 +4089,7 @@
     ]
   },
   {
+    "slug": "beast-sense",
     "name": "Beast Sense",
     "src": "https://dnd5e.wikidot.com/spell:beast-sense",
     "school": "Divination",
@@ -4035,6 +4107,7 @@
     "tags": ["action", "beast", "concentration", "knowledge", "nature", "ritual", "ritual-utility", "somatic", "sustained", "touch", "utility"]
   },
   {
+    "slug": "blindness-deafness",
     "name": "Blindness/Deafness",
     "src": "https://dnd5e.wikidot.com/spell:blindness-deafness",
     "school": "Necromancy",
@@ -4062,10 +4135,10 @@
       "sound",
       "upcastable",
       "verbal"
-    ],
-    "group": "Affaiblissement"
+    ]
   },
   {
+    "slug": "blur",
     "name": "Blur",
     "src": "https://dnd5e.wikidot.com/spell:blur",
     "school": "Illusion",
@@ -4098,10 +4171,10 @@
       "sustained",
       "true-sight",
       "verbal"
-    ],
-    "group": "Invisibilité"
+    ]
   },
   {
+    "slug": "borrowed-knowledge",
     "name": "Borrowed Knowledge",
     "src": "https://dnd5e.wikidot.com/spell:borrowed-knowledge",
     "school": "Divination",
@@ -4116,10 +4189,10 @@
     "verbal": true,
     "description": "You draw on knowledge from spirits of the past. Choose one skill in which you lack proficiency. For the spell's duration, you have proficiency in the chosen skill. The spell ends early if you cast it again.",
     "classes": ["Bard", "Cleric", "Warlock", "Wizard"],
-    "tags": ["action", "arcane", "costly-component", "knowledge", "material-component", "self", "somatic", "utility", "verbal"],
-    "group": "Cognition"
+    "tags": ["action", "arcane", "costly-component", "knowledge", "material-component", "self", "somatic", "utility", "verbal"]
   },
   {
+    "slug": "branding-smite",
     "name": "Branding Smite",
     "src": "https://dnd5e.wikidot.com/spell:branding-smite",
     "school": "Evocation",
@@ -4159,6 +4232,7 @@
     ]
   },
   {
+    "slug": "calm-emotions",
     "name": "Calm Emotions",
     "src": "https://dnd5e.wikidot.com/spell:calm-emotions",
     "school": "Enchantment",
@@ -4199,6 +4273,7 @@
     ]
   },
   {
+    "slug": "cloud-of-daggers",
     "name": "Cloud of Daggers",
     "src": "https://dnd5e.wikidot.com/spell:cloud-of-daggers",
     "school": "Conjuration",
@@ -4231,6 +4306,7 @@
     ]
   },
   {
+    "slug": "continual-flame",
     "name": "Continual Flame",
     "src": "https://dnd5e.wikidot.com/spell:continual-flame",
     "school": "Evocation",
@@ -4245,10 +4321,10 @@
     "verbal": true,
     "description": "A flame, equivalent in brightness to a torch, springs forth from an object that you touch. The effect looks like a regular flame, but it creates no heat and doesn't use oxygen. A continual flame can be covered or hidden but not smothered or quenched.",
     "classes": ["Artificer", "Cleric", "Druid", "Wizard"],
-    "tags": ["action", "arcane", "consumed-component", "costly-component", "material-component", "object-target", "somatic", "touch", "utility", "verbal"],
-    "group": "Dancing Lights / Continual Flame"
+    "tags": ["action", "arcane", "consumed-component", "costly-component", "material-component", "object-target", "somatic", "touch", "utility", "verbal"]
   },
   {
+    "slug": "cordon-of-arrows",
     "name": "Cordon of Arrows",
     "src": "https://dnd5e.wikidot.com/spell:cordon-of-arrows",
     "school": "Transmutation",
@@ -4279,6 +4355,7 @@
     ]
   },
   {
+    "slug": "crown-of-madness",
     "name": "Crown of Madness",
     "src": "https://dnd5e.wikidot.com/spell:crown-of-madness",
     "school": "Enchantment",
@@ -4313,6 +4390,7 @@
     ]
   },
   {
+    "slug": "darkness",
     "name": "Darkness",
     "src": "https://dnd5e.wikidot.com/spell:darkness",
     "school": "Evocation",
@@ -4349,6 +4427,7 @@
     ]
   },
   {
+    "slug": "darkvision",
     "name": "Darkvision",
     "src": "https://dnd5e.wikidot.com/spell:darkvision",
     "school": "Transmutation",
@@ -4366,6 +4445,7 @@
     "tags": ["action", "arcane", "buff", "creature-target", "darkvision", "material-component", "somatic", "support", "touch", "verbal", "willing-only"]
   },
   {
+    "slug": "detect-thoughts",
     "name": "Detect Thoughts",
     "src": "https://dnd5e.wikidot.com/spell:detect-thoughts",
     "school": "Divination",
@@ -4398,10 +4478,10 @@
       "sustained",
       "utility",
       "verbal"
-    ],
-    "group": "Conscience éveillée (cannot be surprised)"
+    ]
   },
   {
+    "slug": "dragons-breath",
     "name": "Dragon's Breath",
     "src": "https://dnd5e.wikidot.com/spell:dragons-breath",
     "school": "Transmutation",
@@ -4436,10 +4516,10 @@
       "utility",
       "verbal",
       "willing-only"
-    ],
-    "group": "Souffle du serpent / ?"
+    ]
   },
   {
+    "slug": "dust-devil",
     "name": "Dust Devil",
     "src": "https://dnd5e.wikidot.com/spell:dust-devil",
     "school": "Conjuration",
@@ -4479,6 +4559,7 @@
     ]
   },
   {
+    "slug": "earthbind",
     "name": "Earthbind",
     "src": "https://dnd5e.wikidot.com/spell:earthbind",
     "school": "Transmutation",
@@ -4507,10 +4588,10 @@
       "support",
       "sustained",
       "verbal"
-    ],
-    "group": "Corde enchantée"
+    ]
   },
   {
+    "slug": "enhance-ability",
     "name": "Enhance Ability",
     "src": "https://dnd5e.wikidot.com/spell:enhance-ability",
     "school": "Transmutation",
@@ -4548,6 +4629,7 @@
     ]
   },
   {
+    "slug": "enlarge-reduce",
     "name": "Enlarge/Reduce",
     "src": "https://dnd5e.wikidot.com/spell:enlarge-reduce",
     "school": "Transmutation",
@@ -4585,10 +4667,10 @@
       "support",
       "sustained",
       "verbal"
-    ],
-    "group": "Métamorphose"
+    ]
   },
   {
+    "slug": "enthrall",
     "name": "Enthrall",
     "src": "https://dnd5e.wikidot.com/spell:enthrall",
     "school": "Enchantment",
@@ -4628,6 +4710,7 @@
     ]
   },
   {
+    "slug": "find-steed",
     "name": "Find Steed",
     "src": "https://dnd5e.wikidot.com/spell:find-steed",
     "school": "Conjuration",
@@ -4658,10 +4741,10 @@
       "verbal",
       "vs-celestial",
       "vs-fiend"
-    ],
-    "group": "Pouvoir divin du Champion"
+    ]
   },
   {
+    "slug": "find-traps",
     "name": "Find Traps",
     "src": "https://dnd5e.wikidot.com/spell:find-traps",
     "school": "Divination",
@@ -4676,10 +4759,10 @@
     "verbal": true,
     "description": "You sense the presence of any trap within range that is within line of sight.\n\nA trap, for the purpose of this spell, includes anything that would inflict a sudden or unexpected effect you consider harmful or undesirable, which was specifically intended as such by its creator. Thus, the spell would sense an area affected by the alarm spell, a glyph of warding, or a mechanical pit trap, but it would not reveal a natural weakness in the floor, an unstable ceiling, or a hidden sinkhole.\n\nThis spell merely reveals that a trap is present. You don't learn the location of each trap, but you do learn the general nature of the danger posed by a trap you sense.",
     "classes": ["Cleric", "Druid", "Ranger"],
-    "tags": ["action", "buff", "detection", "knowledge", "protection", "somatic", "support", "trap", "verbal", "ward"],
-    "group": "Conscience éveillée (cannot be surprised)"
+    "tags": ["action", "buff", "detection", "knowledge", "protection", "somatic", "support", "trap", "verbal", "ward"]
   },
   {
+    "slug": "flame-blade",
     "name": "Flame Blade",
     "src": "https://dnd5e.wikidot.com/spell:flame-blade",
     "school": "Evocation",
@@ -4719,6 +4802,7 @@
     ]
   },
   {
+    "slug": "flaming-sphere",
     "name": "Flaming Sphere",
     "src": "https://dnd5e.wikidot.com/spell:flaming-sphere",
     "school": "Conjuration",
@@ -4758,6 +4842,7 @@
     ]
   },
   {
+    "slug": "flock-of-familiars",
     "name": "Flock of Familiars",
     "src": "https://dnd5e.wikidot.com/spell:flock-of-familiars",
     "school": "Conjuration",
@@ -4792,6 +4877,7 @@
     ]
   },
   {
+    "slug": "fortunes-favor",
     "name": "Fortune's Favor",
     "src": "https://dnd5e.wikidot.com/spell:fortunes-favor",
     "school": "Divination",
@@ -4821,10 +4907,10 @@
       "utility",
       "verbal",
       "willing-only"
-    ],
-    "group": "Balancier (avec Pendulum)"
+    ]
   },
   {
+    "slug": "gentle-repose",
     "name": "Gentle Repose",
     "src": "https://dnd5e.wikidot.com/spell:gentle-repose",
     "school": "Necromancy",
@@ -4853,10 +4939,10 @@
       "touch",
       "verbal",
       "vs-undead"
-    ],
-    "group": "Préservation"
+    ]
   },
   {
+    "slug": "gift-of-gab",
     "name": "Gift of Gab",
     "src": "https://dnd5e.wikidot.com/spell:gift-of-gab",
     "school": "Enchantment",
@@ -4887,6 +4973,7 @@
     ]
   },
   {
+    "slug": "gust-of-wind",
     "name": "Gust of Wind",
     "src": "https://dnd5e.wikidot.com/spell:gust-of-wind",
     "school": "Evocation",
@@ -4925,6 +5012,7 @@
     ]
   },
   {
+    "slug": "healing-spirit",
     "name": "Healing Spirit",
     "src": "https://dnd5e.wikidot.com/spell:healing-spirit",
     "school": "Conjuration",
@@ -4962,6 +5050,7 @@
     ]
   },
   {
+    "slug": "heat-metal",
     "name": "Heat Metal",
     "src": "https://dnd5e.wikidot.com/spell:heat-metal",
     "school": "Transmutation",
@@ -4998,6 +5087,7 @@
     ]
   },
   {
+    "slug": "hold-person",
     "name": "Hold Person",
     "src": "https://dnd5e.wikidot.com/spell:hold-person",
     "school": "Enchantment",
@@ -5031,6 +5121,7 @@
     ]
   },
   {
+    "slug": "immovable-object",
     "name": "Immovable Object",
     "src": "https://dnd5e.wikidot.com/spell:immovable-object",
     "school": "Transmutation",
@@ -5064,6 +5155,7 @@
     ]
   },
   {
+    "slug": "invisibility",
     "name": "Invisibility",
     "src": "https://dnd5e.wikidot.com/spell:invisibility",
     "school": "Illusion",
@@ -5095,10 +5187,10 @@
       "touch",
       "upcastable",
       "verbal"
-    ],
-    "group": "Invisibilité"
+    ]
   },
   {
+    "slug": "jims-glowing-coin",
     "name": "Jim's Glowing Coin",
     "src": "https://dnd5e.wikidot.com/spell:jims-glowing-coin",
     "school": "Enchantment",
@@ -5130,6 +5222,7 @@
     ]
   },
   {
+    "slug": "kinetic-jaunt",
     "name": "Kinetic Jaunt",
     "src": "https://dnd5e.wikidot.com/spell:kinetic-jaunt",
     "school": "Transmutation",
@@ -5164,6 +5257,7 @@
     ]
   },
   {
+    "slug": "knock",
     "name": "Knock",
     "src": "https://dnd5e.wikidot.com/spell:knock",
     "school": "Transmutation",
@@ -5178,10 +5272,10 @@
     "verbal": true,
     "description": "Choose an object that you can see within range. The object can be a door, a box, a chest, a set of manacles, a padlock, or another object that contains a mundane or magical means that prevents access.\n\nA target that is held shut by a mundane lock or that is stuck or barred becomes unlocked, unstuck, or unbarred. If the object has multiple locks, only one of them is unlocked.\n\nIf you choose a target that is held shut with Arcane Lock, that spell is suppressed for 10 minutes, during which time the target can be opened and shut normally.\n\nWhen you cast the spell, a loud knock, audible from as far away as 300 feet, emanates from the target object.",
     "classes": ["Bard", "Sorcerer", "Wizard"],
-    "tags": ["action", "arcane", "area", "emanation", "multi-target", "object-target", "unwilling-ok", "utility", "verbal"],
-    "group": "Prestidigitation"
+    "tags": ["action", "arcane", "area", "emanation", "multi-target", "object-target", "unwilling-ok", "utility", "verbal"]
   },
   {
+    "slug": "lesser-restoration",
     "name": "Lesser Restoration",
     "src": "https://dnd5e.wikidot.com/spell:lesser-restoration",
     "school": "Abjuration",
@@ -5215,10 +5309,10 @@
       "support",
       "touch",
       "verbal"
-    ],
-    "group": "Restauration"
+    ]
   },
   {
+    "slug": "levitate",
     "name": "Levitate",
     "src": "https://dnd5e.wikidot.com/spell:levitate",
     "school": "Transmutation",
@@ -5251,6 +5345,7 @@
     ]
   },
   {
+    "slug": "locate-animals-or-plants",
     "name": "Locate Animals or Plants",
     "src": "https://dnd5e.wikidot.com/spell:locate-animals-or-plants",
     "school": "Divination",
@@ -5281,10 +5376,10 @@
       "somatic",
       "utility",
       "verbal"
-    ],
-    "group": "Localisation"
+    ]
   },
   {
+    "slug": "locate-object",
     "name": "Locate Object",
     "src": "https://dnd5e.wikidot.com/spell:locate-object",
     "school": "Divination",
@@ -5313,10 +5408,10 @@
       "summon",
       "sustained",
       "verbal"
-    ],
-    "group": "Localisation"
+    ]
   },
   {
+    "slug": "magic-mouth",
     "name": "Magic Mouth",
     "src": "https://dnd5e.wikidot.com/spell:magic-mouth",
     "school": "Illusion",
@@ -5350,6 +5445,7 @@
     ]
   },
   {
+    "slug": "magic-weapon",
     "name": "Magic Weapon",
     "src": "https://dnd5e.wikidot.com/spell:magic-weapon",
     "school": "Transmutation",
@@ -5377,10 +5473,10 @@
       "upcastable",
       "verbal",
       "weapon-enhancement"
-    ],
-    "group": "Talent (Attaque magique)"
+    ]
   },
   {
+    "slug": "maximillians-earthen-grasp",
     "name": "Maximillian's Earthen Grasp",
     "src": "https://dnd5e.wikidot.com/spell:maximillians-earthen-grasp",
     "school": "Transmutation",
@@ -5417,6 +5513,7 @@
     ]
   },
   {
+    "slug": "melfs-acid-arrow",
     "name": "Melf's Acid Arrow",
     "src": "https://dnd5e.wikidot.com/spell:melfs-acid-arrow",
     "school": "Evocation",
@@ -5447,6 +5544,7 @@
     ]
   },
   {
+    "slug": "mind-spike",
     "name": "Mind Spike",
     "src": "https://dnd5e.wikidot.com/spell:mind-spike",
     "school": "Divination",
@@ -5482,10 +5580,10 @@
       "somatic",
       "sustained",
       "upcastable"
-    ],
-    "group": "Éclat mental / Frappe véritable"
+    ]
   },
   {
+    "slug": "mirror-image",
     "name": "Mirror Image",
     "src": "https://dnd5e.wikidot.com/spell:mirror-image",
     "school": "Illusion",
@@ -5517,6 +5615,7 @@
     ]
   },
   {
+    "slug": "misty-step",
     "name": "Misty Step",
     "src": "https://dnd5e.wikidot.com/spell:misty-step",
     "school": "Conjuration",
@@ -5534,6 +5633,7 @@
     "tags": ["arcane", "bonus-action", "fog", "movement", "obscurement", "self", "teleport", "utility", "verbal"]
   },
   {
+    "slug": "moonbeam",
     "name": "Moonbeam",
     "src": "https://dnd5e.wikidot.com/spell:moonbeam",
     "school": "Evocation",
@@ -5573,10 +5673,10 @@
       "upcastable",
       "verbal",
       "vs-shapechanger"
-    ],
-    "group": "Lueurs féériques"
+    ]
   },
   {
+    "slug": "nathairs-mischief",
     "name": "Nathair's Mischief",
     "src": "https://dnd5e.wikidot.com/spell:nathairs-mischief",
     "school": "Illusion",
@@ -5623,6 +5723,7 @@
     ]
   },
   {
+    "slug": "nystuls-magic-aura",
     "name": "Nystul's Magic Aura",
     "src": "https://dnd5e.wikidot.com/spell:nystuls-magic-aura",
     "school": "Illusion",
@@ -5657,6 +5758,7 @@
     ]
   },
   {
+    "slug": "pass-without-trace",
     "name": "Pass Without Trace",
     "src": "https://dnd5e.wikidot.com/spell:pass-without-trace",
     "school": "Abjuration",
@@ -5685,10 +5787,10 @@
       "unwilling-ok",
       "utility",
       "verbal"
-    ],
-    "group": "Arts féériques"
+    ]
   },
   {
+    "slug": "phantasmal-force",
     "name": "Phantasmal Force",
     "src": "https://dnd5e.wikidot.com/spell:phantasmal-force",
     "school": "Illusion",
@@ -5732,6 +5834,7 @@
     ]
   },
   {
+    "slug": "prayer-of-healing",
     "name": "Prayer of Healing",
     "src": "https://dnd5e.wikidot.com/spell:prayer-of-healing",
     "school": "Evocation",
@@ -5746,10 +5849,10 @@
     "verbal": true,
     "description": "Up to six creatures of your choice that you can see within range each regain hit points equal to 2d8 + your spellcasting ability modifier. This spell has no effect on undead or constructs.\n\n**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the healing increases by 1d8 for each slot level above 2nd.",
     "classes": ["Cleric", "Paladin"],
-    "tags": ["creature-target", "healing", "longer-casting", "multi-target", "support", "unwilling-ok", "upcastable", "verbal", "vs-construct", "vs-undead"],
-    "group": "Talent avec Pouvoir divin (problème avec Renvoi des morts-vivants)"
+    "tags": ["creature-target", "healing", "longer-casting", "multi-target", "support", "unwilling-ok", "upcastable", "verbal", "vs-construct", "vs-undead"]
   },
   {
+    "slug": "protection-from-poison",
     "name": "Protection from Poison",
     "src": "https://dnd5e.wikidot.com/spell:protection-from-poison",
     "school": "Abjuration",
@@ -5784,10 +5887,10 @@
       "somatic",
       "touch",
       "verbal"
-    ],
-    "group": "Souffle du serpent"
+    ]
   },
   {
+    "slug": "pyrotechnics",
     "name": "Pyrotechnics",
     "src": "https://dnd5e.wikidot.com/spell:pyrotechnics",
     "school": "Transmutation",
@@ -5818,10 +5921,10 @@
       "sphere",
       "unwilling-ok",
       "verbal"
-    ],
-    "group": "Prestidigitation"
+    ]
   },
   {
+    "slug": "ray-of-enfeeblement",
     "name": "Ray of Enfeeblement",
     "src": "https://dnd5e.wikidot.com/spell:ray-of-enfeeblement",
     "school": "Necromancy",
@@ -5850,10 +5953,10 @@
       "spell-attack",
       "sustained",
       "verbal"
-    ],
-    "group": "Affaiblissement"
+    ]
   },
   {
+    "slug": "rimes-binding-ice",
     "name": "Rime's Binding Ice",
     "src": "https://dnd5e.wikidot.com/spell:rimes-binding-ice",
     "school": "Evocation",
@@ -5894,6 +5997,7 @@
     ]
   },
   {
+    "slug": "rope-trick",
     "name": "Rope Trick",
     "src": "https://dnd5e.wikidot.com/spell:rope-trick",
     "school": "Transmutation",
@@ -5921,10 +6025,10 @@
       "support",
       "touch",
       "verbal"
-    ],
-    "group": "Corde enchantée"
+    ]
   },
   {
+    "slug": "scorching-ray",
     "name": "Scorching Ray",
     "src": "https://dnd5e.wikidot.com/spell:scorching-ray",
     "school": "Evocation",
@@ -5942,6 +6046,7 @@
     "tags": ["action", "arcane", "combat", "damage", "damage-fire", "ranged-spell-attack", "single-target", "somatic", "spell-attack", "upcastable", "verbal"]
   },
   {
+    "slug": "see-invisibility",
     "name": "See Invisibility",
     "src": "https://dnd5e.wikidot.com/spell:see-invisibility",
     "school": "Divination",
@@ -5973,10 +6078,10 @@
       "somatic",
       "support",
       "verbal"
-    ],
-    "group": "Conscience éveillée (cannot be surprised)"
+    ]
   },
   {
+    "slug": "shadow-blade",
     "name": "Shadow Blade",
     "src": "https://dnd5e.wikidot.com/spell:shadow-blade",
     "school": "Illusion",
@@ -6014,6 +6119,7 @@
     ]
   },
   {
+    "slug": "shatter",
     "name": "Shatter",
     "src": "https://dnd5e.wikidot.com/spell:shatter",
     "school": "Evocation",
@@ -6052,6 +6158,7 @@
     ]
   },
   {
+    "slug": "silence",
     "name": "Silence",
     "src": "https://dnd5e.wikidot.com/spell:silence",
     "school": "Illusion",
@@ -6094,6 +6201,7 @@
     ]
   },
   {
+    "slug": "skywrite",
     "name": "Skywrite",
     "src": "https://dnd5e.wikidot.com/spell:skywrite",
     "school": "Transmutation",
@@ -6111,6 +6219,7 @@
     "tags": ["action", "arcane", "concentration", "dispel", "ritual", "ritual-utility", "somatic", "sustained", "utility", "verbal"]
   },
   {
+    "slug": "snillocs-snowball-swarm",
     "name": "Snilloc's Snowball Swarm",
     "src": "https://dnd5e.wikidot.com/spell:snillocs-snowball-swarm",
     "school": "Evocation",
@@ -6147,6 +6256,7 @@
     ]
   },
   {
+    "slug": "spider-climb",
     "name": "Spider Climb",
     "src": "https://dnd5e.wikidot.com/spell:spider-climb",
     "school": "Transmutation",
@@ -6179,6 +6289,7 @@
     ]
   },
   {
+    "slug": "spike-growth",
     "name": "Spike Growth",
     "src": "https://dnd5e.wikidot.com/spell:spike-growth",
     "school": "Transmutation",
@@ -6211,10 +6322,10 @@
       "terrain",
       "unwilling-ok",
       "verbal"
-    ],
-    "group": "Vignes épineuses"
+    ]
   },
   {
+    "slug": "spiritual-weapon",
     "name": "Spiritual Weapon",
     "src": "https://dnd5e.wikidot.com/spell:spiritual-weapon",
     "school": "Evocation",
@@ -6246,6 +6357,7 @@
     ]
   },
   {
+    "slug": "spray-of-cards",
     "name": "Spray Of Cards",
     "src": "https://dnd5e.wikidot.com/spell:spray-of-cards",
     "school": "Conjuration",
@@ -6283,6 +6395,7 @@
     ]
   },
   {
+    "slug": "suggestion",
     "name": "Suggestion",
     "src": "https://dnd5e.wikidot.com/spell:suggestion",
     "school": "Enchantment",
@@ -6323,6 +6436,7 @@
     ]
   },
   {
+    "slug": "summon-beast",
     "name": "Summon Beast",
     "src": "https://dnd5e.wikidot.com/spell:summon-beast",
     "school": "Conjuration",
@@ -6336,16 +6450,7 @@
     "somatic": true,
     "verbal": true,
     "description": "You call forth a bestial spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Bestial Spirit stat block. When you cast the spell, choose an environment: Air, Land, or Water. The creature resembles an animal of your choice that is native to the chosen environment, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.\n\nThe creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.\n\n**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, use the higher level where the spell's level appears in the stat block.",
-    "classes": [
-      "Druid",
-      "Ranger",
-      "climb 30 ft.",
-      "fly 60 ft.",
-      "swim 30 ft.",
-      "passive Perception 12  \tLanguages: understands the languages you speak  \tChallenge: -  \tProficiency Bonus: equals your bonus  \tFlyby",
-      "reach 5 ft.",
-      "one target. Hit: 1d8 + 4 + the spell's level piercing damage."
-    ],
+    "classes": ["Druid", "Ranger"],
     "tags": [
       "action",
       "beast",
@@ -6363,6 +6468,7 @@
     ]
   },
   {
+    "slug": "tashas-mind-whip",
     "name": "Tasha's Mind Whip",
     "src": "https://dnd5e.wikidot.com/spell:tashas-mind-whip",
     "school": "Enchantment",
@@ -6390,10 +6496,10 @@
       "single-target",
       "upcastable",
       "verbal"
-    ],
-    "group": "Éclat mental"
+    ]
   },
   {
+    "slug": "vortex-warp",
     "name": "Vortex Warp",
     "src": "https://dnd5e.wikidot.com/spell:vortex-warp",
     "school": "Conjuration",
@@ -6411,6 +6517,7 @@
     "tags": ["action", "arcane", "creature-target", "save-con", "saving-throw", "single-target", "somatic", "upcastable", "utility", "verbal"]
   },
   {
+    "slug": "warding-bond",
     "name": "Warding Bond",
     "src": "https://dnd5e.wikidot.com/spell:warding-bond",
     "school": "Abjuration",
@@ -6442,10 +6549,10 @@
       "touch",
       "verbal",
       "willing-only"
-    ],
-    "group": "Thaumaturgie"
+    ]
   },
   {
+    "slug": "warding-wind",
     "name": "Warding Wind",
     "src": "https://dnd5e.wikidot.com/spell:warding-wind",
     "school": "Evocation",
@@ -6481,6 +6588,7 @@
     ]
   },
   {
+    "slug": "warp-sense",
     "name": "Warp Sense",
     "src": "https://dnd5e.wikidot.com/spell:warp-sense",
     "school": "Divination",
@@ -6495,23 +6603,10 @@
     "verbal": true,
     "description": "For the duration, you sense the presence of portals, even inactive ones, within 30 feet of yourself.\n\nIf you detect a portal in this way, you can use your action to study it. Make a DC 15 ability check using your spellcasting ability. On a successful check, you learn the destination plane of the portal and what portal key it requires, then the spell ends. On a failed check, you learn nothing and can't study that portal again using this spell until you cast it again.\n\nThe spell can penetrate most barriers but is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.",
     "classes": ["Sorcerer", "Warlock", "Wizard"],
-    "tags": [
-      "action",
-      "arcane",
-      "concentration",
-      "detection",
-      "knowledge",
-      "material-component",
-      "planar",
-      "self",
-      "somatic",
-      "sustained",
-      "utility",
-      "verbal"
-    ],
-    "group": "Protection contre la magie"
+    "tags": ["action", "arcane", "concentration", "detection", "knowledge", "material-component", "planar", "self", "somatic", "sustained", "utility", "verbal"]
   },
   {
+    "slug": "web",
     "name": "Web",
     "src": "https://dnd5e.wikidot.com/spell:web",
     "school": "Conjuration",
@@ -6558,6 +6653,7 @@
     ]
   },
   {
+    "slug": "wither-and-bloom",
     "name": "Wither and Bloom",
     "src": "https://dnd5e.wikidot.com/spell:wither-and-bloom",
     "school": "Necromancy",
@@ -6592,10 +6688,10 @@
       "unwilling-ok",
       "upcastable",
       "verbal"
-    ],
-    "group": "Frisson"
+    ]
   },
   {
+    "slug": "wristpocket",
     "name": "Wristpocket",
     "src": "https://dnd5e.wikidot.com/spell:wristpocket",
     "school": "Conjuration",
@@ -6613,6 +6709,7 @@
     "tags": ["action", "arcane", "concentration", "dunamancy", "object-target", "planar", "ritual", "ritual-utility", "self", "somatic", "sustained", "utility"]
   },
   {
+    "slug": "zone-of-truth",
     "name": "Zone of Truth",
     "src": "https://dnd5e.wikidot.com/spell:zone-of-truth",
     "school": "Enchantment",
@@ -6645,6 +6742,7 @@
     ]
   },
   {
+    "slug": "animate-dead",
     "name": "Animate Dead",
     "src": "https://dnd5e.wikidot.com/spell:animate-dead",
     "school": "Necromancy",
@@ -6673,10 +6771,10 @@
       "upcastable",
       "verbal",
       "vs-undead"
-    ],
-    "group": "Animation des morts"
+    ]
   },
   {
+    "slug": "antagonize",
     "name": "Antagonize",
     "src": "https://dnd5e.wikidot.com/spell:antagonize",
     "school": "Enchantment",
@@ -6711,6 +6809,7 @@
     ]
   },
   {
+    "slug": "ashardalons-stride",
     "name": "Ashardalon's Stride",
     "src": "https://dnd5e.wikidot.com/spell:ashardalons-stride",
     "school": "Transmutation",
@@ -6746,6 +6845,7 @@
     ]
   },
   {
+    "slug": "aura-of-vitality",
     "name": "Aura of Vitality",
     "src": "https://dnd5e.wikidot.com/spell:aura-of-vitality",
     "school": "Evocation",
@@ -6763,6 +6863,7 @@
     "tags": ["action", "area", "concentration", "creature-target", "multi-target", "self", "sphere", "sustained", "unwilling-ok", "utility", "verbal"]
   },
   {
+    "slug": "beacon-of-hope",
     "name": "Beacon of Hope",
     "src": "https://dnd5e.wikidot.com/spell:beacon-of-hope",
     "school": "Abjuration",
@@ -6793,10 +6894,10 @@
       "sustained",
       "unwilling-ok",
       "verbal"
-    ],
-    "group": "Esprits gardiens"
+    ]
   },
   {
+    "slug": "bestow-curse",
     "name": "Bestow Curse",
     "src": "https://dnd5e.wikidot.com/spell:bestow-curse",
     "school": "Necromancy",
@@ -6830,10 +6931,10 @@
       "touch",
       "upcastable",
       "verbal"
-    ],
-    "group": "Calamité"
+    ]
   },
   {
+    "slug": "blinding-smite",
     "name": "Blinding Smite",
     "src": "https://dnd5e.wikidot.com/spell:blinding-smite",
     "school": "Evocation",
@@ -6869,6 +6970,7 @@
     ]
   },
   {
+    "slug": "blink",
     "name": "Blink",
     "src": "https://dnd5e.wikidot.com/spell:blink",
     "school": "Transmutation",
@@ -6886,6 +6988,7 @@
     "tags": ["action", "arcane", "creature-target", "ethereal", "planar", "self", "somatic", "utility", "verbal"]
   },
   {
+    "slug": "call-lightning",
     "name": "Call Lightning",
     "src": "https://dnd5e.wikidot.com/spell:call-lightning",
     "school": "Conjuration",
@@ -6923,6 +7026,7 @@
     ]
   },
   {
+    "slug": "catnap",
     "name": "Catnap",
     "src": "https://dnd5e.wikidot.com/spell:catnap",
     "school": "Enchantment",
@@ -6952,6 +7056,7 @@
     ]
   },
   {
+    "slug": "clairvoyance",
     "name": "Clairvoyance",
     "src": "https://dnd5e.wikidot.com/spell:clairvoyance",
     "school": "Divination",
@@ -6960,7 +7065,7 @@
     "concentration": true,
     "duration": "00:10:00",
     "material": "a focus worth at least 100 gp, either a jeweled horn for hearing or a glass eye for seeing",
-    "range": 1072.893,
+    "range": 1000,
     "ritual": false,
     "somatic": true,
     "verbal": true,
@@ -6989,10 +7094,10 @@
       "sustained",
       "true-sight",
       "verbal"
-    ],
-    "group": "Clairvoyance"
+    ]
   },
   {
+    "slug": "conjure-animals",
     "name": "Conjure Animals",
     "src": "https://dnd5e.wikidot.com/spell:conjure-animals",
     "school": "Conjuration",
@@ -7025,6 +7130,7 @@
     ]
   },
   {
+    "slug": "conjure-barrage",
     "name": "Conjure Barrage",
     "src": "https://dnd5e.wikidot.com/spell:conjure-barrage",
     "school": "Conjuration",
@@ -7059,6 +7165,7 @@
     ]
   },
   {
+    "slug": "counterspell",
     "name": "Counterspell",
     "src": "https://dnd5e.wikidot.com/spell:counterspell",
     "school": "Abjuration",
@@ -7073,10 +7180,10 @@
     "verbal": false,
     "description": "You attempt to interrupt a creature in the process of casting a spell. If the creature is casting a spell of 3rd level or lower, its spell fails and has no effect. If it is casting a spell of 4th level or higher, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a success, the creature's spell fails and has no effect.\n\n**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the interrupted spell has no effect if its level is less than or equal to the level of the spell slot you used.",
     "classes": ["Sorcerer", "Warlock", "Wizard"],
-    "tags": ["arcane", "combat", "counterspell", "creature-target", "reaction", "single-target", "somatic", "upcastable"],
-    "group": "Protection contre la magie"
+    "tags": ["arcane", "combat", "counterspell", "creature-target", "reaction", "single-target", "somatic", "upcastable"]
   },
   {
+    "slug": "create-food-and-water",
     "name": "Create Food and Water",
     "src": "https://dnd5e.wikidot.com/spell:create-food-and-water",
     "school": "Conjuration",
@@ -7091,10 +7198,10 @@
     "verbal": true,
     "description": "You create 45 pounds of food and 30 gallons of water on the ground or in containers within range, enough to sustain up to fifteen humanoids or five steeds for 24 hours. The food is bland but nourishing, and spoils if uneaten after 24 hours. The water is clean and doesn't go bad.",
     "classes": ["Artificer", "Cleric", "Paladin"],
-    "tags": ["action", "arcane", "create-object", "somatic", "utility", "verbal"],
-    "group": "Protection contre les poisons et maladies"
+    "tags": ["action", "arcane", "create-object", "somatic", "utility", "verbal"]
   },
   {
+    "slug": "crusaders-mantle",
     "name": "Crusader's Mantle",
     "src": "https://dnd5e.wikidot.com/spell:crusaders-mantle",
     "school": "Evocation",
@@ -7129,6 +7236,7 @@
     ]
   },
   {
+    "slug": "daylight",
     "name": "Daylight",
     "src": "https://dnd5e.wikidot.com/spell:daylight",
     "school": "Evocation",
@@ -7143,10 +7251,10 @@
     "verbal": true,
     "description": "A 60-foot-radius sphere of light spreads out from a point you choose within range. The sphere is bright light and sheds dim light for an additional 60 feet.\n\nIf you chose a point on an object you are holding or one that isn't being worn or carried, the light shines from the object with and moves with it. Completely covering the affected object with an opaque object, such as a bowl or a helm, blocks the light.\n\nIf any of this spell's area overlaps with an area of darkness created by a spell of 3rd level or lower, the spell that created the darkness is dispelled.",
     "classes": ["Cleric", "Druid", "Paladin", "Ranger", "Sorcerer"],
-    "tags": ["action", "arcane", "area", "light", "multi-target", "object-target", "somatic", "sphere", "unwilling-ok", "utility", "verbal"],
-    "group": "Lumière"
+    "tags": ["action", "arcane", "area", "light", "multi-target", "object-target", "somatic", "sphere", "unwilling-ok", "utility", "verbal"]
   },
   {
+    "slug": "dispel-magic",
     "name": "Dispel Magic",
     "src": "https://dnd5e.wikidot.com/spell:dispel-magic",
     "school": "Abjuration",
@@ -7161,10 +7269,10 @@
     "verbal": true,
     "description": "Choose any creature, object, or magical effect within range. Any spell of 3rd level or lower on the target ends. For each spell of 4th level or higher on the target, make an ability check using your spellcasting ability. The DC equals 10 + the spell's level. On a successful check, the spell ends.\n\n**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you automatically end the effects of a spell on the target if the spell's level is equal to or less than the level of the spell slot you used.",
     "classes": ["Artificer", "Bard", "Cleric", "Druid", "Paladin", "Sorcerer", "Warlock", "Wizard"],
-    "tags": ["action", "arcane", "creature-target", "dispel", "object-target", "single-target", "somatic", "upcastable", "utility", "verbal"],
-    "group": "Protection contre la magie"
+    "tags": ["action", "arcane", "creature-target", "dispel", "object-target", "single-target", "somatic", "upcastable", "utility", "verbal"]
   },
   {
+    "slug": "elemental-weapon",
     "name": "Elemental Weapon",
     "src": "https://dnd5e.wikidot.com/spell:elemental-weapon",
     "school": "Transmutation",
@@ -7197,6 +7305,7 @@
     ]
   },
   {
+    "slug": "enemies-abound",
     "name": "Enemies Abound",
     "src": "https://dnd5e.wikidot.com/spell:enemies-abound",
     "school": "Enchantment",
@@ -7236,6 +7345,7 @@
     ]
   },
   {
+    "slug": "erupting-earth",
     "name": "Erupting Earth",
     "src": "https://dnd5e.wikidot.com/spell:erupting-earth",
     "school": "Transmutation",
@@ -7275,6 +7385,7 @@
     ]
   },
   {
+    "slug": "fast-friends",
     "name": "Fast Friends",
     "src": "https://dnd5e.wikidot.com/spell:fast-friends",
     "school": "Enchantment",
@@ -7308,6 +7419,7 @@
     ]
   },
   {
+    "slug": "fear",
     "name": "Fear",
     "src": "https://dnd5e.wikidot.com/spell:fear",
     "school": "Illusion",
@@ -7348,6 +7460,7 @@
     ]
   },
   {
+    "slug": "feign-death",
     "name": "Feign Death",
     "src": "https://dnd5e.wikidot.com/spell:feign-death",
     "school": "Necromancy",
@@ -7388,10 +7501,10 @@
       "touch",
       "verbal",
       "willing-only"
-    ],
-    "group": "Préservation"
+    ]
   },
   {
+    "slug": "fireball",
     "name": "Fireball",
     "src": "https://dnd5e.wikidot.com/spell:fireball",
     "school": "Evocation",
@@ -7430,6 +7543,7 @@
     ]
   },
   {
+    "slug": "flame-arrows",
     "name": "Flame Arrows",
     "src": "https://dnd5e.wikidot.com/spell:flame-arrows",
     "school": "Transmutation",
@@ -7461,6 +7575,7 @@
     ]
   },
   {
+    "slug": "fly",
     "name": "Fly",
     "src": "https://dnd5e.wikidot.com/spell:fly",
     "school": "Transmutation",
@@ -7492,10 +7607,10 @@
       "upcastable",
       "verbal",
       "willing-only"
-    ],
-    "group": "Liberté"
+    ]
   },
   {
+    "slug": "galders-tower",
     "name": "Galder's Tower",
     "src": "https://dnd5e.wikidot.com/spell:galders-tower",
     "school": "Conjuration",
@@ -7524,10 +7639,10 @@
       "unwilling-ok",
       "upcastable",
       "verbal"
-    ],
-    "group": "Citadelle"
+    ]
   },
   {
+    "slug": "gaseous-form",
     "name": "Gaseous Form",
     "src": "https://dnd5e.wikidot.com/spell:gaseous-form",
     "school": "Transmutation",
@@ -7571,6 +7686,7 @@
     ]
   },
   {
+    "slug": "glyph-of-warding",
     "name": "Glyph of Warding",
     "src": "https://dnd5e.wikidot.com/spell:glyph-of-warding",
     "school": "Abjuration",
@@ -7621,6 +7737,7 @@
     ]
   },
   {
+    "slug": "haste",
     "name": "Haste",
     "src": "https://dnd5e.wikidot.com/spell:haste",
     "school": "Transmutation",
@@ -7658,10 +7775,10 @@
       "verbal",
       "weapon-attack",
       "willing-only"
-    ],
-    "group": "Temporalité (avec Hurry/Delay)"
+    ]
   },
   {
+    "slug": "hunger-of-hadar",
     "name": "Hunger Of Hadar",
     "src": "https://dnd5e.wikidot.com/spell:hunger-of-hadar",
     "school": "Conjuration",
@@ -7704,6 +7821,7 @@
     ]
   },
   {
+    "slug": "hypnotic-pattern",
     "name": "Hypnotic Pattern",
     "src": "https://dnd5e.wikidot.com/spell:hypnotic-pattern",
     "school": "Illusion",
@@ -7744,6 +7862,7 @@
     ]
   },
   {
+    "slug": "incite-greed",
     "name": "Incite Greed",
     "src": "https://dnd5e.wikidot.com/spell:incite-greed",
     "school": "Enchantment",
@@ -7782,6 +7901,7 @@
     ]
   },
   {
+    "slug": "intellect-fortress",
     "name": "Intellect Fortress",
     "src": "https://dnd5e.wikidot.com/spell:intellect-fortress",
     "school": "Abjuration",
@@ -7815,10 +7935,10 @@
       "upcastable",
       "verbal",
       "willing-only"
-    ],
-    "group": "Armure magique"
+    ]
   },
   {
+    "slug": "leomunds-tiny-hut",
     "name": "Leomund's Tiny Hut",
     "src": "https://dnd5e.wikidot.com/spell:leomunds-tiny-hut",
     "school": "Evocation",
@@ -7852,10 +7972,10 @@
       "utility",
       "verbal",
       "weather"
-    ],
-    "group": "Citadelle"
+    ]
   },
   {
+    "slug": "life-transference",
     "name": "Life Transference",
     "src": "https://dnd5e.wikidot.com/spell:life-transference",
     "school": "Necromancy",
@@ -7883,10 +8003,10 @@
       "support",
       "upcastable",
       "verbal"
-    ],
-    "group": "Thaumaturgie / Toucher vampirique"
+    ]
   },
   {
+    "slug": "lightning-arrow",
     "name": "Lightning Arrow",
     "src": "https://dnd5e.wikidot.com/spell:lightning-arrow",
     "school": "Transmutation",
@@ -7925,6 +8045,7 @@
     ]
   },
   {
+    "slug": "lightning-bolt",
     "name": "Lightning Bolt",
     "src": "https://dnd5e.wikidot.com/spell:lightning-bolt",
     "school": "Evocation",
@@ -7964,6 +8085,7 @@
     ]
   },
   {
+    "slug": "magic-circle",
     "name": "Magic Circle",
     "src": "https://dnd5e.wikidot.com/spell:magic-circle",
     "school": "Abjuration",
@@ -8012,10 +8134,10 @@
       "verbal",
       "vs-undead",
       "ward"
-    ],
-    "group": "Sceau magique"
+    ]
   },
   {
+    "slug": "major-image",
     "name": "Major Image",
     "src": "https://dnd5e.wikidot.com/spell:major-image",
     "school": "Illusion",
@@ -8053,6 +8175,7 @@
     ]
   },
   {
+    "slug": "mass-healing-word",
     "name": "Mass Healing Word",
     "src": "https://dnd5e.wikidot.com/spell:mass-healing-word",
     "school": "Evocation",
@@ -8079,10 +8202,10 @@
       "verbal",
       "vs-construct",
       "vs-undead"
-    ],
-    "group": "Guérison"
+    ]
   },
   {
+    "slug": "meld-into-stone",
     "name": "Meld into Stone",
     "src": "https://dnd5e.wikidot.com/spell:meld-into-stone",
     "school": "Transmutation",
@@ -8113,6 +8236,7 @@
     ]
   },
   {
+    "slug": "melfs-minute-meteors",
     "name": "Melf's Minute Meteors",
     "src": "https://dnd5e.wikidot.com/spell:melfs-minute-meteors",
     "school": "Evocation",
@@ -8151,6 +8275,7 @@
     ]
   },
   {
+    "slug": "motivational-speech",
     "name": "Motivational Speech",
     "src": "https://dnd5e.wikidot.com/spell:motivational-speech",
     "school": "Enchantment",
@@ -8185,6 +8310,7 @@
     ]
   },
   {
+    "slug": "nondetection",
     "name": "Nondetection",
     "src": "https://dnd5e.wikidot.com/spell:nondetection",
     "school": "Abjuration",
@@ -8216,10 +8342,10 @@
       "utility",
       "verbal",
       "willing-only"
-    ],
-    "group": "Interdiction"
+    ]
   },
   {
+    "slug": "phantom-steed",
     "name": "Phantom Steed",
     "src": "https://dnd5e.wikidot.com/spell:phantom-steed",
     "school": "Illusion",
@@ -8250,6 +8376,7 @@
     ]
   },
   {
+    "slug": "plant-growth",
     "name": "Plant Growth",
     "src": "https://dnd5e.wikidot.com/spell:plant-growth",
     "school": "Transmutation",
@@ -8264,10 +8391,10 @@
     "verbal": true,
     "description": "This spell channels vitality into plants within a specific area. There are two possible uses for the spell, granting either immediate or long-term benefits.\n\nIf you cast this spell using 1 action, choose a point within range. All normal plants in a 100-foot radius centered on that point become thick and overgrown. A creature moving through the area must spend 4 feet of movement for every 1 foot it moves.\n\nYou can exclude one or more areas of any size within the spell's area from being affected.\n\nIf you cast this spell over 8 hours, you enrich the land. All plants in a half-mile radius centered on a point within range become enriched for 1 year. The plants yield twice the normal amount of food when harvested.",
     "classes": ["Bard", "Druid", "Ranger"],
-    "tags": ["action", "arcane", "area", "creature-target", "multi-target", "nature", "plant", "somatic", "sphere", "unwilling-ok", "utility", "verbal"],
-    "group": "Arts féériques"
+    "tags": ["action", "arcane", "area", "creature-target", "multi-target", "nature", "plant", "somatic", "sphere", "unwilling-ok", "utility", "verbal"]
   },
   {
+    "slug": "protection-from-energy",
     "name": "Protection from Energy",
     "src": "https://dnd5e.wikidot.com/spell:protection-from-energy",
     "school": "Abjuration",
@@ -8297,10 +8424,10 @@
       "touch",
       "verbal",
       "willing-only"
-    ],
-    "group": "Résistance élémentaire"
+    ]
   },
   {
+    "slug": "pulse-wave",
     "name": "Pulse Wave",
     "src": "https://dnd5e.wikidot.com/spell:pulse-wave",
     "school": "Evocation",
@@ -8339,6 +8466,7 @@
     ]
   },
   {
+    "slug": "remove-curse",
     "name": "Remove Curse",
     "src": "https://dnd5e.wikidot.com/spell:remove-curse",
     "school": "Abjuration",
@@ -8353,10 +8481,10 @@
     "verbal": true,
     "description": "At your touch, all curses affecting one creature or object end. If the object is a cursed magic item, its curse remains, but the spell breaks its owner's attunement to the object so it can be removed or discarded.",
     "classes": ["Cleric", "Paladin", "Warlock", "Wizard"],
-    "tags": ["action", "arcane", "creature-target", "curse", "debuff", "object-target", "single-target", "somatic", "touch", "verbal"],
-    "group": "Restauration"
+    "tags": ["action", "arcane", "creature-target", "curse", "debuff", "object-target", "single-target", "somatic", "touch", "verbal"]
   },
   {
+    "slug": "revivify",
     "name": "Revivify",
     "src": "https://dnd5e.wikidot.com/spell:revivify",
     "school": "Necromancy",
@@ -8385,10 +8513,10 @@
       "support",
       "touch",
       "verbal"
-    ],
-    "group": "Résurrection"
+    ]
   },
   {
+    "slug": "sending",
     "name": "Sending",
     "src": "https://dnd5e.wikidot.com/spell:sending",
     "school": "Evocation",
@@ -8406,6 +8534,7 @@
     "tags": ["action", "arcane", "communication", "creature-target", "familiar", "material-component", "planar", "single-target", "somatic", "summon", "verbal"]
   },
   {
+    "slug": "sleet-storm",
     "name": "Sleet Storm",
     "src": "https://dnd5e.wikidot.com/spell:sleet-storm",
     "school": "Conjuration",
@@ -8448,6 +8577,7 @@
     ]
   },
   {
+    "slug": "slow",
     "name": "Slow",
     "src": "https://dnd5e.wikidot.com/spell:slow",
     "school": "Transmutation",
@@ -8481,10 +8611,10 @@
       "time",
       "unwilling-ok",
       "verbal"
-    ],
-    "group": "Temporalité (avec Hurry/Delay)"
+    ]
   },
   {
+    "slug": "speak-with-dead",
     "name": "Speak with Dead",
     "src": "https://dnd5e.wikidot.com/spell:speak-with-dead",
     "school": "Necromancy",
@@ -8511,10 +8641,10 @@
       "utility",
       "verbal",
       "vs-undead"
-    ],
-    "group": "Préservation"
+    ]
   },
   {
+    "slug": "speak-with-plants",
     "name": "Speak with Plants",
     "src": "https://dnd5e.wikidot.com/spell:speak-with-plants",
     "school": "Transmutation",
@@ -8555,6 +8685,7 @@
     ]
   },
   {
+    "slug": "spirit-guardians",
     "name": "Spirit Guardians",
     "src": "https://dnd5e.wikidot.com/spell:spirit-guardians",
     "school": "Conjuration",
@@ -8596,10 +8727,10 @@
       "unwilling-ok",
       "upcastable",
       "verbal"
-    ],
-    "group": "Esprits gardiens"
+    ]
   },
   {
+    "slug": "spirit-shroud",
     "name": "Spirit Shroud",
     "src": "https://dnd5e.wikidot.com/spell:spirit-shroud",
     "school": "Necromancy",
@@ -8632,10 +8763,10 @@
       "sustained",
       "upcastable",
       "verbal"
-    ],
-    "group": "Esprits funèbres / Esprits gardiens"
+    ]
   },
   {
+    "slug": "stinking-cloud",
     "name": "Stinking Cloud",
     "src": "https://dnd5e.wikidot.com/spell:stinking-cloud",
     "school": "Conjuration",
@@ -8674,6 +8805,7 @@
     ]
   },
   {
+    "slug": "summon-fey",
     "name": "Summon Fey",
     "src": "https://dnd5e.wikidot.com/spell:summon-fey",
     "school": "Conjuration",
@@ -8687,19 +8819,7 @@
     "somatic": true,
     "verbal": true,
     "description": "You call forth a fey spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Fey Spirit stat block. When you cast the spell, choose a mood. Fuming, Mirthful, or Tricksy. The creature resembles a fey creature of your choice marked by the chosen mood, which determines one of the traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.\n\nThe creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.\n\n**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.",
-    "classes": [
-      "Druid",
-      "Ranger",
-      "Warlock",
-      "Wizard",
-      "passive Perception 10  \tLanguages: Sylvan",
-      "understands the languages you speak  \tChallenge: -  \tProficiency Bonus: equals your bonus  Actions  \tMultiattack. The Fey makes a number of attacks equal to half this spell's level",
-      "reach 5 ft.",
-      "one target. Hit: 1d6 + 3 + the spell's level piercing damage + 1d6 force damage.  Bonus Actions  \tFey Step. The fey magically teleports up to 30 feet to an unoccupied space it can see. Then one of the following effects occurs",
-      "based on the fey's chosen mood.  \tFuming. The fey has advantage on the next attack roll it makes before the end of this turn.  \tMirthful. The fey can force one creature it can see within 10 feet of it to make a Wisdom saving throw against your spell save DC. Unless the save succeeds",
-      "the target is charmed by you and the fey for 1 minute or until the target takes any damage.  \tTricksy. The fey can fill a 5-foot cube within 5 feet of it with magical darkness",
-      "which lasts until the end of its next turn."
-    ],
+    "classes": ["Druid", "Ranger", "Warlock", "Wizard"],
     "tags": [
       "action",
       "arcane",
@@ -8717,6 +8837,7 @@
     ]
   },
   {
+    "slug": "summon-lesser-demons",
     "name": "Summon Lesser Demons",
     "src": "https://dnd5e.wikidot.com/spell:summon-lesser-demons",
     "school": "Conjuration",
@@ -8748,6 +8869,7 @@
     ]
   },
   {
+    "slug": "summon-shadowspawn",
     "name": "Summon Shadowspawn",
     "src": "https://dnd5e.wikidot.com/spell:summon-shadowspawn",
     "school": "Conjuration",
@@ -8761,17 +8883,7 @@
     "somatic": true,
     "verbal": true,
     "description": "You call forth a shadowy spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Shadow Spirit stat block. When you cast the spell, choose an emotion: Fury, Despair, or Fear. The creature resembles a misshapen biped marked by the chosen emotion, which determines certain traits in its stat block. The creature disappears when it drop to 0 hit points or when the spell ends.\n\nThe creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after your. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and it uses its move to avoid danger.\n\n**At Higher Levels.** When you cast the spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears on the stat block.",
-    "classes": [
-      "Warlock",
-      "Wizard",
-      "passive Perception 10  \tLanguages: understands the languages you speak  \tChallenge: -  \tProficiency Bonus: equals your bonus  \tTerror Frenzy",
-      "other than you",
-      "that starts its turn within 5 feet of the spirit has its speed reduced by 20 feet until the start of that creature's next turn.  Actions  \tMultiattack. The spirit makes a number of attacks equal to half this spell's level",
-      "reach 5 ft.",
-      "one target. Hit: 1d12 + 3 + the spell's level cold damage.  \tDreadful Scream",
-      "ending the effect on itself on a success.  Bonus Action  \tShadow Stealth",
-      "the spirit takes the Hide action."
-    ],
+    "classes": ["Warlock", "Wizard"],
     "tags": [
       "action",
       "arcane",
@@ -8792,6 +8904,7 @@
     ]
   },
   {
+    "slug": "summon-undead",
     "name": "Summon Undead",
     "src": "https://dnd5e.wikidot.com/spell:summon-undead",
     "school": "Necromancy",
@@ -8805,26 +8918,7 @@
     "somatic": true,
     "verbal": true,
     "description": "You call forth an undead spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Undead Spirit stat block. When you cast the spell, choose the creature's form: Ghostly, Putrid, or Skeletal. The spirit resembles an undead creature with the chosen form, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.\n\nThe creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.\n\n**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.",
-    "classes": [
-      "Warlock",
-      "Wizard",
-      "fly 40 ft.",
-      "poison  \tCondition Immunities: exhaustion",
-      "frightened",
-      "paralyzed",
-      "poisoned  \tSenses: darkvision 60 ft.",
-      "passive Perception 10  \tLanguages: understands the languages you speak  \tChallenge: -  \tProficiency Bonus: equals your bonus  \tFestering Aura",
-      "other than you",
-      "that starts its turn within 5 feet of the spirit must succeed on a Constitution saving throw against your spell save DC or be poisoned until the start of its next turn.  \tIncorporeal Passage",
-      "it is shunted to the nearest unoccupied space and takes 1d10 force damage for every 5 feet traveled.  Actions  \tMultiattack. The spirit makes a number of attacks equal to half this spell's level",
-      "reach 5 ft.",
-      "one creature. Hit: 1d8 + 3 + the spell's level necrotic damage",
-      "and the creature must succeed on a Wisdom saving throw against your spell save DC or be frightened of the undead until the end of the target's next turn.  \tGrave Bolt",
-      "range 150 ft.",
-      "one target. Hit: 2d4 + 3 + the spell's level necrotic damage.  \tRotting Claw",
-      "one target. Hit: 1d6 + 3 + the spell's level slashing damage. If the target is poisoned",
-      "it must succeed on a Constitution saving throw against your spell save DC or be paralyzed until the end of its next turn."
-    ],
+    "classes": ["Warlock", "Wizard"],
     "tags": [
       "action",
       "arcane",
@@ -8839,10 +8933,10 @@
       "upcastable",
       "verbal",
       "vs-undead"
-    ],
-    "group": "Esprits funèbres"
+    ]
   },
   {
+    "slug": "thunder-step",
     "name": "Thunder Step",
     "src": "https://dnd5e.wikidot.com/spell:thunder-step",
     "school": "Conjuration",
@@ -8880,6 +8974,7 @@
     ]
   },
   {
+    "slug": "tidal-wave",
     "name": "Tidal Wave",
     "src": "https://dnd5e.wikidot.com/spell:tidal-wave",
     "school": "Conjuration",
@@ -8919,6 +9014,7 @@
     ]
   },
   {
+    "slug": "tiny-servant",
     "name": "Tiny Servant",
     "src": "https://dnd5e.wikidot.com/spell:tiny-servant",
     "school": "Transmutation",
@@ -8932,25 +9028,11 @@
     "somatic": true,
     "verbal": true,
     "description": "You touch one Tiny, nonmagical object that isn't attached to another object or a surface and isn't being carried by another creature. The target animates and sprouts little arms and legs, becoming a creature under your control until the spell ends or the creature drops to 0 hit points. See the stat block for its statistics.\n\nAs a bonus action, you can mentally command the creature if it is within 120 feet of you. (If you control multiple creatures with this spell, you can command any or all of them at the same time, issuing the same command to each one.) You decide what action the creature will take and where it will move during its next turn, or you can issue a simple, general command, such as to fetch a key, stand watch, or stack some books. If you issue no commands, the servant does nothing other than defend itself against hostile creatures. Once given an order, the servant continues to follow that order until its task is complete.\n\nWhen the creature drops to 0 hit points, it reverts to its original form, and any remaining damage carries over to that form.\n\n**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, you can animate two additional objects for each slot level above 3rd.",
-    "classes": [
-      "Wizard",
-      "Artificer  Tiny Servant  \tTiny Construct  \tArmor Class: 15",
-      "climb 30 ft.  STR DEX CON INT WIS CHA  \t4",
-      "psychic  \tCondition Immunities: blinded",
-      "charmed",
-      "deafened",
-      "exhaustion",
-      "frightened",
-      "paralyzed",
-      "petrified",
-      "poisoned  \tSenses: blindsight 60 ft.",
-      "passive Perception 10  \tLanguages: -  \tChallenge: -  Actions  \tSlam. Melee Weapon Attack: +5 to hit",
-      "reach 5 ft.",
-      "one target. Hit: 5"
-    ],
+    "classes": ["Wizard", "Artificer"],
     "tags": ["arcane", "creature-target", "longer-casting", "object-target", "single-target", "somatic", "touch", "upcastable", "utility", "verbal"]
   },
   {
+    "slug": "tongues",
     "name": "Tongues",
     "src": "https://dnd5e.wikidot.com/spell:tongues",
     "school": "Divination",
@@ -8977,10 +9059,10 @@
       "touch",
       "utility",
       "verbal"
-    ],
-    "group": "Compréhension linguistique"
+    ]
   },
   {
+    "slug": "vampiric-touch",
     "name": "Vampiric Touch",
     "src": "https://dnd5e.wikidot.com/spell:vampiric-touch",
     "school": "Necromancy",
@@ -9014,10 +9096,10 @@
       "sustained",
       "upcastable",
       "verbal"
-    ],
-    "group": "Toucher vampirique"
+    ]
   },
   {
+    "slug": "wall-of-sand",
     "name": "Wall of Sand",
     "src": "https://dnd5e.wikidot.com/spell:wall-of-sand",
     "school": "Evocation",
@@ -9050,6 +9132,7 @@
     ]
   },
   {
+    "slug": "wall-of-water",
     "name": "Wall of Water",
     "src": "https://dnd5e.wikidot.com/spell:wall-of-water",
     "school": "Evocation",
@@ -9089,6 +9172,7 @@
     ]
   },
   {
+    "slug": "water-breathing",
     "name": "Water Breathing",
     "src": "https://dnd5e.wikidot.com/spell:water-breathing",
     "school": "Transmutation",
@@ -9121,6 +9205,7 @@
     ]
   },
   {
+    "slug": "water-walk",
     "name": "Water Walk",
     "src": "https://dnd5e.wikidot.com/spell:water-walk",
     "school": "Transmutation",
@@ -9152,6 +9237,7 @@
     ]
   },
   {
+    "slug": "wind-wall",
     "name": "Wind Wall",
     "src": "https://dnd5e.wikidot.com/spell:wind-wall",
     "school": "Evocation",
@@ -9192,6 +9278,7 @@
     ]
   },
   {
+    "slug": "arcane-eye",
     "name": "Arcane Eye",
     "src": "https://dnd5e.wikidot.com/spell:arcane-eye",
     "school": "Divination",
@@ -9222,10 +9309,10 @@
       "support",
       "sustained",
       "verbal"
-    ],
-    "group": "Clairvoyance"
+    ]
   },
   {
+    "slug": "aura-of-life",
     "name": "Aura of Life",
     "src": "https://dnd5e.wikidot.com/spell:aura-of-life",
     "school": "Abjuration",
@@ -9263,6 +9350,7 @@
     ]
   },
   {
+    "slug": "aura-of-purity",
     "name": "Aura of Purity",
     "src": "https://dnd5e.wikidot.com/spell:aura-of-purity",
     "school": "Abjuration",
@@ -9316,6 +9404,7 @@
     ]
   },
   {
+    "slug": "banishment",
     "name": "Banishment",
     "src": "https://dnd5e.wikidot.com/spell:banishment",
     "school": "Abjuration",
@@ -9347,10 +9436,10 @@
       "sustained",
       "upcastable",
       "verbal"
-    ],
-    "group": "Bannissement"
+    ]
   },
   {
+    "slug": "blight",
     "name": "Blight",
     "src": "https://dnd5e.wikidot.com/spell:blight",
     "school": "Necromancy",
@@ -9384,10 +9473,10 @@
       "verbal",
       "vs-construct",
       "vs-undead"
-    ],
-    "group": "Calamité"
+    ]
   },
   {
+    "slug": "charm-monster",
     "name": "Charm Monster",
     "src": "https://dnd5e.wikidot.com/spell:charm-monster",
     "school": "Enchantment",
@@ -9421,6 +9510,7 @@
     ]
   },
   {
+    "slug": "compulsion",
     "name": "Compulsion",
     "src": "https://dnd5e.wikidot.com/spell:compulsion",
     "school": "Enchantment",
@@ -9457,6 +9547,7 @@
     ]
   },
   {
+    "slug": "confusion",
     "name": "Confusion",
     "src": "https://dnd5e.wikidot.com/spell:confusion",
     "school": "Enchantment",
@@ -9492,6 +9583,7 @@
     ]
   },
   {
+    "slug": "conjure-minor-elementals",
     "name": "Conjure Minor Elementals",
     "src": "https://dnd5e.wikidot.com/spell:conjure-minor-elementals",
     "school": "Conjuration",
@@ -9523,6 +9615,7 @@
     ]
   },
   {
+    "slug": "conjure-woodland-beings",
     "name": "Conjure Woodland Beings",
     "src": "https://dnd5e.wikidot.com/spell:conjure-woodland-beings",
     "school": "Conjuration",
@@ -9554,6 +9647,7 @@
     ]
   },
   {
+    "slug": "control-water",
     "name": "Control Water",
     "src": "https://dnd5e.wikidot.com/spell:control-water",
     "school": "Transmutation",
@@ -9593,6 +9687,7 @@
     ]
   },
   {
+    "slug": "death-ward",
     "name": "Death Ward",
     "src": "https://dnd5e.wikidot.com/spell:death-ward",
     "school": "Abjuration",
@@ -9610,6 +9705,7 @@
     "tags": ["action", "buff", "creature-target", "protection", "single-target", "somatic", "support", "touch", "verbal"]
   },
   {
+    "slug": "dimension-door",
     "name": "Dimension Door",
     "src": "https://dnd5e.wikidot.com/spell:dimension-door",
     "school": "Conjuration",
@@ -9640,6 +9736,7 @@
     ]
   },
   {
+    "slug": "divination",
     "name": "Divination",
     "src": "https://dnd5e.wikidot.com/spell:divination",
     "school": "Divination",
@@ -9667,10 +9764,10 @@
       "somatic",
       "utility",
       "verbal"
-    ],
-    "group": "Communion"
+    ]
   },
   {
+    "slug": "dominate-beast",
     "name": "Dominate Beast",
     "src": "https://dnd5e.wikidot.com/spell:dominate-beast",
     "school": "Enchantment",
@@ -9716,6 +9813,7 @@
     ]
   },
   {
+    "slug": "elemental-bane",
     "name": "Elemental Bane",
     "src": "https://dnd5e.wikidot.com/spell:elemental-bane",
     "school": "Transmutation",
@@ -9751,6 +9849,7 @@
     ]
   },
   {
+    "slug": "evards-black-tentacles",
     "name": "Evard's Black Tentacles",
     "src": "https://dnd5e.wikidot.com/spell:evards-black-tentacles",
     "school": "Conjuration",
@@ -9789,6 +9888,7 @@
     ]
   },
   {
+    "slug": "fabricate",
     "name": "Fabricate",
     "src": "https://dnd5e.wikidot.com/spell:fabricate",
     "school": "Transmutation",
@@ -9821,6 +9921,7 @@
     ]
   },
   {
+    "slug": "find-greater-steed",
     "name": "Find Greater Steed",
     "src": "https://dnd5e.wikidot.com/spell:find-greater-steed",
     "school": "Conjuration",
@@ -9854,10 +9955,10 @@
       "verbal",
       "vs-celestial",
       "vs-fiend"
-    ],
-    "group": "Pouvoir divin du Champion"
+    ]
   },
   {
+    "slug": "fire-shield",
     "name": "Fire Shield",
     "src": "https://dnd5e.wikidot.com/spell:fire-shield",
     "school": "Evocation",
@@ -9897,6 +9998,7 @@
     ]
   },
   {
+    "slug": "freedom-of-movement",
     "name": "Freedom of Movement",
     "src": "https://dnd5e.wikidot.com/spell:freedom-of-movement",
     "school": "Abjuration",
@@ -9930,10 +10032,10 @@
       "touch",
       "verbal",
       "willing-only"
-    ],
-    "group": "Liberté"
+    ]
   },
   {
+    "slug": "galders-speedy-courier",
     "name": "Galder's Speedy Courier",
     "src": "https://dnd5e.wikidot.com/spell:galders-speedy-courier",
     "school": "Conjuration",
@@ -9968,6 +10070,7 @@
     ]
   },
   {
+    "slug": "gate-seal",
     "name": "Gate Seal",
     "src": "https://dnd5e.wikidot.com/spell:gate-seal",
     "school": "Abjuration",
@@ -9997,10 +10100,10 @@
       "upcastable",
       "utility",
       "verbal"
-    ],
-    "group": "Sceau magique"
+    ]
   },
   {
+    "slug": "giant-insect",
     "name": "Giant Insect",
     "src": "https://dnd5e.wikidot.com/spell:giant-insect",
     "school": "Transmutation",
@@ -10018,6 +10121,7 @@
     "tags": ["action", "concentration", "creature-target", "multi-target", "somatic", "sustained", "unwilling-ok", "utility", "verbal"]
   },
   {
+    "slug": "grasping-vine",
     "name": "Grasping Vine",
     "src": "https://dnd5e.wikidot.com/spell:grasping-vine",
     "school": "Conjuration",
@@ -10048,6 +10152,7 @@
     ]
   },
   {
+    "slug": "gravity-sinkhole",
     "name": "Gravity Sinkhole",
     "src": "https://dnd5e.wikidot.com/spell:gravity-sinkhole",
     "school": "Evocation",
@@ -10086,6 +10191,7 @@
     ]
   },
   {
+    "slug": "greater-invisibility",
     "name": "Greater Invisibility",
     "src": "https://dnd5e.wikidot.com/spell:greater-invisibility",
     "school": "Illusion",
@@ -10115,10 +10221,10 @@
       "sustained",
       "touch",
       "verbal"
-    ],
-    "group": "Invisibilité"
+    ]
   },
   {
+    "slug": "guardian-of-faith",
     "name": "Guardian of Faith",
     "src": "https://dnd5e.wikidot.com/spell:guardian-of-faith",
     "school": "Conjuration",
@@ -10150,6 +10256,7 @@
     ]
   },
   {
+    "slug": "guardian-of-nature",
     "name": "Guardian of Nature",
     "src": "https://dnd5e.wikidot.com/spell:guardian-of-nature",
     "school": "Transmutation",
@@ -10189,6 +10296,7 @@
     ]
   },
   {
+    "slug": "hallucinatory-terrain",
     "name": "Hallucinatory Terrain",
     "src": "https://dnd5e.wikidot.com/spell:hallucinatory-terrain",
     "school": "Illusion",
@@ -10219,6 +10327,7 @@
     ]
   },
   {
+    "slug": "ice-storm",
     "name": "Ice Storm",
     "src": "https://dnd5e.wikidot.com/spell:ice-storm",
     "school": "Evocation",
@@ -10261,6 +10370,7 @@
     ]
   },
   {
+    "slug": "leomunds-secret-chest",
     "name": "Leomund's Secret Chest",
     "src": "https://dnd5e.wikidot.com/spell:leomunds-secret-chest",
     "school": "Conjuration",
@@ -10278,6 +10388,7 @@
     "tags": ["action", "arcane", "costly-component", "dispel", "ethereal", "material-component", "planar", "somatic", "touch", "utility", "verbal"]
   },
   {
+    "slug": "locate-creature",
     "name": "Locate Creature",
     "src": "https://dnd5e.wikidot.com/spell:locate-creature",
     "school": "Divination",
@@ -10311,10 +10422,10 @@
       "summon",
       "sustained",
       "verbal"
-    ],
-    "group": "Localisation"
+    ]
   },
   {
+    "slug": "mordenkainens-faithful-hound",
     "name": "Mordenkainen's Faithful Hound",
     "src": "https://dnd5e.wikidot.com/spell:mordenkainens-faithful-hound",
     "school": "Conjuration",
@@ -10352,6 +10463,7 @@
     ]
   },
   {
+    "slug": "mordenkainens-private-sanctum",
     "name": "Mordenkainen's Private Sanctum",
     "src": "https://dnd5e.wikidot.com/spell:mordenkainens-private-sanctum",
     "school": "Abjuration",
@@ -10384,10 +10496,10 @@
       "upcastable",
       "verbal",
       "ward"
-    ],
-    "group": "Citadelle"
+    ]
   },
   {
+    "slug": "otilukes-resilient-sphere",
     "name": "Otiluke's Resilient Sphere",
     "src": "https://dnd5e.wikidot.com/spell:otilukes-resilient-sphere",
     "school": "Evocation",
@@ -10424,6 +10536,7 @@
     ]
   },
   {
+    "slug": "phantasmal-killer",
     "name": "Phantasmal Killer",
     "src": "https://dnd5e.wikidot.com/spell:phantasmal-killer",
     "school": "Illusion",
@@ -10462,6 +10575,7 @@
     ]
   },
   {
+    "slug": "polymorph",
     "name": "Polymorph",
     "src": "https://dnd5e.wikidot.com/spell:polymorph",
     "school": "Transmutation",
@@ -10496,10 +10610,10 @@
       "sustained",
       "verbal",
       "vs-shapechanger"
-    ],
-    "group": "Métamorphose"
+    ]
   },
   {
+    "slug": "raulothims-psychic-lance",
     "name": "Raulothim's Psychic Lance",
     "src": "https://dnd5e.wikidot.com/spell:raulothims-psychic-lance",
     "school": "Enchantment",
@@ -10532,6 +10646,7 @@
     ]
   },
   {
+    "slug": "shadow-of-moil",
     "name": "Shadow Of Moil",
     "src": "https://dnd5e.wikidot.com/spell:shadow-of-moil",
     "school": "Necromancy",
@@ -10570,10 +10685,10 @@
       "sustained",
       "verbal",
       "vs-undead"
-    ],
-    "group": "Esprits funèbres"
+    ]
   },
   {
+    "slug": "sickening-radiance",
     "name": "Sickening Radiance",
     "src": "https://dnd5e.wikidot.com/spell:sickening-radiance",
     "school": "Evocation",
@@ -10615,6 +10730,7 @@
     ]
   },
   {
+    "slug": "spirit-of-death",
     "name": "Spirit Of Death",
     "src": "https://dnd5e.wikidot.com/spell:spirit-of-death",
     "school": "Necromancy",
@@ -10628,27 +10744,7 @@
     "somatic": true,
     "verbal": true,
     "description": "You call forth a spirit that embodies death. The spirit manifests in an unoccupied space you can see within range and uses the reaper spirit stat block. The spirit disappears when it is reduced to 0 hit points or when the spell ends.\n\nThe spirit is an ally to you and your companions. In combat, the spirit shares your initiative count and takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue the spirit any commands, it takes the Dodge action and uses its movement to avoid danger.\n\n**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears in the reaper spirit stat block.",
-    "classes": [
-      "Sorcerer",
-      "Warlock",
-      "Wizard  Reaper Spirit  \tMedium Undead",
-      "Neutral  \tArmor Class: 11 + the level of the spell",
-      "fly 30 ft.",
-      "poison  \tCondition Immunities: charmed",
-      "exhaustion",
-      "frightened",
-      "paralyzed",
-      "poisoned  \tSenses: darkvision 60 ft.",
-      "passive Perception 13  \tLanguages: understands the languages you speak  \tChallenge: -  \tProficiency Bonus: equals your bonus  \tIncorporeal Movement. The reaper can move through other creatures and objects as if they were difficult terrain. If it ends its turn inside an object",
-      "it is shunted to the nearest unoccupied space and takes 1d10 force damage for every 5 feet traveled.  Actions  \tMultiattack. The spirit makes a number of Reaping Scythe attacks equal to half the level of the spell",
-      "reach 5 ft.",
-      "one target. Hit: 1d8 + 3 + the spell's level necrotic damage.  Bonus Actions  \tHaunt Creature The spirit targets a creature it can see within 10 feet of itself and begins haunting it. While the target is haunted",
-      "you and the spirit sense the direction and distance to the target if it is on the same plane of existence as you. Additionally",
-      "if the target starts its turn within 10 feet of the spirit",
-      "the target must succeed on a Wisdom saving throw against your spell save DC or have the frightened condition until the start of the target's next turn. The target remains haunted until it dies",
-      "the spirit disappears",
-      "or the spirit uses this action again."
-    ],
+    "classes": ["Sorcerer", "Warlock", "Wizard"],
     "tags": [
       "action",
       "arcane",
@@ -10661,10 +10757,10 @@
       "sustained",
       "upcastable",
       "verbal"
-    ],
-    "group": "Esprits funèbres"
+    ]
   },
   {
+    "slug": "staggering-smite",
     "name": "Staggering Smite",
     "src": "https://dnd5e.wikidot.com/spell:staggering-smite",
     "school": "Evocation",
@@ -10699,6 +10795,7 @@
     ]
   },
   {
+    "slug": "stone-shape",
     "name": "Stone Shape",
     "src": "https://dnd5e.wikidot.com/spell:stone-shape",
     "school": "Transmutation",
@@ -10716,6 +10813,7 @@
     "tags": ["action", "arcane", "earth", "material-component", "nature", "object-target", "somatic", "touch", "utility", "verbal"]
   },
   {
+    "slug": "stoneskin",
     "name": "Stoneskin",
     "src": "https://dnd5e.wikidot.com/spell:stoneskin",
     "school": "Abjuration",
@@ -10753,6 +10851,7 @@
     ]
   },
   {
+    "slug": "storm-sphere",
     "name": "Storm Sphere",
     "src": "https://dnd5e.wikidot.com/spell:storm-sphere",
     "school": "Evocation",
@@ -10799,6 +10898,7 @@
     ]
   },
   {
+    "slug": "summon-aberration",
     "name": "Summon Aberration",
     "src": "https://dnd5e.wikidot.com/spell:summon-aberration",
     "school": "Conjuration",
@@ -10812,21 +10912,7 @@
     "somatic": true,
     "verbal": true,
     "description": "You call forth an aberrant spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Aberrant Spirit stat block. When you cast the spell, choose Beholderkin, Slaad, or Star Spawn. The creature resembles an aberration of that kind, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.\n\nThe creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it take the Dodge action and uses its move to avoid danger.\n\n**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears on the stat block.",
-    "classes": [
-      "Warlock",
-      "Wizard",
-      "fly 30 ft.",
-      "passive Perception 10  \tLanguages: Deep Speech",
-      "understands the languages you speak  \tChallenge: -  \tProficiency Bonus: equals your bonus  \tRegeneration",
-      "each creature within 5 feet of the aberration must succeed on a Wisdom saving throw against your spell save DC or take 2d6 psychic damage",
-      "provided that the aberration isn't incapacitated.  Actions  \tMultiattack. The aberration makes a number of attacks equal to half this spell's level",
-      "reach 5 ft.",
-      "one target. Hit: 1d10 + 3 + the spell's level slashing damage. If the target is a creature",
-      "it can't regain hit points until the start of the aberration's next turn.  \tEye Ray",
-      "range 150 ft.",
-      "one creature. Hit: 1d8 + 3 + the spell's level psychic damage.  \tPsychic Slam",
-      "one creature. Hit: 1d8 + 3 + the spell's level psychic damage"
-    ],
+    "classes": ["Warlock", "Wizard"],
     "tags": [
       "action",
       "arcane",
@@ -10843,6 +10929,7 @@
     ]
   },
   {
+    "slug": "summon-construct",
     "name": "Summon Construct",
     "src": "https://dnd5e.wikidot.com/spell:summon-construct",
     "school": "Conjuration",
@@ -10856,24 +10943,7 @@
     "somatic": true,
     "verbal": true,
     "description": "You call forth the spirit of a construct. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Construct Spirit stat block. When you cast the spell, choose a material: Clay, Metal, or Stone. The creature resembles a golem or a modron (your choice) made of the chosen material, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.\n\nThe creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.\n\n**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, use the higher level wherever the spell's level appears in the stat block.",
-    "classes": [
-      "Artificer",
-      "Wizard",
-      "exhaustion",
-      "frightened",
-      "incapacitated",
-      "paralyzed",
-      "petrified",
-      "poisoned  \tSenses: darkvision 60 ft.",
-      "passive Perception 10  \tLanguages: understands the languages you speak  \tChallenge: -  \tProficiency Bonus: equals your bonus  \tHeated Body",
-      "the construct can force it to make a Wisdom saving throw against your spell save DC. On a failed save",
-      "the target can't use reactions and its speed is halved until the start of its next turn.  Actions  \tMultiattack. The construct makes a number of attacks equal to half this spell's level",
-      "reach 5 ft.",
-      "one target. Hit: 1d8 + 4 + the spell's level bludgeoning damage.  Reactions  \tBerserk Lashing",
-      "it makes a slam attack against a random creature within 5 feet of it. If no creature is within reach",
-      "the construct moves up to half its speed toward an enemy it can see",
-      "without provoking opportunity attacks."
-    ],
+    "classes": ["Artificer", "Wizard"],
     "tags": [
       "action",
       "arcane",
@@ -10891,6 +10961,7 @@
     ]
   },
   {
+    "slug": "summon-elemental",
     "name": "Summon Elemental",
     "src": "https://dnd5e.wikidot.com/spell:summon-elemental",
     "school": "Conjuration",
@@ -10904,26 +10975,7 @@
     "somatic": true,
     "verbal": true,
     "description": "You call forth an elemental spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Elemental Spirit stat block. When you cast the spell, choose an element: Air, Earth, Fire, or Water. The creature resembles a bipedal form wreathed in the chosen element, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.\n\nThe creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.\n\n**At Higher Levels.** When you cast this spell using a spell slot of 5th level or higher, use the higher level wherever the spell's level appears in the stat block.",
-    "classes": [
-      "Druid",
-      "Ranger",
-      "Wizard",
-      "burrow 40 ft.",
-      "fly 40 ft.",
-      "swim 40 ft.",
-      "lightning and thunder",
-      "piercing and slashing",
-      "fire",
-      "frightened",
-      "paralyzed",
-      "petrified",
-      "poisoned",
-      "unconscious  \tSenses: darkvision 60 ft.",
-      "passive Perception 10  \tLanguages: Primordial",
-      "understands the languages you speak  \tChallenge: -  \tProficiency Bonus: equals your bonus  \tAmorphous Form",
-      "reach 5 ft.",
-      "one target. Hit: 1d10 + 4 + the spell's level bludgeoning damage"
-    ],
+    "classes": ["Druid", "Ranger", "Wizard"],
     "tags": [
       "action",
       "arcane",
@@ -10941,6 +10993,7 @@
     ]
   },
   {
+    "slug": "summon-greater-demon",
     "name": "Summon Greater Demon",
     "src": "https://dnd5e.wikidot.com/spell:summon-greater-demon",
     "school": "Conjuration",
@@ -10975,6 +11028,7 @@
     ]
   },
   {
+    "slug": "vitriolic-sphere",
     "name": "Vitriolic Sphere",
     "src": "https://dnd5e.wikidot.com/spell:vitriolic-sphere",
     "school": "Evocation",
@@ -11010,6 +11064,7 @@
     ]
   },
   {
+    "slug": "wall-of-fire",
     "name": "Wall of Fire",
     "src": "https://dnd5e.wikidot.com/spell:wall-of-fire",
     "school": "Evocation",
@@ -11049,6 +11104,7 @@
     ]
   },
   {
+    "slug": "watery-sphere",
     "name": "Watery Sphere",
     "src": "https://dnd5e.wikidot.com/spell:watery-sphere",
     "school": "Conjuration",
@@ -11088,6 +11144,7 @@
     ]
   },
   {
+    "slug": "animate-objects",
     "name": "Animate Objects",
     "src": "https://dnd5e.wikidot.com/spell:animate-objects",
     "school": "Transmutation",
@@ -11130,6 +11187,7 @@
     ]
   },
   {
+    "slug": "antilife-shell",
     "name": "Antilife Shell",
     "src": "https://dnd5e.wikidot.com/spell:antilife-shell",
     "school": "Abjuration",
@@ -11162,6 +11220,7 @@
     ]
   },
   {
+    "slug": "awaken",
     "name": "Awaken",
     "src": "https://dnd5e.wikidot.com/spell:awaken",
     "school": "Transmutation",
@@ -11201,6 +11260,7 @@
     ]
   },
   {
+    "slug": "banishing-smite",
     "name": "Banishing Smite",
     "src": "https://dnd5e.wikidot.com/spell:banishing-smite",
     "school": "Abjuration",
@@ -11231,10 +11291,10 @@
       "sustained",
       "verbal",
       "weapon-attack"
-    ],
-    "group": "Bannissement"
+    ]
   },
   {
+    "slug": "bigbys-hand",
     "name": "Bigby's Hand",
     "src": "https://dnd5e.wikidot.com/spell:bigbys-hand",
     "school": "Evocation",
@@ -11278,6 +11338,7 @@
     ]
   },
   {
+    "slug": "circle-of-power",
     "name": "Circle of Power",
     "src": "https://dnd5e.wikidot.com/spell:circle-of-power",
     "school": "Abjuration",
@@ -11313,6 +11374,7 @@
     ]
   },
   {
+    "slug": "cloudkill",
     "name": "Cloudkill",
     "src": "https://dnd5e.wikidot.com/spell:cloudkill",
     "school": "Conjuration",
@@ -11354,6 +11416,7 @@
     ]
   },
   {
+    "slug": "commune",
     "name": "Commune",
     "src": "https://dnd5e.wikidot.com/spell:commune",
     "school": "Divination",
@@ -11368,10 +11431,10 @@
     "verbal": true,
     "description": "You contact your deity or a divine proxy and ask up to three questions that can be answered with a yes or no. You must ask your questions before the spell ends. You receive a correct answer for each question.\n\nDivine beings aren't necessarily omniscient, so you might receive \"unclear\" as an answer if a question pertains to information that lies beyond the deity's knowledge. In a case where a one-word answer could be misleading or contrary to the deity's interests, the DM might offer a short phrase as an answer instead.\n\nIf you cast the spell two or more times before finishing your next long rest, there is a cumulative 25 percent chance for each casting after the first that you get no answer. The DM makes this roll in secret.",
     "classes": ["Cleric"],
-    "tags": ["divine", "knowledge", "longer-casting", "material-component", "ritual", "ritual-utility", "self", "somatic", "utility", "verbal"],
-    "group": "Communion"
+    "tags": ["divine", "knowledge", "longer-casting", "material-component", "ritual", "ritual-utility", "self", "somatic", "utility", "verbal"]
   },
   {
+    "slug": "commune-with-nature",
     "name": "Commune with Nature",
     "src": "https://dnd5e.wikidot.com/spell:commune-with-nature",
     "school": "Divination",
@@ -11402,10 +11465,10 @@
       "utility",
       "verbal",
       "vs-undead"
-    ],
-    "group": "Communion"
+    ]
   },
   {
+    "slug": "cone-of-cold",
     "name": "Cone of Cold",
     "src": "https://dnd5e.wikidot.com/spell:cone-of-cold",
     "school": "Evocation",
@@ -11444,6 +11507,7 @@
     ]
   },
   {
+    "slug": "conjure-elemental",
     "name": "Conjure Elemental",
     "src": "https://dnd5e.wikidot.com/spell:conjure-elemental",
     "school": "Conjuration",
@@ -11478,6 +11542,7 @@
     ]
   },
   {
+    "slug": "conjure-volley",
     "name": "Conjure Volley",
     "src": "https://dnd5e.wikidot.com/spell:conjure-volley",
     "school": "Conjuration",
@@ -11512,6 +11577,7 @@
     ]
   },
   {
+    "slug": "contact-other-plane",
     "name": "Contact Other Plane",
     "src": "https://dnd5e.wikidot.com/spell:contact-other-plane",
     "school": "Divination",
@@ -11544,10 +11610,10 @@
       "self",
       "support",
       "verbal"
-    ],
-    "group": "Communion"
+    ]
   },
   {
+    "slug": "contagion",
     "name": "Contagion",
     "src": "https://dnd5e.wikidot.com/spell:contagion",
     "school": "Necromancy",
@@ -11587,10 +11653,10 @@
       "touch",
       "verbal",
       "vulnerability"
-    ],
-    "group": "Calamité"
+    ]
   },
   {
+    "slug": "control-winds",
     "name": "Control Winds",
     "src": "https://dnd5e.wikidot.com/spell:control-winds",
     "school": "Transmutation",
@@ -11628,6 +11694,7 @@
     ]
   },
   {
+    "slug": "create-spelljamming-helm",
     "name": "Create Spelljamming Helm",
     "src": "https://dnd5e.wikidot.com/spell:create-spelljamming-helm",
     "school": "Transmutation",
@@ -11645,6 +11712,7 @@
     "tags": ["action", "arcane", "consumed-component", "costly-component", "material-component", "shapechange", "somatic", "touch", "utility", "verbal"]
   },
   {
+    "slug": "creation",
     "name": "Creation",
     "src": "https://dnd5e.wikidot.com/spell:creation",
     "school": "Illusion",
@@ -11677,6 +11745,7 @@
     ]
   },
   {
+    "slug": "danse-macabre",
     "name": "Danse Macabre",
     "src": "https://dnd5e.wikidot.com/spell:danse-macabre",
     "school": "Necromancy",
@@ -11704,10 +11773,10 @@
       "utility",
       "verbal",
       "vs-undead"
-    ],
-    "group": "Danse macabre"
+    ]
   },
   {
+    "slug": "dawn",
     "name": "Dawn",
     "src": "https://dnd5e.wikidot.com/spell:dawn",
     "school": "Evocation",
@@ -11749,6 +11818,7 @@
     ]
   },
   {
+    "slug": "destructive-wave",
     "name": "Destructive Wave",
     "src": "https://dnd5e.wikidot.com/spell:destructive-wave",
     "school": "Evocation",
@@ -11787,6 +11857,7 @@
     ]
   },
   {
+    "slug": "dispel-evil-and-good",
     "name": "Dispel Evil and Good",
     "src": "https://dnd5e.wikidot.com/spell:dispel-evil-and-good",
     "school": "Abjuration",
@@ -11836,10 +11907,10 @@
       "vs-celestial",
       "vs-fiend",
       "vs-undead"
-    ],
-    "group": "Protection contre le bien et le mal (Break Enchantment) / Bannissement (Dismissal)"
+    ]
   },
   {
+    "slug": "dominate-person",
     "name": "Dominate Person",
     "src": "https://dnd5e.wikidot.com/spell:dominate-person",
     "school": "Enchantment",
@@ -11883,6 +11954,7 @@
     ]
   },
   {
+    "slug": "dream",
     "name": "Dream",
     "src": "https://dnd5e.wikidot.com/spell:dream",
     "school": "Illusion",
@@ -11923,6 +11995,7 @@
     ]
   },
   {
+    "slug": "enervation",
     "name": "Enervation",
     "src": "https://dnd5e.wikidot.com/spell:enervation",
     "school": "Necromancy",
@@ -11954,10 +12027,10 @@
       "sustained",
       "upcastable",
       "verbal"
-    ],
-    "group": "Émanations sépulcrales"
+    ]
   },
   {
+    "slug": "far-step",
     "name": "Far Step",
     "src": "https://dnd5e.wikidot.com/spell:far-step",
     "school": "Conjuration",
@@ -11975,6 +12048,7 @@
     "tags": ["arcane", "bonus-action", "concentration", "movement", "self", "sustained", "teleport", "utility", "verbal"]
   },
   {
+    "slug": "flame-strike",
     "name": "Flame Strike",
     "src": "https://dnd5e.wikidot.com/spell:flame-strike",
     "school": "Evocation",
@@ -12013,6 +12087,7 @@
     ]
   },
   {
+    "slug": "geas",
     "name": "Geas",
     "src": "https://dnd5e.wikidot.com/spell:geas",
     "school": "Enchantment",
@@ -12053,6 +12128,7 @@
     ]
   },
   {
+    "slug": "greater-restoration",
     "name": "Greater Restoration",
     "src": "https://dnd5e.wikidot.com/spell:greater-restoration",
     "school": "Abjuration",
@@ -12090,10 +12166,10 @@
       "support",
       "touch",
       "verbal"
-    ],
-    "group": "Restauration"
+    ]
   },
   {
+    "slug": "hallow",
     "name": "Hallow",
     "src": "https://dnd5e.wikidot.com/spell:hallow",
     "school": "Evocation",
@@ -12149,10 +12225,10 @@
       "vs-undead",
       "vulnerability",
       "ward"
-    ],
-    "group": "Temple"
+    ]
   },
   {
+    "slug": "hold-monster",
     "name": "Hold Monster",
     "src": "https://dnd5e.wikidot.com/spell:hold-monster",
     "school": "Enchantment",
@@ -12188,6 +12264,7 @@
     ]
   },
   {
+    "slug": "holy-weapon",
     "name": "Holy Weapon",
     "src": "https://dnd5e.wikidot.com/spell:holy-weapon",
     "school": "Evocation",
@@ -12229,6 +12306,7 @@
     ]
   },
   {
+    "slug": "immolation",
     "name": "Immolation",
     "src": "https://dnd5e.wikidot.com/spell:immolation",
     "school": "Evocation",
@@ -12265,6 +12343,7 @@
     ]
   },
   {
+    "slug": "infernal-calling",
     "name": "Infernal Calling",
     "src": "https://dnd5e.wikidot.com/spell:infernal-calling",
     "school": "Conjuration",
@@ -12300,6 +12379,7 @@
     ]
   },
   {
+    "slug": "insect-plague",
     "name": "Insect Plague",
     "src": "https://dnd5e.wikidot.com/spell:insect-plague",
     "school": "Conjuration",
@@ -12342,6 +12422,7 @@
     ]
   },
   {
+    "slug": "legend-lore",
     "name": "Legend Lore",
     "src": "https://dnd5e.wikidot.com/spell:legend-lore",
     "school": "Divination",
@@ -12370,10 +12451,10 @@
       "somatic",
       "utility",
       "verbal"
-    ],
-    "group": "Cognition"
+    ]
   },
   {
+    "slug": "maelstrom",
     "name": "Maelstrom",
     "src": "https://dnd5e.wikidot.com/spell:maelstrom",
     "school": "Evocation",
@@ -12413,6 +12494,7 @@
     ]
   },
   {
+    "slug": "mass-cure-wounds",
     "name": "Mass Cure Wounds",
     "src": "https://dnd5e.wikidot.com/spell:mass-cure-wounds",
     "school": "Evocation",
@@ -12442,10 +12524,10 @@
       "verbal",
       "vs-construct",
       "vs-undead"
-    ],
-    "group": "Guérison"
+    ]
   },
   {
+    "slug": "mislead",
     "name": "Mislead",
     "src": "https://dnd5e.wikidot.com/spell:mislead",
     "school": "Illusion",
@@ -12479,6 +12561,7 @@
     ]
   },
   {
+    "slug": "modify-memory",
     "name": "Modify Memory",
     "src": "https://dnd5e.wikidot.com/spell:modify-memory",
     "school": "Enchantment",
@@ -12523,6 +12606,7 @@
     ]
   },
   {
+    "slug": "negative-energy-flood",
     "name": "Negative Energy Flood",
     "src": "https://dnd5e.wikidot.com/spell:negative-energy-flood",
     "school": "Necromancy",
@@ -12554,10 +12638,10 @@
       "temporary-hit-points",
       "verbal",
       "vs-undead"
-    ],
-    "group": "Animation des morts"
+    ]
   },
   {
+    "slug": "passwall",
     "name": "Passwall",
     "src": "https://dnd5e.wikidot.com/spell:passwall",
     "school": "Transmutation",
@@ -12575,6 +12659,7 @@
     "tags": ["action", "arcane", "creature-target", "material-component", "object-target", "somatic", "utility", "verbal"]
   },
   {
+    "slug": "planar-binding",
     "name": "Planar Binding",
     "src": "https://dnd5e.wikidot.com/spell:planar-binding",
     "school": "Abjuration",
@@ -12614,10 +12699,10 @@
       "vs-celestial",
       "vs-fiend",
       "ward"
-    ],
-    "group": "Sceau magique"
+    ]
   },
   {
+    "slug": "raise-dead",
     "name": "Raise Dead",
     "src": "https://dnd5e.wikidot.com/spell:raise-dead",
     "school": "Necromancy",
@@ -12648,10 +12733,10 @@
       "touch",
       "verbal",
       "vs-undead"
-    ],
-    "group": "Résurrection"
+    ]
   },
   {
+    "slug": "rarys-telepathic-bond",
     "name": "Rary's Telepathic Bond",
     "src": "https://dnd5e.wikidot.com/spell:rarys-telepathic-bond",
     "school": "Divination",
@@ -12686,6 +12771,7 @@
     ]
   },
   {
+    "slug": "reincarnate",
     "name": "Reincarnate",
     "src": "https://dnd5e.wikidot.com/spell:reincarnate",
     "school": "Transmutation",
@@ -12714,6 +12800,7 @@
     ]
   },
   {
+    "slug": "scrying",
     "name": "Scrying",
     "src": "https://dnd5e.wikidot.com/spell:scrying",
     "school": "Divination",
@@ -12754,10 +12841,10 @@
       "support",
       "sustained",
       "verbal"
-    ],
-    "group": "Clairvoyance"
+    ]
   },
   {
+    "slug": "seeming",
     "name": "Seeming",
     "src": "https://dnd5e.wikidot.com/spell:seeming",
     "school": "Illusion",
@@ -12788,6 +12875,7 @@
     ]
   },
   {
+    "slug": "skill-empowerment",
     "name": "Skill Empowerment",
     "src": "https://dnd5e.wikidot.com/spell:skill-empowerment",
     "school": "Transmutation",
@@ -12805,6 +12893,7 @@
     "tags": ["action", "arcane", "concentration", "creature-target", "single-target", "somatic", "sustained", "touch", "utility", "verbal", "willing-only"]
   },
   {
+    "slug": "steel-wind-strike",
     "name": "Steel Wind Strike",
     "src": "https://dnd5e.wikidot.com/spell:steel-wind-strike",
     "school": "Conjuration",
@@ -12839,6 +12928,7 @@
     ]
   },
   {
+    "slug": "summon-celestial",
     "name": "Summon Celestial",
     "src": "https://dnd5e.wikidot.com/spell:summon-celestial",
     "school": "Conjuration",
@@ -12852,19 +12942,7 @@
     "somatic": true,
     "verbal": true,
     "description": "You call forth a celestial spirit. It manifests in an angelic form in an unoccupied space that you can see within range. This corporeal form uses the Celestial Spirit stat block. When you cast the spell, choose Avenger or Defender. Your choice determines the creature's attack in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.\n\nThe creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.\n\n**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, use the higher level whenever the spell's level appears in the stat block.",
-    "classes": [
-      "Cleric",
-      "Paladin",
-      "fly 40 ft.  STR DEX CON INT WIS CHA  \t16",
-      "frightened  \tSenses: darkvision 60 ft.",
-      "passive Perception 12  \tLanguages: Celestial",
-      "understands the languages you speak  \tChallenge: -  \tProficiency Bonus: equals your bonus  Actions  \tMultiattack. The celestial makes a number of attacks equal to half this spell's level",
-      "reach 150/600 ft.",
-      "one target. Hit: 2d6 + 2 + the spell's level radiant damage.  \tRadiant Mace",
-      "reach 5 ft.",
-      "one target. Hit: 1d10 + 3 + the spell's level radiant damage",
-      "and the celestial can choose itself or another creature it can see within 10 feet of the target. The chosen creature gains 1d10 temporary hit points.  \tHealing Touch"
-    ],
+    "classes": ["Cleric", "Paladin"],
     "tags": [
       "action",
       "celestial",
@@ -12879,10 +12957,10 @@
       "upcastable",
       "verbal",
       "vs-celestial"
-    ],
-    "group": "Invocation céleste"
+    ]
   },
   {
+    "slug": "summon-draconic-spirit",
     "name": "Summon Draconic Spirit",
     "src": "https://dnd5e.wikidot.com/spell:summon-draconic-spirit",
     "school": "Conjuration",
@@ -12946,6 +13024,7 @@
     ]
   },
   {
+    "slug": "swift-quiver",
     "name": "Swift Quiver",
     "src": "https://dnd5e.wikidot.com/spell:swift-quiver",
     "school": "Transmutation",
@@ -12963,6 +13042,7 @@
     "tags": ["bonus-action", "concentration", "material-component", "somatic", "sustained", "touch", "utility", "verbal"]
   },
   {
+    "slug": "synaptic-static",
     "name": "Synaptic Static",
     "src": "https://dnd5e.wikidot.com/spell:synaptic-static",
     "school": "Enchantment",
@@ -12999,6 +13079,7 @@
     ]
   },
   {
+    "slug": "telekinesis",
     "name": "Telekinesis",
     "src": "https://dnd5e.wikidot.com/spell:telekinesis",
     "school": "Transmutation",
@@ -13029,6 +13110,7 @@
     ]
   },
   {
+    "slug": "teleportation-circle",
     "name": "Teleportation Circle",
     "src": "https://dnd5e.wikidot.com/spell:teleportation-circle",
     "school": "Conjuration",
@@ -13060,6 +13142,7 @@
     ]
   },
   {
+    "slug": "temporal-shunt",
     "name": "Temporal Shunt",
     "src": "https://dnd5e.wikidot.com/spell:temporal-shunt",
     "school": "Transmutation",
@@ -13090,6 +13173,7 @@
     ]
   },
   {
+    "slug": "transmute-rock",
     "name": "Transmute Rock",
     "src": "https://dnd5e.wikidot.com/spell:transmute-rock",
     "school": "Transmutation",
@@ -13135,6 +13219,7 @@
     ]
   },
   {
+    "slug": "tree-stride",
     "name": "Tree Stride",
     "src": "https://dnd5e.wikidot.com/spell:tree-stride",
     "school": "Conjuration",
@@ -13152,6 +13237,7 @@
     "tags": ["action", "concentration", "nature", "plant", "self", "somatic", "sustained", "utility", "verbal"]
   },
   {
+    "slug": "wall-of-force",
     "name": "Wall of Force",
     "src": "https://dnd5e.wikidot.com/spell:wall-of-force",
     "school": "Evocation",
@@ -13193,6 +13279,7 @@
     ]
   },
   {
+    "slug": "wall-of-light",
     "name": "Wall of Light",
     "src": "https://dnd5e.wikidot.com/spell:wall-of-light",
     "school": "Evocation",
@@ -13237,6 +13324,7 @@
     ]
   },
   {
+    "slug": "wall-of-stone",
     "name": "Wall of Stone",
     "src": "https://dnd5e.wikidot.com/spell:wall-of-stone",
     "school": "Evocation",
@@ -13272,6 +13360,7 @@
     ]
   },
   {
+    "slug": "wrath-of-nature",
     "name": "Wrath Of Nature",
     "src": "https://dnd5e.wikidot.com/spell:wrath-of-nature",
     "school": "Evocation",
@@ -13319,6 +13408,7 @@
     ]
   },
   {
+    "slug": "arcane-gate",
     "name": "Arcane Gate",
     "src": "https://dnd5e.wikidot.com/spell:arcane-gate",
     "school": "Conjuration",
@@ -13349,6 +13439,7 @@
     ]
   },
   {
+    "slug": "blade-barrier",
     "name": "Blade Barrier",
     "src": "https://dnd5e.wikidot.com/spell:blade-barrier",
     "school": "Evocation",
@@ -13383,6 +13474,7 @@
     ]
   },
   {
+    "slug": "bones-of-the-earth",
     "name": "Bones of the Earth",
     "src": "https://dnd5e.wikidot.com/spell:bones-of-the-earth",
     "school": "Transmutation",
@@ -13424,6 +13516,7 @@
     ]
   },
   {
+    "slug": "chain-lightning",
     "name": "Chain Lightning",
     "src": "https://dnd5e.wikidot.com/spell:chain-lightning",
     "school": "Evocation",
@@ -13456,6 +13549,7 @@
     ]
   },
   {
+    "slug": "circle-of-death",
     "name": "Circle of Death",
     "src": "https://dnd5e.wikidot.com/spell:circle-of-death",
     "school": "Necromancy",
@@ -13490,10 +13584,10 @@
       "unwilling-ok",
       "upcastable",
       "verbal"
-    ],
-    "group": "Faucheur"
+    ]
   },
   {
+    "slug": "conjure-fey",
     "name": "Conjure Fey",
     "src": "https://dnd5e.wikidot.com/spell:conjure-fey",
     "school": "Conjuration",
@@ -13525,6 +13619,7 @@
     ]
   },
   {
+    "slug": "contingency",
     "name": "Contingency",
     "src": "https://dnd5e.wikidot.com/spell:contingency",
     "school": "Evocation",
@@ -13555,6 +13650,7 @@
     ]
   },
   {
+    "slug": "create-homunculus",
     "name": "Create Homunculus",
     "src": "https://dnd5e.wikidot.com/spell:create-homunculus",
     "school": "Transmutation",
@@ -13590,6 +13686,7 @@
     ]
   },
   {
+    "slug": "create-undead",
     "name": "Create Undead",
     "src": "https://dnd5e.wikidot.com/spell:create-undead",
     "school": "Necromancy",
@@ -13619,10 +13716,10 @@
       "upcastable",
       "verbal",
       "vs-undead"
-    ],
-    "group": "Danse macabre"
+    ]
   },
   {
+    "slug": "disintegrate",
     "name": "Disintegrate",
     "src": "https://dnd5e.wikidot.com/spell:disintegrate",
     "school": "Transmutation",
@@ -13660,6 +13757,7 @@
     ]
   },
   {
+    "slug": "drawmijs-instant-summons",
     "name": "Drawmij's Instant Summons",
     "src": "https://dnd5e.wikidot.com/spell:drawmijs-instant-summons",
     "school": "Conjuration",
@@ -13695,6 +13793,7 @@
     ]
   },
   {
+    "slug": "druid-grove",
     "name": "Druid Grove",
     "src": "https://dnd5e.wikidot.com/spell:druid-grove",
     "school": "Abjuration",
@@ -13738,6 +13837,7 @@
     ]
   },
   {
+    "slug": "eyebite",
     "name": "Eyebite",
     "src": "https://dnd5e.wikidot.com/spell:eyebite",
     "school": "Necromancy",
@@ -13772,10 +13872,10 @@
       "somatic",
       "sustained",
       "verbal"
-    ],
-    "group": "Émanations sépulcrales"
+    ]
   },
   {
+    "slug": "find-the-path",
     "name": "Find the Path",
     "src": "https://dnd5e.wikidot.com/spell:find-the-path",
     "school": "Divination",
@@ -13808,10 +13908,10 @@
       "summon",
       "sustained",
       "verbal"
-    ],
-    "group": "Localisation"
+    ]
   },
   {
+    "slug": "fizbans-platinum-shield",
     "name": "Fizban's Platinum Shield",
     "src": "https://dnd5e.wikidot.com/spell:fizbans-platinum-shield",
     "school": "Abjuration",
@@ -13848,10 +13948,10 @@
       "somatic",
       "sustained",
       "verbal"
-    ],
-    "group": "Globe d’invulnérabilité"
+    ]
   },
   {
+    "slug": "flesh-to-stone",
     "name": "Flesh to Stone",
     "src": "https://dnd5e.wikidot.com/spell:flesh-to-stone",
     "school": "Transmutation",
@@ -13885,6 +13985,7 @@
     ]
   },
   {
+    "slug": "forbiddance",
     "name": "Forbiddance",
     "src": "https://dnd5e.wikidot.com/spell:forbiddance",
     "school": "Abjuration",
@@ -13926,10 +14027,10 @@
       "verbal",
       "vs-undead",
       "ward"
-    ],
-    "group": "Temple"
+    ]
   },
   {
+    "slug": "globe-of-invulnerability",
     "name": "Globe of Invulnerability",
     "src": "https://dnd5e.wikidot.com/spell:globe-of-invulnerability",
     "school": "Abjuration",
@@ -13965,10 +14066,10 @@
       "upcastable",
       "verbal",
       "vulnerability"
-    ],
-    "group": "Globe d’invulnérabilité"
+    ]
   },
   {
+    "slug": "gravity-fissure",
     "name": "Gravity Fissure",
     "src": "https://dnd5e.wikidot.com/spell:gravity-fissure",
     "school": "Evocation",
@@ -14009,6 +14110,7 @@
     ]
   },
   {
+    "slug": "guards-and-wards",
     "name": "Guards and Wards",
     "src": "https://dnd5e.wikidot.com/spell:guards-and-wards",
     "school": "Abjuration",
@@ -14053,10 +14155,10 @@
       "trap",
       "verbal",
       "ward"
-    ],
-    "group": "Citadelle"
+    ]
   },
   {
+    "slug": "harm",
     "name": "Harm",
     "src": "https://dnd5e.wikidot.com/spell:harm",
     "school": "Necromancy",
@@ -14087,10 +14189,10 @@
       "size-change",
       "somatic",
       "verbal"
-    ],
-    "group": "Faucheur"
+    ]
   },
   {
+    "slug": "heal",
     "name": "Heal",
     "src": "https://dnd5e.wikidot.com/spell:heal",
     "school": "Evocation",
@@ -14105,10 +14207,10 @@
     "verbal": true,
     "description": "Choose a creature that you can see within range. A surge of positive energy washes through the creature, causing it to regain 70 hit points. The spell also ends blindness, deafness, and any diseases affecting the target. This spell has no effect on constructs or undead.\n\n**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, the amount of healing increases by 10 for each slot level above 6th.",
     "classes": ["Cleric", "Druid"],
-    "tags": ["action", "creature-target", "healing", "single-target", "somatic", "support", "upcastable", "verbal", "vs-construct", "vs-undead"],
-    "group": "Miracles"
+    "tags": ["action", "creature-target", "healing", "single-target", "somatic", "support", "upcastable", "verbal", "vs-construct", "vs-undead"]
   },
   {
+    "slug": "heroes-feast",
     "name": "Heroes' Feast",
     "src": "https://dnd5e.wikidot.com/spell:heroes-feast",
     "school": "Conjuration",
@@ -14146,10 +14248,10 @@
       "support",
       "unwilling-ok",
       "verbal"
-    ],
-    "group": "Miracles"
+    ]
   },
   {
+    "slug": "investiture-of-flame",
     "name": "Investiture of Flame",
     "src": "https://dnd5e.wikidot.com/spell:investiture-of-flame",
     "school": "Transmutation",
@@ -14193,6 +14295,7 @@
     ]
   },
   {
+    "slug": "investiture-of-ice",
     "name": "Investiture of Ice",
     "src": "https://dnd5e.wikidot.com/spell:investiture-of-ice",
     "school": "Transmutation",
@@ -14240,6 +14343,7 @@
     ]
   },
   {
+    "slug": "investiture-of-stone",
     "name": "Investiture of Stone",
     "src": "https://dnd5e.wikidot.com/spell:investiture-of-stone",
     "school": "Transmutation",
@@ -14287,6 +14391,7 @@
     ]
   },
   {
+    "slug": "investiture-of-wind",
     "name": "Investiture of Wind",
     "src": "https://dnd5e.wikidot.com/spell:investiture-of-wind",
     "school": "Transmutation",
@@ -14332,6 +14437,7 @@
     ]
   },
   {
+    "slug": "magic-jar",
     "name": "Magic Jar",
     "src": "https://dnd5e.wikidot.com/spell:magic-jar",
     "school": "Necromancy",
@@ -14362,10 +14468,10 @@
       "support",
       "verbal",
       "ward"
-    ],
-    "group": "Cage spirituelle"
+    ]
   },
   {
+    "slug": "mass-suggestion",
     "name": "Mass Suggestion",
     "src": "https://dnd5e.wikidot.com/spell:mass-suggestion",
     "school": "Enchantment",
@@ -14407,6 +14513,7 @@
     ]
   },
   {
+    "slug": "mental-prison",
     "name": "Mental Prison",
     "src": "https://dnd5e.wikidot.com/spell:mental-prison",
     "school": "Illusion",
@@ -14448,6 +14555,7 @@
     ]
   },
   {
+    "slug": "move-earth",
     "name": "Move Earth",
     "src": "https://dnd5e.wikidot.com/spell:move-earth",
     "school": "Transmutation",
@@ -14479,6 +14587,7 @@
     ]
   },
   {
+    "slug": "otilukes-freezing-sphere",
     "name": "Otiluke's Freezing Sphere",
     "src": "https://dnd5e.wikidot.com/spell:otilukes-freezing-sphere",
     "school": "Evocation",
@@ -14515,6 +14624,7 @@
     ]
   },
   {
+    "slug": "ottos-irresistible-dance",
     "name": "Otto's Irresistible Dance",
     "src": "https://dnd5e.wikidot.com/spell:ottos-irresistible-dance",
     "school": "Enchantment",
@@ -14559,6 +14669,7 @@
     ]
   },
   {
+    "slug": "planar-ally",
     "name": "Planar Ally",
     "src": "https://dnd5e.wikidot.com/spell:planar-ally",
     "school": "Conjuration",
@@ -14589,10 +14700,10 @@
       "verbal",
       "vs-celestial",
       "vs-fiend"
-    ],
-    "group": "Invocation céleste"
+    ]
   },
   {
+    "slug": "primordial-ward",
     "name": "Primordial Ward",
     "src": "https://dnd5e.wikidot.com/spell:primordial-ward",
     "school": "Abjuration",
@@ -14625,6 +14736,7 @@
     ]
   },
   {
+    "slug": "programmed-illusion",
     "name": "Programmed Illusion",
     "src": "https://dnd5e.wikidot.com/spell:programmed-illusion",
     "school": "Illusion",
@@ -14657,6 +14769,7 @@
     ]
   },
   {
+    "slug": "scatter",
     "name": "Scatter",
     "src": "https://dnd5e.wikidot.com/spell:scatter",
     "school": "Conjuration",
@@ -14674,6 +14787,7 @@
     "tags": ["action", "arcane", "creature-target", "movement", "multi-target", "save-wis", "saving-throw", "teleport", "unwilling-ok", "utility", "verbal"]
   },
   {
+    "slug": "soul-cage",
     "name": "Soul Cage",
     "src": "https://dnd5e.wikidot.com/spell:soul-cage",
     "school": "Necromancy",
@@ -14713,10 +14827,10 @@
       "telepathy",
       "true-sight",
       "verbal"
-    ],
-    "group": "Cage spirituelle"
+    ]
   },
   {
+    "slug": "summon-fiend",
     "name": "Summon Fiend",
     "src": "https://dnd5e.wikidot.com/spell:summon-fiend",
     "school": "Conjuration",
@@ -14730,25 +14844,7 @@
     "somatic": true,
     "verbal": true,
     "description": "You call forth a fiendish spirit. It manifests in an unoccupied space that you can see within range. This corporeal form uses the Fiendish Spirit stat block. When you cast the spell, choose Demon, Devil, or Yugoloth. The creature resembles a fiend of the chosen type, which determines certain traits in its stat block. The creature disappears when it drops to 0 hit points or when the spell ends.\n\nThe creature is an ally to you and your companions. In combat, the creature shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.\n\n**At Higher Levels.** When you cast this spell using a spell slot of 7th level or higher, use the higher level wherever the spell's level appears in the stat block.",
-    "classes": [
-      "Warlock",
-      "Wizard",
-      "climb 40 ft.",
-      "fly 60 ft.",
-      "passive Perception 10  \tLanguages: Abyssal",
-      "Infernal",
-      "telepathy 60 ft.  \tChallenge: -  \tProficiency Bonus: equals your bonus  \tDeath Throes",
-      "the fiend explodes",
-      "and each creature within 10 feet of it must make a Dexterity saving throw against your spell save DC. A creature takes 2d10 + the spell's level fire damage on a failed save",
-      "or half as much damage on a successful one.  \tDevil's Sight",
-      "reach 5 ft.",
-      "one target. Hit: 1d12 + 3 + the spell's level necrotic damage.  \tClaws",
-      "one target. Hit: 1d8 + 3 + the spell's level slashing damage. Immediately after the attack hits or misses",
-      "the fiend can magically teleport up to 30 feet to an unoccupied space it can see.  \tHurl Flame",
-      "range 150 ft.",
-      "one target. Hit: 2d6 + 3 + the spell's level fire damage. If the target is a flammable object that isn't being worn or carried",
-      "it also catches fire."
-    ],
+    "classes": ["Warlock", "Wizard"],
     "tags": [
       "action",
       "arcane",
@@ -14767,6 +14863,7 @@
     ]
   },
   {
+    "slug": "sunbeam",
     "name": "Sunbeam",
     "src": "https://dnd5e.wikidot.com/spell:sunbeam",
     "school": "Evocation",
@@ -14811,6 +14908,7 @@
     ]
   },
   {
+    "slug": "tashas-otherworldly-guise",
     "name": "Tasha's Otherworldly Guise",
     "src": "https://dnd5e.wikidot.com/spell:tashas-otherworldly-guise",
     "school": "Transmutation",
@@ -14859,6 +14957,7 @@
     ]
   },
   {
+    "slug": "tensers-transformation",
     "name": "Tenser's Transformation",
     "src": "https://dnd5e.wikidot.com/spell:tensers-transformation",
     "school": "Transmutation",
@@ -14898,6 +14997,7 @@
     ]
   },
   {
+    "slug": "transport-via-plants",
     "name": "Transport via Plants",
     "src": "https://dnd5e.wikidot.com/spell:transport-via-plants",
     "school": "Conjuration",
@@ -14915,6 +15015,7 @@
     "tags": ["action", "creature-target", "exploration", "nature", "planar", "plant", "single-target", "somatic", "utility", "verbal"]
   },
   {
+    "slug": "true-seeing",
     "name": "True Seeing",
     "src": "https://dnd5e.wikidot.com/spell:true-seeing",
     "school": "Divination",
@@ -14946,10 +15047,10 @@
       "utility",
       "verbal",
       "willing-only"
-    ],
-    "group": "Troisième œil"
+    ]
   },
   {
+    "slug": "wall-of-ice",
     "name": "Wall of Ice",
     "src": "https://dnd5e.wikidot.com/spell:wall-of-ice",
     "school": "Evocation",
@@ -14994,6 +15095,7 @@
     ]
   },
   {
+    "slug": "wall-of-thorns",
     "name": "Wall of Thorns",
     "src": "https://dnd5e.wikidot.com/spell:wall-of-thorns",
     "school": "Conjuration",
@@ -15034,6 +15136,7 @@
     ]
   },
   {
+    "slug": "wind-walk",
     "name": "Wind Walk",
     "src": "https://dnd5e.wikidot.com/spell:wind-walk",
     "school": "Transmutation",
@@ -15071,6 +15174,7 @@
     ]
   },
   {
+    "slug": "word-of-recall",
     "name": "Word of Recall",
     "src": "https://dnd5e.wikidot.com/spell:word-of-recall",
     "school": "Conjuration",
@@ -15085,10 +15189,10 @@
     "verbal": true,
     "description": "You and up to five willing creatures within 5 feet of you instantly teleport to a previously designated sanctuary. You and any creatures that teleport with you appear in the nearest unoccupied space to the spot you designated when you prepared your sanctuary (see below). If you cast this spell without first preparing a sanctuary, the spell has no effect.\n\nYou must designate a sanctuary by casting this spell within a location, such as a temple, dedicated to or strongly linked to your deity. If you attempt to cast the spell in this manner in an area that isn't dedicated to your deity, the spell has no effect.",
     "classes": ["Cleric"],
-    "tags": ["action", "buff", "creature-target", "movement", "protection", "support", "teleport", "verbal", "willing-only"],
-    "group": "Convoi divin"
+    "tags": ["action", "buff", "creature-target", "movement", "protection", "support", "teleport", "verbal", "willing-only"]
   },
   {
+    "slug": "conjure-celestial",
     "name": "Conjure Celestial",
     "src": "https://dnd5e.wikidot.com/spell:conjure-celestial",
     "school": "Conjuration",
@@ -15115,10 +15219,10 @@
       "upcastable",
       "verbal",
       "vs-celestial"
-    ],
-    "group": "Invocation céleste"
+    ]
   },
   {
+    "slug": "create-magen",
     "name": "Create Magen",
     "src": "https://dnd5e.wikidot.com/spell:create-magen",
     "school": "Transmutation",
@@ -15136,6 +15240,7 @@
     "tags": ["arcane", "consumed-component", "costly-component", "longer-casting", "material-component", "somatic", "touch", "utility", "verbal"]
   },
   {
+    "slug": "crown-of-stars",
     "name": "Crown of Stars",
     "src": "https://dnd5e.wikidot.com/spell:crown-of-stars",
     "school": "Evocation",
@@ -15174,6 +15279,7 @@
     ]
   },
   {
+    "slug": "delayed-blast-fireball",
     "name": "Delayed Blast Fireball",
     "src": "https://dnd5e.wikidot.com/spell:delayed-blast-fireball",
     "school": "Evocation",
@@ -15213,6 +15319,7 @@
     ]
   },
   {
+    "slug": "divine-word",
     "name": "Divine Word",
     "src": "https://dnd5e.wikidot.com/spell:divine-word",
     "school": "Evocation",
@@ -15250,10 +15357,10 @@
       "verbal",
       "vs-celestial",
       "vs-fiend"
-    ],
-    "group": "Miracles"
+    ]
   },
   {
+    "slug": "draconic-transformation",
     "name": "Draconic Transformation",
     "src": "https://dnd5e.wikidot.com/spell:draconic-transformation",
     "school": "Transmutation",
@@ -15302,6 +15409,7 @@
     ]
   },
   {
+    "slug": "dream-of-the-blue-veil",
     "name": "Dream of the Blue Veil",
     "src": "https://dnd5e.wikidot.com/spell:dream-of-the-blue-veil",
     "school": "Conjuration",
@@ -15331,6 +15439,7 @@
     ]
   },
   {
+    "slug": "etherealness",
     "name": "Etherealness",
     "src": "https://dnd5e.wikidot.com/spell:etherealness",
     "school": "Transmutation",
@@ -15360,10 +15469,10 @@
       "upcastable",
       "verbal",
       "willing-only"
-    ],
-    "group": "Convoi divin"
+    ]
   },
   {
+    "slug": "finger-of-death",
     "name": "Finger of Death",
     "src": "https://dnd5e.wikidot.com/spell:finger-of-death",
     "school": "Necromancy",
@@ -15395,10 +15504,10 @@
       "summon",
       "undead",
       "verbal"
-    ],
-    "group": "Faucheur"
+    ]
   },
   {
+    "slug": "fire-storm",
     "name": "Fire Storm",
     "src": "https://dnd5e.wikidot.com/spell:fire-storm",
     "school": "Evocation",
@@ -15433,6 +15542,7 @@
     ]
   },
   {
+    "slug": "forcecage",
     "name": "Forcecage",
     "src": "https://dnd5e.wikidot.com/spell:forcecage",
     "school": "Evocation",
@@ -15472,6 +15582,7 @@
     ]
   },
   {
+    "slug": "mirage-arcane",
     "name": "Mirage Arcane",
     "src": "https://dnd5e.wikidot.com/spell:mirage-arcane",
     "school": "Illusion",
@@ -15504,6 +15615,7 @@
     ]
   },
   {
+    "slug": "mordenkainens-magnificent-mansion",
     "name": "Mordenkainen's Magnificent Mansion",
     "src": "https://dnd5e.wikidot.com/spell:mordenkainens-magnificent-mansion",
     "school": "Conjuration",
@@ -15538,6 +15650,7 @@
     ]
   },
   {
+    "slug": "mordenkainens-sword",
     "name": "Mordenkainen's Sword",
     "src": "https://dnd5e.wikidot.com/spell:mordenkainens-sword",
     "school": "Evocation",
@@ -15573,6 +15686,7 @@
     ]
   },
   {
+    "slug": "plane-shift",
     "name": "Plane Shift",
     "src": "https://dnd5e.wikidot.com/spell:plane-shift",
     "school": "Conjuration",
@@ -15610,10 +15724,10 @@
       "touch",
       "verbal",
       "willing-only"
-    ],
-    "group": "Convoi divin"
+    ]
   },
   {
+    "slug": "power-word-pain",
     "name": "Power Word: Pain",
     "src": "https://dnd5e.wikidot.com/spell:power-word-pain",
     "school": "Enchantment",
@@ -15650,6 +15764,7 @@
     ]
   },
   {
+    "slug": "prismatic-spray",
     "name": "Prismatic Spray",
     "src": "https://dnd5e.wikidot.com/spell:prismatic-spray",
     "school": "Evocation",
@@ -15702,6 +15817,7 @@
     ]
   },
   {
+    "slug": "project-image",
     "name": "Project Image",
     "src": "https://dnd5e.wikidot.com/spell:project-image",
     "school": "Illusion",
@@ -15710,7 +15826,7 @@
     "concentration": true,
     "duration": "1.00:00:00",
     "material": "a small replica of you made from materials worth at least 5 gp",
-    "range": 536446.5,
+    "range": 500000,
     "ritual": false,
     "somatic": true,
     "verbal": true,
@@ -15735,6 +15851,7 @@
     ]
   },
   {
+    "slug": "regenerate",
     "name": "Regenerate",
     "src": "https://dnd5e.wikidot.com/spell:regenerate",
     "school": "Transmutation",
@@ -15749,10 +15866,10 @@
     "verbal": true,
     "description": "You touch a creature and stimulate its natural healing ability. The target regains 4d8 + 15 hit points. For the duration of the spell, the target regains 1 hit point at the start of each of its turns (10 hit points each minute).\n\nThe target's severed body members (fingers, legs, tails, and so on), if any, are restored after 2 minutes. If you have the severed part and hold it to the stump, the spell instantaneously causes the limb to knit to the stump.",
     "classes": ["Bard", "Cleric", "Druid"],
-    "tags": ["arcane", "creature-target", "divine", "longer-casting", "material-component", "single-target", "somatic", "touch", "utility", "verbal"],
-    "group": "Miracles"
+    "tags": ["arcane", "creature-target", "divine", "longer-casting", "material-component", "single-target", "somatic", "touch", "utility", "verbal"]
   },
   {
+    "slug": "resurrection",
     "name": "Resurrection",
     "src": "https://dnd5e.wikidot.com/spell:resurrection",
     "school": "Necromancy",
@@ -15785,10 +15902,10 @@
       "touch",
       "verbal",
       "vs-undead"
-    ],
-    "group": "Résurrection"
+    ]
   },
   {
+    "slug": "reverse-gravity",
     "name": "Reverse Gravity",
     "src": "https://dnd5e.wikidot.com/spell:reverse-gravity",
     "school": "Transmutation",
@@ -15824,6 +15941,7 @@
     ]
   },
   {
+    "slug": "sequester",
     "name": "Sequester",
     "src": "https://dnd5e.wikidot.com/spell:sequester",
     "school": "Transmutation",
@@ -15863,6 +15981,7 @@
     ]
   },
   {
+    "slug": "simulacrum",
     "name": "Simulacrum",
     "src": "https://dnd5e.wikidot.com/spell:simulacrum",
     "school": "Illusion",
@@ -15897,6 +16016,7 @@
     ]
   },
   {
+    "slug": "symbol",
     "name": "Symbol",
     "src": "https://dnd5e.wikidot.com/spell:symbol",
     "school": "Abjuration",
@@ -15956,6 +16076,7 @@
     ]
   },
   {
+    "slug": "teleport",
     "name": "Teleport",
     "src": "https://dnd5e.wikidot.com/spell:teleport",
     "school": "Conjuration",
@@ -15996,6 +16117,7 @@
     ]
   },
   {
+    "slug": "temple-of-the-gods",
     "name": "Temple of the Gods",
     "src": "https://dnd5e.wikidot.com/spell:temple-of-the-gods",
     "school": "Conjuration",
@@ -16033,10 +16155,10 @@
       "verbal",
       "vs-undead",
       "ward"
-    ],
-    "group": "Temple"
+    ]
   },
   {
+    "slug": "tether-essence",
     "name": "Tether Essence",
     "src": "https://dnd5e.wikidot.com/spell:tether-essence",
     "school": "Necromancy",
@@ -16067,10 +16189,10 @@
       "sustained",
       "utility",
       "verbal"
-    ],
-    "group": "Cage spirituelle"
+    ]
   },
   {
+    "slug": "whirlwind",
     "name": "Whirlwind",
     "src": "https://dnd5e.wikidot.com/spell:whirlwind",
     "school": "Evocation",
@@ -16116,6 +16238,7 @@
     ]
   },
   {
+    "slug": "abi-dalzims-horrid-wilting",
     "name": "Abi-Dalzim's Horrid Wilting",
     "src": "https://dnd5e.wikidot.com/spell:abi-dalzims-horrid-wilting",
     "school": "Necromancy",
@@ -16155,6 +16278,7 @@
     ]
   },
   {
+    "slug": "animal-shapes",
     "name": "Animal Shapes",
     "src": "https://dnd5e.wikidot.com/spell:animal-shapes",
     "school": "Transmutation",
@@ -16187,6 +16311,7 @@
     ]
   },
   {
+    "slug": "antimagic-field",
     "name": "Antimagic Field",
     "src": "https://dnd5e.wikidot.com/spell:antimagic-field",
     "school": "Abjuration",
@@ -16233,6 +16358,7 @@
     ]
   },
   {
+    "slug": "antipathy-sympathy",
     "name": "Antipathy/Sympathy",
     "src": "https://dnd5e.wikidot.com/spell:antipathy-sympathy",
     "school": "Enchantment",
@@ -16274,6 +16400,7 @@
     ]
   },
   {
+    "slug": "clone",
     "name": "Clone",
     "src": "https://dnd5e.wikidot.com/spell:clone",
     "school": "Necromancy",
@@ -16302,6 +16429,7 @@
     ]
   },
   {
+    "slug": "control-weather",
     "name": "Control Weather",
     "src": "https://dnd5e.wikidot.com/spell:control-weather",
     "school": "Transmutation",
@@ -16337,6 +16465,7 @@
     ]
   },
   {
+    "slug": "dark-star",
     "name": "Dark Star",
     "src": "https://dnd5e.wikidot.com/spell:dark-star",
     "school": "Evocation",
@@ -16390,6 +16519,7 @@
     ]
   },
   {
+    "slug": "demiplane",
     "name": "Demiplane",
     "src": "https://dnd5e.wikidot.com/spell:demiplane",
     "school": "Conjuration",
@@ -16407,6 +16537,7 @@
     "tags": ["action", "arcane", "creature-target", "somatic", "utility"]
   },
   {
+    "slug": "dominate-monster",
     "name": "Dominate Monster",
     "src": "https://dnd5e.wikidot.com/spell:dominate-monster",
     "school": "Enchantment",
@@ -16450,6 +16581,7 @@
     ]
   },
   {
+    "slug": "earthquake",
     "name": "Earthquake",
     "src": "https://dnd5e.wikidot.com/spell:earthquake",
     "school": "Evocation",
@@ -16494,6 +16626,7 @@
     ]
   },
   {
+    "slug": "feeblemind",
     "name": "Feeblemind",
     "src": "https://dnd5e.wikidot.com/spell:feeblemind",
     "school": "Enchantment",
@@ -16532,6 +16665,7 @@
     ]
   },
   {
+    "slug": "glibness",
     "name": "Glibness",
     "src": "https://dnd5e.wikidot.com/spell:glibness",
     "school": "Transmutation",
@@ -16549,6 +16683,7 @@
     "tags": ["action", "arcane", "self", "utility", "verbal"]
   },
   {
+    "slug": "holy-aura",
     "name": "Holy Aura",
     "src": "https://dnd5e.wikidot.com/spell:holy-aura",
     "school": "Abjuration",
@@ -16596,6 +16731,7 @@
     ]
   },
   {
+    "slug": "illusory-dragon",
     "name": "Illusory Dragon",
     "src": "https://dnd5e.wikidot.com/spell:illusory-dragon",
     "school": "Illusion",
@@ -16644,6 +16780,7 @@
     ]
   },
   {
+    "slug": "incendiary-cloud",
     "name": "Incendiary Cloud",
     "src": "https://dnd5e.wikidot.com/spell:incendiary-cloud",
     "school": "Conjuration",
@@ -16681,6 +16818,7 @@
     ]
   },
   {
+    "slug": "maddening-darkness",
     "name": "Maddening Darkness",
     "src": "https://dnd5e.wikidot.com/spell:maddening-darkness",
     "school": "Evocation",
@@ -16723,6 +16861,7 @@
     ]
   },
   {
+    "slug": "maze",
     "name": "Maze",
     "src": "https://dnd5e.wikidot.com/spell:maze",
     "school": "Conjuration",
@@ -16740,6 +16879,7 @@
     "tags": ["action", "arcane", "banishment", "concentration", "control", "creature-target", "planar", "single-target", "somatic", "sustained", "verbal"]
   },
   {
+    "slug": "mighty-fortress",
     "name": "Mighty Fortress",
     "src": "https://dnd5e.wikidot.com/spell:mighty-fortress",
     "school": "Conjuration",
@@ -16748,7 +16888,7 @@
     "concentration": false,
     "duration": "00:00:00",
     "material": "a diamond worth at least 500 gp, which the spell consumes",
-    "range": 1072.893,
+    "range": 120,
     "ritual": false,
     "somatic": true,
     "verbal": true,
@@ -16777,6 +16917,7 @@
     ]
   },
   {
+    "slug": "mind-blank",
     "name": "Mind Blank",
     "src": "https://dnd5e.wikidot.com/spell:mind-blank",
     "school": "Abjuration",
@@ -16816,6 +16957,7 @@
     ]
   },
   {
+    "slug": "power-word-stun",
     "name": "Power Word: Stun",
     "src": "https://dnd5e.wikidot.com/spell:power-word-stun",
     "school": "Enchantment",
@@ -16846,6 +16988,7 @@
     ]
   },
   {
+    "slug": "reality-break",
     "name": "Reality Break",
     "src": "https://dnd5e.wikidot.com/spell:reality-break",
     "school": "Conjuration",
@@ -16889,6 +17032,7 @@
     ]
   },
   {
+    "slug": "sunburst",
     "name": "Sunburst",
     "src": "https://dnd5e.wikidot.com/spell:sunburst",
     "school": "Evocation",
@@ -16928,6 +17072,7 @@
     ]
   },
   {
+    "slug": "telepathy",
     "name": "Telepathy",
     "src": "https://dnd5e.wikidot.com/spell:telepathy",
     "school": "Evocation",
@@ -16960,6 +17105,7 @@
     ]
   },
   {
+    "slug": "tsunami",
     "name": "Tsunami",
     "src": "https://dnd5e.wikidot.com/spell:tsunami",
     "school": "Conjuration",
@@ -16996,6 +17142,7 @@
     ]
   },
   {
+    "slug": "astral-projection",
     "name": "Astral Projection",
     "src": "https://dnd5e.wikidot.com/spell:astral-projection",
     "school": "Necromancy",
@@ -17033,6 +17180,7 @@
     ]
   },
   {
+    "slug": "blade-of-disaster",
     "name": "Blade of Disaster",
     "src": "https://dnd5e.wikidot.com/spell:blade-of-disaster",
     "school": "Conjuration",
@@ -17067,6 +17215,7 @@
     ]
   },
   {
+    "slug": "foresight",
     "name": "Foresight",
     "src": "https://dnd5e.wikidot.com/spell:foresight",
     "school": "Divination",
@@ -17103,6 +17252,7 @@
     ]
   },
   {
+    "slug": "gate",
     "name": "Gate",
     "src": "https://dnd5e.wikidot.com/spell:gate",
     "school": "Conjuration",
@@ -17135,6 +17285,7 @@
     ]
   },
   {
+    "slug": "imprisonment",
     "name": "Imprisonment",
     "src": "https://dnd5e.wikidot.com/spell:imprisonment",
     "school": "Abjuration",
@@ -17185,6 +17336,7 @@
     ]
   },
   {
+    "slug": "invulnerability",
     "name": "Invulnerability",
     "src": "https://dnd5e.wikidot.com/spell:invulnerability",
     "school": "Abjuration",
@@ -17219,6 +17371,7 @@
     ]
   },
   {
+    "slug": "mass-heal",
     "name": "Mass Heal",
     "src": "https://dnd5e.wikidot.com/spell:mass-heal",
     "school": "Evocation",
@@ -17251,6 +17404,7 @@
     ]
   },
   {
+    "slug": "mass-polymorph",
     "name": "Mass Polymorph",
     "src": "https://dnd5e.wikidot.com/spell:mass-polymorph",
     "school": "Transmutation",
@@ -17292,6 +17446,7 @@
     ]
   },
   {
+    "slug": "meteor-swarm",
     "name": "Meteor Swarm",
     "src": "https://dnd5e.wikidot.com/spell:meteor-swarm",
     "school": "Evocation",
@@ -17300,7 +17455,7 @@
     "concentration": false,
     "duration": "00:00:00",
     "material": "",
-    "range": 1072.893,
+    "range": 1000,
     "ritual": false,
     "somatic": true,
     "verbal": true,
@@ -17329,6 +17484,7 @@
     ]
   },
   {
+    "slug": "power-word-heal",
     "name": "Power Word: Heal",
     "src": "https://dnd5e.wikidot.com/spell:power-word-heal",
     "school": "Evocation",
@@ -17369,6 +17525,7 @@
     ]
   },
   {
+    "slug": "power-word-kill",
     "name": "Power Word: Kill",
     "src": "https://dnd5e.wikidot.com/spell:power-word-kill",
     "school": "Enchantment",
@@ -17386,6 +17543,7 @@
     "tags": ["action", "arcane", "creature-target", "mind-affecting", "single-target", "utility", "verbal"]
   },
   {
+    "slug": "prismatic-wall",
     "name": "Prismatic Wall",
     "src": "https://dnd5e.wikidot.com/spell:prismatic-wall",
     "school": "Abjuration",
@@ -17442,6 +17600,7 @@
     ]
   },
   {
+    "slug": "psychic-scream",
     "name": "Psychic Scream",
     "src": "https://dnd5e.wikidot.com/spell:psychic-scream",
     "school": "Enchantment",
@@ -17477,6 +17636,7 @@
     ]
   },
   {
+    "slug": "ravenous-void",
     "name": "Ravenous Void",
     "src": "https://dnd5e.wikidot.com/spell:ravenous-void",
     "school": "Evocation",
@@ -17522,6 +17682,7 @@
     ]
   },
   {
+    "slug": "shapechange",
     "name": "Shapechange",
     "src": "https://dnd5e.wikidot.com/spell:shapechange",
     "school": "Transmutation",
@@ -17561,6 +17722,7 @@
     ]
   },
   {
+    "slug": "storm-of-vengeance",
     "name": "Storm of Vengeance",
     "src": "https://dnd5e.wikidot.com/spell:storm-of-vengeance",
     "school": "Conjuration",
@@ -17610,6 +17772,7 @@
     ]
   },
   {
+    "slug": "time-ravage",
     "name": "Time Ravage",
     "src": "https://dnd5e.wikidot.com/spell:time-ravage",
     "school": "Necromancy",
@@ -17649,6 +17812,7 @@
     ]
   },
   {
+    "slug": "time-stop",
     "name": "Time Stop",
     "src": "https://dnd5e.wikidot.com/spell:time-stop",
     "school": "Transmutation",
@@ -17666,6 +17830,7 @@
     "tags": ["action", "arcane", "creature-target", "self", "single-target", "time", "utility", "verbal"]
   },
   {
+    "slug": "true-polymorph",
     "name": "True Polymorph",
     "src": "https://dnd5e.wikidot.com/spell:true-polymorph",
     "school": "Transmutation",
@@ -17704,6 +17869,7 @@
     ]
   },
   {
+    "slug": "true-resurrection",
     "name": "True Resurrection",
     "src": "https://dnd5e.wikidot.com/spell:true-resurrection",
     "school": "Necromancy",
@@ -17736,6 +17902,7 @@
     ]
   },
   {
+    "slug": "weird",
     "name": "Weird",
     "src": "https://dnd5e.wikidot.com/spell:weird",
     "school": "Illusion",
@@ -17778,6 +17945,7 @@
     ]
   },
   {
+    "slug": "wish",
     "name": "Wish",
     "src": "https://dnd5e.wikidot.com/spell:wish",
     "school": "Conjuration",

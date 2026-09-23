@@ -1,7 +1,7 @@
 <template>
   <main class="container-fluid page">
     <h1>{{ title }}</h1>
-    <SpellList school="Divination" />
+    <SpellList />
   </main>
 </template>
 
@@ -15,7 +15,7 @@ import { useDocument } from "@/composables/document";
 const document = useDocument();
 const { t } = useI18n();
 
-const title = computed<string>(() => t("spells.title.divination"));
+const title = computed<string>(() => t("spells.title.all"));
 
 watchEffect(() => document.setTitle(title.value));
 </script>
