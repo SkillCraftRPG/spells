@@ -2,16 +2,18 @@
   <div>
     <SpellFilters :classes="classes" :groups="groups" :school="school" :tags="tags" v-model="filters" />
     <p class="text-body-secondary">{{ t("spells.total", { total: scopedSpells.length }) }}</p>
-    <SpellTable v-if="filteredSpells.length" :spells="filteredSpells" />
+    <SpellTable v-if="filteredSpells.length" :spells="filteredSpells" @clicked="onClicked" />
     <p v-else>{{ t("spells.empty") }}</p>
+    <SpellModal v-if="spell" ref="modal" :spell="spell" />
   </div>
 </template>
 
 <script setup lang="ts">
-import { computed, ref } from "vue";
+import { computed, nextTick, ref } from "vue";
 import { useI18n } from "vue-i18n";
 
 import SpellFilters from "./SpellFilters.vue";
+import SpellModal from "./SpellModal.vue";
 import SpellTable from "./SpellTable.vue";
 import spells from "@/assets/data/spells.json";
 import type { School, SearchSpellsPayload, Spell } from "@/types/spells";
@@ -30,6 +32,8 @@ const props = withDefaults(
 );
 
 const filters = ref<SearchSpellsPayload>({ level: { minimum: 0, maximum: 9 } });
+const modal = ref<InstanceType<typeof SpellModal> | null>(null);
+const spell = ref<Spell>();
 
 const scopedSpells = computed<Spell[]>(
   () =>
@@ -73,4 +77,9 @@ const tags = computed<string[]>(() => {
   scopedSpells.value.forEach((spell) => spell.tags.forEach((tag) => tags.add(tag)));
   return [...tags];
 });
+
+function onClicked(value: Spell): void {
+  spell.value = value;
+  nextTick(() => modal.value?.open());
+}
 </script>

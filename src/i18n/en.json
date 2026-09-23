@@ -1,5 +1,6 @@
 {
   "actions": {
+    "close": "Close",
     "search": "Search"
   },
   "all": "All",
@@ -29,13 +30,15 @@
         "A/8H": "1 action or 8 hours",
         "BA": "1 bonus action",
         "R": "1 reaction"
-      },
-      "ritual": "Ritual"
+      }
     },
     "classes": "Classes",
     "components": "Components",
+    "concentration": {
+      "format": "Concentration, up to {duration}",
+      "label": "Concentration"
+    },
     "duration": {
-      "concentration": "Concentration",
       "days": "{count} day | {count} day | {count} days",
       "hours": "{count} hour | {count} hour | {count} hours",
       "instantaneous": "Instantaneous",
@@ -48,10 +51,15 @@
     "empty": "No spells match the current criteria.",
     "level": {
       "cantrip": "Cantrip",
+      "first": "1st-level",
+      "format": "{level}th-level",
       "label": "Level",
       "maximum": "Maximum Level",
-      "minimum": "Minimum Level"
+      "minimum": "Minimum Level",
+      "second": "2nd-level",
+      "third": "3rd-level"
     },
+    "lists": "Spell Lists",
     "name": "Name",
     "range": {
       "label": "Range",
@@ -59,6 +67,7 @@
       "touch": "Touch",
       "unlimited": "Unlimited"
     },
+    "ritual": "Ritual",
     "school": {
       "label": "School",
       "options": {
