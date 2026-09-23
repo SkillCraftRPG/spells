@@ -1,0 +1,11 @@
+Bénédiction|Aid
+Bénédiction|Bane
+Bénédiction|Bless
+Bénédiction|Guidance
+Guérison|Cure Wounds
+Guérison|Healing Word
+Guérison|Mass Cure Wounds
+Guérison|Mass Healing Word
+Restauration|Greater Restoration
+Restauration|Lesser Restoration
+Restauration|Remove Curse

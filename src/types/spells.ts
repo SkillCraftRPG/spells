@@ -29,6 +29,7 @@ export type Spell = {
   description: string;
   classes: string[];
   tags: string[];
+  groups: Set<string>;
 };
 
 export type CastingTime = "10m" | "12H" | "1H" | "1m" | "24H" | "8H" | "A" | "A/8H" | "BA" | "R";

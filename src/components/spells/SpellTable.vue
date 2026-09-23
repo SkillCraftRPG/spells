@@ -25,9 +25,7 @@
         <td>{{ formatComponents(spell, "short") }}</td>
         <td>{{ formatDuration(spell, "short", t) }}</td>
         <td>{{ formatRange(spell.range, n, t) }}</td>
-        <td>
-          <!-- TODO(fpion): {{ spell.group }} -->
-        </td>
+        <td>{{ formatGroups(spell.groups) }}</td>
       </tr>
     </tbody>
   </table>
@@ -48,4 +46,8 @@ defineProps<{
 defineEmits<{
   (e: "clicked", value: Spell): void;
 }>();
+
+function formatGroups(groups: Set<string>): string {
+  return [...groups].sort((a, b) => (a > b ? 1 : a < b ? -1 : 0)).join(", ");
+}
 </script>

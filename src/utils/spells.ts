@@ -91,15 +91,14 @@ export function matchGroup(group: string | null | undefined, spell: Spell): numb
   if (!group) {
     return -1;
   }
-  return 0;
-  // TODO(fpion): switch (group) {
-  //   case "any":
-  //     return spell.group ? 1 : 0;
-  //   case "none":
-  //     return spell.group ? 0 : 1;
-  //   default:
-  //     return Boolean(spell.group && spell.group.includes(group)) ? 1 : 0;
-  // }
+  switch (group) {
+    case "any":
+      return spell.groups.size ? 1 : 0;
+    case "none":
+      return spell.groups.size ? 0 : 1;
+    default:
+      return spell.groups.has(group) ? 1 : 0;
+  }
 }
 
 export function matchLevel(level: RangeFilter<number> | null | undefined, spell: Spell): number {
