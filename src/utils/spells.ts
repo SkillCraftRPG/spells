@@ -1,4 +1,91 @@
+import { parsingUtils } from "logitar-js";
+
 import type { RangeFilter, School, Spell } from "@/types/spells";
+
+const { parseNumber } = parsingUtils;
+
+type TimeSpan = {
+  days: number;
+  hours: number;
+  minutes: number;
+  seconds: number;
+};
+function parseTimeSpan(value: string): TimeSpan {
+  const index: number = value.indexOf(".");
+  const parts: string[] = value.substring(index < 0 ? 0 : index + 1).split(":");
+  if (parts.length !== 3) {
+    throw new Error("invalid time span: " + value);
+  }
+  return {
+    days: index < 0 ? 0 : (parseNumber(value.substring(0, index)) ?? 0),
+    hours: parseNumber(parts[0]) ?? 0,
+    minutes: parseNumber(parts[1]) ?? 0,
+    seconds: parseNumber(parts[2]) ?? 0,
+  };
+}
+
+export function formatCastingTime(key: string, t: (key: string) => string): string {
+  return t(`spells.castingTime.options.${key}`);
+}
+
+export function formatClasses(classes: string[]): string {
+  return classes.join(", ");
+}
+
+export function formatComponents(spell: Spell, format: "short" | "long"): string {
+  const components: string[] = [];
+  if (spell.verbal) {
+    components.push("V");
+  }
+  if (spell.somatic) {
+    components.push("S");
+  }
+  if (spell.material) {
+    components.push(format === "short" ? "M" : `M (${spell.material})`);
+  }
+  return components.join(", ");
+}
+
+export function formatDuration(spell: Spell, format: "short" | "long", t: (key: string, count?: number | object) => string): string {
+  if (spell.duration === null) {
+    return t("spells.duration.untilDispelled");
+  }
+  const duration: TimeSpan = parseTimeSpan(spell.duration);
+  if (!duration.days && !duration.hours && !duration.minutes && !duration.seconds) {
+    return t("spells.duration.instantaneous");
+  }
+  const parts: string[] = [];
+  if (duration.days) {
+    parts.push(t("spells.duration.days", duration.days));
+  }
+  if (duration.hours) {
+    parts.push(t("spells.duration.hours", duration.hours));
+  }
+  if (duration.minutes) {
+    parts.push(t("spells.duration.minutes", duration.minutes));
+  }
+  if (duration.seconds) {
+    parts.push(duration.seconds % 6 === 0 ? t("spells.duration.rounds", duration.seconds / 6) : t("spells.duration.seconds", duration.seconds));
+  }
+  const formatted: string = parts.join(", ");
+  if (!spell.concentration) {
+    return formatted;
+  }
+  return format === "short" ? `${formatted} (C)` : t("spells.concentration.format", { duration: formatted });
+}
+
+export function formatRange(squares: number | null, n: (value: number, format: string) => string, t: (key: string) => string): string {
+  switch (squares) {
+    case null:
+      return t("spells.range.unlimited");
+    case 0:
+      return t("spells.range.self");
+    case 1:
+      return t("spells.range.touch");
+    default:
+      return n(squares, "integer");
+  }
+}
 
 export function matchGroup(group: string | null | undefined, spell: Spell): number {
   if (!group) {
