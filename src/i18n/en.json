@@ -1,7 +1,12 @@
 {
   "actions": {
+    "apply": "Apply",
+    "cancel": "Cancel",
+    "clearFilters": "Clear filters",
     "close": "Close",
-    "search": "Search"
+    "search": "Search",
+    "selectAll": "Select all",
+    "unselectAll": "Unselect all"
   },
   "all": "All",
   "any": " Any",
@@ -32,7 +37,11 @@
         "R": "1 reaction"
       }
     },
-    "classes": "Classes",
+    "classes": {
+      "label": "Classes",
+      "select": "Select classes",
+      "selected": "None selected. | {count} selected. | {count} selected."
+    },
     "components": "Components",
     "concentration": {
       "format": "Concentration, up to {duration}",
@@ -61,6 +70,7 @@
     },
     "lists": "Spell Lists",
     "name": "Name",
+    "none": "No spells exist in the current scope.",
     "range": {
       "label": "Range",
       "self": "Self",
@@ -83,6 +93,11 @@
       "title": "Schools"
     },
     "spirituality": "Spiritualité",
+    "tags": {
+      "label": "Tags",
+      "select": "Select tags",
+      "selected": "None selected. | {count} selected. | {count} selected."
+    },
     "title": {
       "abjuration": "Abjuration Spells",
       "all": "All Spells",
@@ -96,7 +111,8 @@
       "necromancy": "Necromancy Spells",
       "transmutation": "Transmutation Spells"
     },
-    "total": "Total Spells: {total}"
+    "total": "Total Spells: {total}",
+    "wikidot": "View on Wikidot"
   },
   "theme": {
     "title": "Theme",

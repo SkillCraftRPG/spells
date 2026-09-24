@@ -1,10 +1,23 @@
 <template>
   <div>
-    <SpellFilters :classes="classes" :groups="groups" :school="school" :tags="tags" v-model="filters" />
-    <p class="text-body-secondary">{{ t("spells.total", { total: scopedSpells.length }) }}</p>
-    <SpellTable v-if="filteredSpells.length" :spells="filteredSpells" @clicked="onClicked" />
-    <p v-else>{{ t("spells.empty") }}</p>
-    <SpellModal v-if="spell" ref="modal" :spell="spell" />
+    <template v-if="scopedSpells.length">
+      <div class="d-flex justify-content-between align-items-center gap-3 mb-3">
+        <div class="text-body-secondary">{{ t("spells.total", { total: scopedSpells.length }) }}</div>
+        <TarButton
+          v-if="spellStore.hasFilters"
+          icon="fas fa-arrow-rotate-left"
+          outline
+          :text="t('actions.clearFilters')"
+          variant="secondary"
+          @click="spellStore.clearFilters"
+        />
+      </div>
+      <SpellFilters :classes="classes" :groups="groups" :school="school" :tags="tags" />
+      <SpellTable v-if="filteredSpells.length" :spells="filteredSpells" @clicked="onClicked" />
+      <p v-else>{{ t("spells.empty") }}</p>
+      <SpellModal v-if="spell" ref="modal" :spell="spell" />
+    </template>
+    <p v-else>{{ t("spells.none") }}</p>
   </div>
 </template>
 
@@ -17,9 +30,12 @@ import SpellModal from "./SpellModal.vue";
 import SpellTable from "./SpellTable.vue";
 import groupPairs from "@/assets/data/groups.txt?raw";
 import spells from "@/assets/data/spells.json";
-import type { School, SearchSpellsPayload, Spell } from "@/types/spells";
-import { matchGroup, matchLevel, matchSchool, matchSearch } from "@/utils/spells";
+import type { School, Spell } from "@/types/spells";
+import { matchClasses, matchGroup, matchLevel, matchSchool, matchSearch, matchTags } from "@/utils/spells";
+import { useSpellStore } from "@/stores/spells";
+import TarButton from "@/components/tar/TarButton.vue";
 
+const spellStore = useSpellStore();
 const { t } = useI18n();
 
 const props = withDefaults(
@@ -32,7 +48,6 @@ const props = withDefaults(
   },
 );
 
-const filters = ref<SearchSpellsPayload>({ level: { minimum: 0, maximum: 9 } });
 const modal = ref<InstanceType<typeof SpellModal> | null>(null);
 const spell = ref<Spell>();
 
@@ -68,10 +83,12 @@ const scopedSpells = computed<Spell[]>(
 const filteredSpells = computed<Spell[]>(() =>
   scopedSpells.value.filter(
     (spell) =>
-      matchGroup(filters.value.group, spell) &&
-      matchLevel(filters.value.level, spell) &&
-      matchSchool(filters.value.school, spell) &&
-      matchSearch(filters.value.search, spell),
+      matchClasses(spellStore.filters.classes, spell) &&
+      matchGroup(spellStore.filters.group, spell) &&
+      matchLevel(spellStore.filters.level, spell) &&
+      matchSchool(spellStore.filters.school, spell) &&
+      matchSearch(spellStore.filters.search, spell) &&
+      matchTags(spellStore.filters.tags, spell),
   ),
 );
 

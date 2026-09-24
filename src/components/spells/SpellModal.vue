@@ -19,6 +19,9 @@
     <div v-if="spell.classes.length" class="mb-3">
       <strong class="fst-italic">{{ t("spells.lists") }}.</strong> {{ formatClasses(spell.classes) }}
     </div>
+    <div>
+      <a :href="spell.src" target="_blank">{{ t("spells.wikidot") }}</a>
+    </div>
     <template #footer>
       <TarButton icon="fas fa-xmark" :text="t('actions.close')" variant="secondary" @click="close" />
     </template>

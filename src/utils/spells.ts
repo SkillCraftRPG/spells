@@ -87,6 +87,19 @@ export function formatRange(squares: number | null, n: (value: number, format: s
   }
 }
 
+export function matchClasses(classes: string[] | null | undefined, spell: Spell): number {
+  if (!classes?.length) {
+    return -1;
+  }
+  let match: number = 0;
+  classes.forEach((_class) => {
+    if (spell.classes.includes(_class)) {
+      match++;
+    }
+  });
+  return match;
+}
+
 export function matchGroup(group: string | null | undefined, spell: Spell): number {
   if (!group) {
     return -1;
@@ -132,4 +145,17 @@ export function matchSearch(search: string | null | undefined, spell: Spell): nu
     }
   });
   return score;
+}
+
+export function matchTags(tags: string[] | null | undefined, spell: Spell): number {
+  if (!tags?.length) {
+    return -1;
+  }
+  let match: number = 0;
+  tags.forEach((tag) => {
+    if (spell.tags.includes(tag)) {
+      match++;
+    }
+  });
+  return match;
 }
