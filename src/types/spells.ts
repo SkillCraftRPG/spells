@@ -7,10 +7,12 @@ export type School = "Abjuration" | "Conjuration" | "Divination" | "Enchantment"
 export const SCHOOLS: string[] = ["Abjuration", "Conjuration", "Divination", "Enchantment", "Evocation", "Illusion", "Necromancy", "Transmutation"];
 
 export type SearchSpellsPayload = {
+  classes?: string[] | null;
   group?: string | null;
   level?: RangeFilter<number> | null;
   school?: School | null;
   search?: string | null;
+  tags?: string[] | null;
 };
 
 export type Spell = {

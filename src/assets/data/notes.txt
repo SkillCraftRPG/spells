@@ -1,8 +1,15 @@
 Aid|Le spell inverse (Malédiction) réduit les PV courants & maximum.
+Arms of Hadar|Combiner avec Hunger of Hadar, niveau 3.
 Augury|Devient un talent de tiers 1 accessible à tous les spellcasters.
-Dispel Evil and Good|Break Enchantment va dans Protection, tandis que Dismissal va dans Bannissement.
+Contingency|Talent de tiers 3 requérant Méta-magie.
+Dragon's Breath|Remplace le souffle de la transformation; pour souffle du serpent, poison seulement. 7 éléments pour transformation!
 Find Steed|Talent pour le Champion, ou capacité de la spécialisation, utilise le Pouvoir divin.
 Gift of Alacrity|Également en lien avec la Surprise.
+Hellish Rebuke|Thématique _balefire_ (la Roue du Temps).
+Kinetic Jaunt|+10 ft → Longstrider; no opportunity and move through → Freedom of Movement, but cannot end turn in occupied space.
+Magic Stone|Lancer un objet tenu en main (Self seulement), utilise Occultisme au lieu de Mêlée/Orientation, puis prend fin.
 Prayer of Healing|Talent de tiers 1 pour le Clerc, utilise le Pouvoir divin; par ailleurs problème avec Renvoi des morts-vivants, à reformuler.
+Sending|Inclure Rary's Telepathic Bond et Telepathic feat (speak).
 Silvery Barbs|Avec Pendulum.
-Dragon's Breath|Remplace le souffle de la transformation; pour souffle du serpent, poison seulement. 7 éléments pour transformation!
+Telekinesis|Inclure Telekinesis feat (shove).
+Wall of Light|Also dispels Darkness, as Light and Daylight.

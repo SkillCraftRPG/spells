@@ -5,7 +5,7 @@
         <th scope="col">{{ t("spells.level.label") }}</th>
         <th scope="col">{{ t("spells.school.label") }}</th>
         <th scope="col">{{ t("spells.name") }}</th>
-        <th scope="col">{{ t("spells.classes") }}</th>
+        <th scope="col">{{ t("spells.classes.label") }}</th>
         <th scope="col">{{ t("spells.castingTime.label") }}</th>
         <th scope="col">{{ t("spells.components") }}</th>
         <th scope="col">{{ t("spells.duration.label") }}</th>

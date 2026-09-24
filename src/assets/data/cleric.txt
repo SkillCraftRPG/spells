@@ -1,7 +1,6 @@
 Auras & Mantle & Circle of Power
-Blade Barrier + Destructive Wave + Holy Weapon
+Blade Barrier + Holy Weapon
 Bolstering
-Châtiments
 Coercition
 Dawn + Sunbeam
 Death Ward
@@ -10,5 +9,3 @@ Flame Strike + Fire Storm
 Foi: bouclier, arme, gardien
 Glyphs & Symbols
 Obligation
-Sanctuaire, Silence, Zone de vérité
-Warding Bond + Life Transference
