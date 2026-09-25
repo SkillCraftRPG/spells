@@ -1,7 +1,8 @@
 <template>
   <main class="container-fluid page">
     <h1>{{ title }}</h1>
-    <SpellList :classes="['Cleric', 'Paladin']" />
+    <SpellList class="mb-3" :classes="['Cleric', 'Paladin']" />
+    <SpellDomain domain="divine" />
   </main>
 </template>
 
@@ -9,6 +10,7 @@
 import { computed, watchEffect } from "vue";
 import { useI18n } from "vue-i18n";
 
+import SpellDomain from "@/components/spells/SpellDomain.vue";
 import SpellList from "@/components/spells/SpellList.vue";
 import { useDocument } from "@/composables/document";
 

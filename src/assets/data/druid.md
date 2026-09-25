@@ -3,10 +3,10 @@
 | Tiers 0            | Tiers 1                                   | Tiers 2                  | Tiers 3                  |
 | ------------------ | ----------------------------------------- | ------------------------ | ------------------------ |
 | Arts féériques     | Adaptation naturelle                      | Communion                | Bosquet                  |
-| Carapace           | Liberté                                   | Êtres féériques          | Manifestation draconique |
-| Lueurs féériques   | Lien animal                               | Éveil                    | Mirage                   |
-| Souffle du serpent | Protection contre la magie                | Flétrissure et floraison | Réseau de racines        |
-| Vignes épineuses   | Protection contre les poisons et maladies | Localisation             | —                        |
+| Carapace           | Liberté                                   | Êtres féériques          | —                        |
+| Lueurs féériques   | Lien animal                               | Éveil                    | Manifestation draconique |
+| Souffle du serpent | Protection contre la magie                | Flétrissure et floraison | Mirage                   |
+| Vignes épineuses   | Protection contre les poisons et maladies | Localisation             | Réseau de racines        |
 | —                  | Restauration                              | Résonance primordiale    | —                        |
 | —                  | —                                         | Peste                    | —                        |
 

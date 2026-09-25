@@ -1,0 +1,12 @@
+Voici tous les spells de Necromancy des niveaux 0 à 7 pour la magie arcane.
+Oublie tout ce qu’on a défini par le passé.
+L’objectif est de créer des groupes de 2 spells et plus, idéalement 3, et de nommer un nom court et efficace, mais distingué et évocateur.
+Les règles sont :
+
+- Les cantrips sont toujours le premier spell d’un groupe de tiers 0.
+- Les groupes de tiers 0 devraient être composés d’au moins un cantrip en première position, d’un spell de niveau 1 ou 2 en deuxième, et d’un spell de niveau 2, 3 ou 4 en troisième position.
+- Les groupes de tiers 1 devraient être composés de spells de niveaux 1 à 3, avec 3 ou 4 en troisième position si possible.
+- Les groupes de tiers 2 devraient être composés de spells de niveaux 3 à 5, mais on peut accepter exceptionnellement des 2 et 6.
+- Les groupes de tiers 3 devraient être composés de spells de niveaux 5 à 7, mais on peut accepter exceptionnellement des 3 et 4.
+
+On veut donc créer des groupes logiques pour éviter d’avoir un overlap entre spells qui ont un effet équivalent ou similaire en les regroupant.

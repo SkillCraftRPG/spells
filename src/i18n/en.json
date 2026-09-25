@@ -98,6 +98,10 @@
       "select": "Select tags",
       "selected": "None selected. | {count} selected. | {count} selected."
     },
+    "tier": {
+      "format": "Tiers {tier}",
+      "label": "Tiers"
+    },
     "title": {
       "abjuration": "Abjuration Spells",
       "all": "All Spells",

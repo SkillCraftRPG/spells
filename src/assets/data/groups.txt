@@ -1,415 +1,43 @@
-Adaptation naturelle|Barkskin
-Adaptation naturelle|Darkvision
-Adaptation naturelle|Enhance Ability
-Adaptation naturelle|Guardian of Nature
-Adaptation naturelle|Water Breathing
-Affaiblissement|Blindness/Deafness
-Affaiblissement|Ray of Enfeeblement
-Affaiblissement|Ray of Sickness
-Animation des morts|Animate Dead
-Animation des morts|Negative Energy Flood
-Aranéide|Darkvision
-Aranéide|Spider Climb
-Aranéide|Web
-Arcane Light|Continual Flame
-Arcane Light|Dancing Lights
-Armure magique|Intellect Fortress
-Armure magique|Mage Armor
-Armure magique|Shield
-Arts féériques|Druidcraft
-Arts féériques|Healing Spirit
-Arts féériques|Mending
-Arts féériques|Pass Without Trace
-Arts féériques|Shillelagh
-Balancier|Fortune's Favor
-Balancier|Pendulum
-Balancier|Silvery Barbs
-Bosquet|Druid Grove
-Bosquet|Wall of Thorns
-Bosquet|Wrath Of Nature
-Bénédiction|Aid
-Bénédiction|Bane
-Bénédiction|Bless
-Bénédiction|Guidance
 Cage spirituelle|Magic Jar
 Cage spirituelle|Soul Cage
 Cage spirituelle|Tether Essence
-Calamité|Bestow Curse
-Calamité|Blight
-Calamité|Contagion
-Calamité|Hex
-Capacités élémentaires|Conjure Elemental
-Capacités élémentaires|Conjure Minor Elementals
-Capacités élémentaires|Summon Elemental
-Carapace|Blade Ward
-Carapace|Resistance
-Carapace|Stoneskin
-Champion/Paladin|Blinding Smite
-Champion/Paladin|Branding Smite
-Champion/Paladin|Find Greater Steed
-Champion/Paladin|Find Steed
-Champion/Paladin|Searing Smite
-Champion/Paladin|Staggering Smite
-Champion/Paladin|Thunderous Smite
-Champion/Paladin|Wrathful Smite
-Clairvoyance|Arcane Eye
-Clairvoyance|Clairvoyance
-Clairvoyance|Scrying
-Cognition|Borrowed Knowledge
-Cognition|Identify
-Cognition|Legend Lore
-Communion|Commune
-Communion|Commune with Nature
-Communion|Contact Other Plane
-Communion|Divination
-Compréhension linguistique|Comprehend Languages
-Compréhension linguistique|Tongues
-Conscience éveillée|Detect Thoughts
-Conscience éveillée|Find Traps
-Conscience éveillée|Gift of Alacrity
-Conscience éveillée|See Invisibility
-Convoi divin|Etherealness
-Convoi divin|Plane Shift
-Convoi divin|Word of Recall
-Corde enchantée|Earthbind
-Corde enchantée|Rope Trick
-Corde enchantée|Snare
-Danse macabre|Create Undead
+Danse macabre|Animate Dead
 Danse macabre|Danse Macabre
-Distorsion|Gravity Fissure
-Distorsion|Reverse Gravity
+Débilitation|Blindness/Deafness
+Débilitation|Ray of Enfeeblement
+Débilitation|Ray of Sickness
 Esprits funèbres|Shadow Of Moil
 Esprits funèbres|Spirit Of Death
 Esprits funèbres|Spirit Shroud
 Esprits funèbres|Summon Undead
-Esprits gardiens|Beacon of Hope
-Esprits gardiens|Spirit Guardians
 Esprits gardiens|Spirit Shroud
-Exaltation|Ashardalon's Stride
-Exaltation|Skill Empowerment
-Exaltation|Tasha's Otherworldly Guise
-Exaltation|Tenser's Transformation
-Faucheur|Circle of Death
-Faucheur|Finger of Death
-Faucheur|Harm
-Façonnage|Animate Objects
-Façonnage|Fabricate
-Façonnage|Tiny Servant
-Flamme sacrée|Guiding Bolt
-Flamme sacrée|Sacred Flame
-Flétrissure et floraison|Antilife Shell
-Flétrissure et floraison|Aura of Vitality
-Flétrissure et floraison|Blight
-Flétrissure et floraison|Plant Growth
-Flétrissure et floraison|Reincarnate
-Flétrissure et floraison|Wither and Bloom
-Forteresse|Galder's Tower
-Forteresse|Guards and Wards
-Forteresse|Leomund's Tiny Hut
-Forteresse|Mordenkainen's Magnificent Mansion
-Forteresse|Mordenkainen's Private Sanctum
-Frappe véritable|Hunter's Mark
-Frappe véritable|Mind Spike
-Frappe véritable|True Strike
+Frisson|Blight
 Frisson|Cause Fear
 Frisson|Chill Touch
 Frisson|Sapping Sting
-Frisson|Wither and Bloom
-Globe d’invulnérabilité|Fizban's Platinum Shield
-Globe d’invulnérabilité|Globe of Invulnerability
-Gravité|Gravity Sinkhole
-Gravité|Pulse Wave
-Guérison|Cure Wounds
-Guérison|Healing Word
-Guérison|Mass Cure Wounds
-Guérison|Mass Healing Word
-Hallucination|Minor Illusion
-Homoncule|Create Homunculus
-Homoncule|Create Magen
-Interdiction|Alarm
-Interdiction|Arcane Lock
-Interdiction|Nondetection
-Invisibilité|Blur
-Invocation céleste|Conjure Celestial
-Invocation céleste|Planar Ally
-Invocation céleste|Summon Celestial
-Invocation infernale|Infernal Calling
-Invocation infernale|Summon Fiend
-Invocation infernale|Summon Greater Demon
-Invocation infernale|Summon Lesser Demons
-Iridescence|Crown of Stars
-Iridescence|Prismatic Spray
-Liberté|Fly
-Liberté|Freedom of Movement
-Liberté|Jump
-Liberté|Kinetic Jaunt
-Liberté|Longstrider
-Lien animal|Animal Friendship
-Lien animal|Animal Messenger
-Lien animal|Beast Bond
-Lien animal|Beast Sense
-Lien animal|Speak with Animals
-Localisation|Find the Path
-Localisation|Locate Animals or Plants
-Localisation|Locate Creature
-Localisation|Locate Object
-Lueurs féériques|Create Bonfire
-Lueurs féériques|Faerie Fire
-Lueurs féériques|Moonbeam
-Lumière|Daylight
-Lumière|Light
-Lumière|Word of Radiance
-Main magique|Bigby's Hand
-Main magique|Mage Hand
-Main magique|Tenser's Floating Disk
-Main magique|Unseen Servant
-Manifestation de force|Forcecage
-Manifestation de force|Mordenkainen's Sword
-Manifestation de force|Otiluke's Resilient Sphere
-Manifestation de force|Wall of Force
-Manifestation draconique|Draconic Transformation
-Manifestation draconique|Dragon's Breath
-Manifestation draconique|Summon Draconic Spirit
-Miracles|Divine Word
-Miracles|Heal
-Miracles|Heroes' Feast
-Miracles|Regenerate
-Mirage|Hallucinatory Terrain
-Mirage|Mirage Arcane
-Missiles magiques|Eldritch Blast
-Missiles magiques|Jim's Magic Missile
-Missiles magiques|Magic Missile
-Métamorphose|Alter Self
-Métamorphose|Enlarge/Reduce
-Métamorphose|Polymorph
-Métamorphose|Water Breathing
-N/A|Create Spelljamming Helm
-N/A|Goodberry
-Orbe chromatique|Chaos Bolt
-Orbe chromatique|Chromatic Orb
-Parangon|Banishing Smite
-Parangon|Circle of Power
-Parangon|Destructive Wave
-Pesanteur|Feather Fall
-Pesanteur|Immovable Object
-Pesanteur|Levitate
-Pesanteur|Magnify Gravity
-Peste|Giant Insect
-Peste|Infestation
-Peste|Insect Plague
-Porte dimensionnelle|Dimension Door
-Porte dimensionnelle|Far Step
-Porte dimensionnelle|Galder's Speedy Courier
-Porte dimensionnelle|Leomund's Secret Chest
-Porte dimensionnelle|Teleportation Circle
-Poulpe|Darkness
-Poulpe|Evard's Black Tentacles
-Poulpe|Grease
-Prestidigitation|Catapult
-Prestidigitation|Knock
-Prestidigitation|Magic Stone
-Prestidigitation|Mending
-Prestidigitation|Prestidigitation
-Prestidigitation|Pyrotechnics
-Protection contre la magie|Counterspell
-Protection contre la magie|Detect Magic
-Protection contre la magie|Dispel Magic
-Protection contre la magie|Warp Sense
-Protection contre le bien et le mal|Detect Evil and Good
-Protection contre le bien et le mal|Dispel Evil and Good
-Protection contre le bien et le mal|Protection from Evil and Good
-Protection contre les poisons et maladies|Create Food and Water
-Protection contre les poisons et maladies|Detect Poison and Disease
-Protection contre les poisons et maladies|Purify Food and Drink
+Malédiction|Bestow Curse
+Malédiction|Contagion
+Malédiction|Hex
+Nécrogenèse|Create Undead
+Nécrogenèse|Finger of Death
+Nécrogenèse|Negative Energy Flood
 Préservation|Feign Death
 Préservation|Gentle Repose
 Préservation|Spare the Dying
 Préservation|Speak with Dead
-Radiance|Sickening Radiance
-Radiance|Wall of Light
-Rafale de lames|Cloud of Daggers
-Rafale de lames|Spray Of Cards
-Rafale de lames|Sword Burst
-Restauration|Greater Restoration
-Restauration|Lesser Restoration
-Restauration|Remove Curse
-Réseau de racines|Plane Shift
-Réseau de racines|Transport via Plants
-Réseau de racines|Tree Stride
-Résonance primordiale|Absorb Elements
-Résonance primordiale|Elemental Bane
-Résonance primordiale|Elemental Weapon
-Résonance primordiale|Primordial Ward
-Résonance primordiale|Protection from Energy
 Résurrection|Raise Dead
 Résurrection|Resurrection
 Résurrection|Revivify
-Sanctuaire|Sanctuary
-Sanctuaire|Silence
-Sanctuaire|Zone of Truth
-Sceau magique|Banishment
-Sceau magique|Gate Seal
-Sceau magique|Magic Circle
-Sceau magique|Planar Binding
-Serviteur|Find Familiar
-Serviteur|Flock of Familiars
-Serviteur|Mordenkainen's Faithful Hound
-Serviteur|Summon Construct
-Songe|Dream
-Songe|Dream of the Blue Veil
-Songe|Etherealness
-Souffle du serpent|Dragon's Breath
-Souffle du serpent|Poison Spray
-Souffle du serpent|Protection from Poison
-Stase|Sequester
-Stase|Temporal Shunt
-Système 3-actions|Expeditious Retreat
-Talent|Augury
-Talent|Contingency
-Talent|Magic Weapon
-Talent|Prayer of Healing
-Temple|Forbiddance
-Temple|Hallow
-Temple|Temple of the Gods
-Temporalité|Delay
-Temporalité|Haste
-Temporalité|Hurry
-Temporalité|Slow
-Thaumaturgie|Ceremony
 Thaumaturgie|Life Transference
-Thaumaturgie|Mending
-Thaumaturgie|Thaumaturgy
 Thaumaturgie|Toll the Dead
-Thaumaturgie|Warding Bond
 Toucher vampirique|False Life
-Toucher vampirique|Inflict Wounds
 Toucher vampirique|Life Transference
 Toucher vampirique|Vampiric Touch
-Troisième œil|True Seeing
-Télékinésie|Disintegrate
-Télékinésie|Passwall
-Télékinésie|Telekinesis
-Téléportation|Arcane Gate
-Téléportation|Drawmij's Instant Summons
-Téléportation|Plane Shift
-Téléportation|Scatter
-Téléportation|Teleport
-Vide|Arms of Hadar
-Vide|Hellish Rebuke
-Vide|Hunger Of Hadar
-Vide|Summon Aberration
-Vide|Summon Shadowspawn
-Vignes épineuses|Ensnaring Strike
-Vignes épineuses|Entangle
-Vignes épineuses|Hail of Thorns
-Vignes épineuses|Spike Growth
-Vignes épineuses|Thorn Whip
-Vortex|Blink
-Vortex|Misty Step
-Vortex|Vortex Warp
-Vortex|Wristpocket
-Éclat mental|Mind Sliver
-Éclat mental|Vicious Mockery
+Toucher vampirique|Wither and Bloom
+Émanations sépulcrales|Circle of Death
 Émanations sépulcrales|Enervation
 Émanations sépulcrales|Eyebite
-Éveil|Awaken
-Éveil|Grasping Vine
-Éveil|Speak with Plants
-Êtres féériques|Conjure Animals
-Êtres féériques|Conjure Fey
-Êtres féériques|Conjure Woodland Beings
-Êtres féériques|Summon Beast
-Êtres féériques|Summon Fey
-----------------------------------------------------------------------------------------------------
-Acid|Acid Splash
-Acid|Melf's Acid Arrow
-Acid|Primal Savagery
-Acid|Tasha's Caustic Brew
-Acid|Vitriolic Sphere
-Earth|Earth Tremor
-Earth|Erupting Earth
-Earth|Maximillian's Earthen Grasp
-Earth|Mold Earth
-Earth|Move Earth
-Earth|Wall of Sand
-Fire|Aganazzar's Scorcher
-Fire|Burning Hands
-Fire|Control Flames
-Fire|Delayed Blast Fireball
-Fire|Fire Bolt
-Fire|Fire Shield
-Fire|Fire Storm
-Fire|Fireball
-Fire|Flame Arrows
-Fire|Flame Blade
-Fire|Flame Strike
-Fire|Flaming Sphere
-Fire|Green-Flame Blade
-Fire|Heat Metal
-Fire|Immolation
-Fire|Investiture of Flame
-Fire|Melf's Minute Meteors
-Fire|Produce Flame
-Fire|Scorching Ray
-Fire|Wall of Fire
-Ice|Armor of Agathys
-Ice|Cone of Cold
-Ice|Frost Fingers
-Ice|Frostbite
-Ice|Ice Knife
-Ice|Ice Storm
-Ice|Investiture of Ice
-Ice|Otiluke's Freezing Sphere
-Ice|Ray of Frost
-Ice|Rime's Binding Ice
-Ice|Sleet Storm
-Ice|Snilloc's Snowball Swarm
-Ice|Wall of Ice
-Lightning|Call Lightning
-Lightning|Chain Lightning
-Lightning|Lightning Arrow
-Lightning|Lightning Bolt
-Lightning|Lightning Lure
-Lightning|Shocking Grasp
-Lightning|Storm Sphere
-Lightning|Witch Bolt
-Stone|Bones of the Earth
-Stone|Flesh to Stone
-Stone|Investiture of Stone
-Stone|Meld into Stone
-Stone|Passwall
-Stone|Stone Shape
-Stone|Stoneskin
-Stone|Transmute Rock
-Stone|Wall of Stone
-Thunder|Booming Blade
-Thunder|Shatter
-Thunder|Thunder Step
-Thunder|Thunderclap
-Thunder|Thunderwave
-Water|Control Water
-Water|Create or Destroy Water
-Water|Maelstrom
-Water|Shape Water
-Water|Tidal Wave
-Water|Wall of Water
-Water|Water Breathing
-Water|Water Walk
-Water|Watery Sphere
-Wind|Air Bubble
-Wind|Cloudkill
-Wind|Control Winds
-Wind|Dust Devil
-Wind|Fog Cloud
-Wind|Gaseous Form
-Wind|Gust
-Wind|Gust of Wind
-Wind|Investiture of Wind
-Wind|Skywrite
-Wind|Steel Wind Strike
-Wind|Stinking Cloud
-Wind|Warding Wind
-Wind|Whirlwind
-Wind|Wind Walk
-Wind|Wind Wall
-Wind|Zephyr Strike
+🚧Harm|Harm
+🚧Harm|Inflict Wounds
+🚧Wither and Bloom|Blight
+🚧Wither and Bloom|Wither and Bloom
