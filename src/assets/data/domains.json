@@ -1,17 +1,26 @@
 {
   "animism": {
-    "0": ["Arts féériques", "Carapace", "Lueurs féériques", "Souffle du serpent", "Vignes épineuses"],
-    "1": ["Adaptation naturelle", "Liberté", "Lien animal", "Protection contre la magie", "Protection contre les poisons et maladies", "Restauration"],
-    "2": ["Flétrissure et floraison"]
+    "0": ["Arts féériques"],
+    "1": [],
+    "2": [],
+    "3": []
   },
   "divine": {
-    "0": ["Bénédiction", "Flamme sacrée", "Lumière", "Préservation", "Thaumaturgie"],
-    "1": ["Guérison", "Protection contre la magie", "Protection contre le bien et le mal", "Protection contre les poisons et maladies", "Restauration"]
+    "0": ["Préservation", "Thaumaturgie"],
+    "1": [],
+    "2": [],
+    "3": []
   },
   "necromancy": {
     "0": ["Frisson", "Préservation"],
     "1": ["Débilitation", "Toucher vampirique"],
     "2": ["Danse macabre", "Esprits funèbres", "Malédiction"],
     "3": ["Cage spirituelle", "Émanations sépulcrales", "Nécrogenèse", "Résurrection"]
+  },
+  "transmutation": {
+    "0": ["Prestidigitation"],
+    "1": [],
+    "2": [],
+    "3": []
   }
 }

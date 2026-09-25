@@ -1,3 +1,8 @@
+Arts féériques|Druidcraft
+Arts féériques|Mending
+Arts féériques|Pass Without Trace
+Arts féériques|Plant Growth
+Arts féériques|Shillelagh
 Cage spirituelle|Magic Jar
 Cage spirituelle|Soul Cage
 Cage spirituelle|Tether Essence
@@ -21,6 +26,9 @@ Malédiction|Hex
 Nécrogenèse|Create Undead
 Nécrogenèse|Finger of Death
 Nécrogenèse|Negative Energy Flood
+Prestidigitation|Magic Stone
+Prestidigitation|Mending
+Prestidigitation|Prestidigitation
 Préservation|Feign Death
 Préservation|Gentle Repose
 Préservation|Spare the Dying
@@ -28,8 +36,12 @@ Préservation|Speak with Dead
 Résurrection|Raise Dead
 Résurrection|Resurrection
 Résurrection|Revivify
+Thaumaturgie|Ceremony
 Thaumaturgie|Life Transference
+Thaumaturgie|Mending
+Thaumaturgie|Thaumaturgy
 Thaumaturgie|Toll the Dead
+Thaumaturgie|Warding Bond
 Toucher vampirique|False Life
 Toucher vampirique|Life Transference
 Toucher vampirique|Vampiric Touch
