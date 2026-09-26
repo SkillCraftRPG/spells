@@ -5,6 +5,12 @@
     "2": [],
     "3": []
   },
+  "divination": {
+    "0": ["Frappe véritable"],
+    "1": ["Compréhension", "Localisation", "Protection contre la magie"],
+    "2": ["Clairvoyance", "Communion", "Télépathie"],
+    "3": ["Révélation"]
+  },
   "divine": {
     "0": ["Préservation", "Thaumaturgie"],
     "1": [],

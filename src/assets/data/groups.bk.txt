@@ -11,14 +11,6 @@ Arcane Light|Dancing Lights
 Armure magique|Intellect Fortress
 Armure magique|Mage Armor
 Armure magique|Shield
-Arts féériques|Druidcraft
-Arts féériques|Healing Spirit
-Arts féériques|Mending
-Arts féériques|Pass Without Trace
-Arts féériques|Shillelagh
-Balancier|Fortune's Favor
-Balancier|Pendulum
-Balancier|Silvery Barbs
 Bosquet|Druid Grove
 Bosquet|Wall of Thorns
 Bosquet|Wrath Of Nature
@@ -40,22 +32,6 @@ Champion/Paladin|Searing Smite
 Champion/Paladin|Staggering Smite
 Champion/Paladin|Thunderous Smite
 Champion/Paladin|Wrathful Smite
-Clairvoyance|Arcane Eye
-Clairvoyance|Clairvoyance
-Clairvoyance|Scrying
-Cognition|Borrowed Knowledge
-Cognition|Identify
-Cognition|Legend Lore
-Communion|Commune
-Communion|Commune with Nature
-Communion|Contact Other Plane
-Communion|Divination
-Compréhension linguistique|Comprehend Languages
-Compréhension linguistique|Tongues
-Conscience éveillée|Detect Thoughts
-Conscience éveillée|Find Traps
-Conscience éveillée|Gift of Alacrity
-Conscience éveillée|See Invisibility
 Convoi divin|Etherealness
 Convoi divin|Plane Shift
 Convoi divin|Word of Recall
@@ -87,9 +63,6 @@ Forteresse|Guards and Wards
 Forteresse|Leomund's Tiny Hut
 Forteresse|Mordenkainen's Magnificent Mansion
 Forteresse|Mordenkainen's Private Sanctum
-Frappe véritable|Hunter's Mark
-Frappe véritable|Mind Spike
-Frappe véritable|True Strike
 Globe d’invulnérabilité|Fizban's Platinum Shield
 Globe d’invulnérabilité|Globe of Invulnerability
 Gravité|Gravity Sinkhole
@@ -104,7 +77,6 @@ Homoncule|Create Magen
 Interdiction|Alarm
 Interdiction|Arcane Lock
 Interdiction|Nondetection
-Invisibilité|Blur
 Invocation céleste|Conjure Celestial
 Invocation céleste|Planar Ally
 Invocation céleste|Summon Celestial
@@ -124,10 +96,6 @@ Lien animal|Animal Messenger
 Lien animal|Beast Bond
 Lien animal|Beast Sense
 Lien animal|Speak with Animals
-Localisation|Find the Path
-Localisation|Locate Animals or Plants
-Localisation|Locate Creature
-Localisation|Locate Object
 Lueurs féériques|Create Bonfire
 Lueurs féériques|Faerie Fire
 Lueurs féériques|Moonbeam
@@ -180,22 +148,6 @@ Porte dimensionnelle|Teleportation Circle
 Poulpe|Darkness
 Poulpe|Evard's Black Tentacles
 Poulpe|Grease
-Prestidigitation|Catapult
-Prestidigitation|Knock
-Prestidigitation|Magic Stone
-Prestidigitation|Mending
-Prestidigitation|Prestidigitation
-Prestidigitation|Pyrotechnics
-Protection contre la magie|Counterspell
-Protection contre la magie|Detect Magic
-Protection contre la magie|Dispel Magic
-Protection contre la magie|Warp Sense
-Protection contre le bien et le mal|Detect Evil and Good
-Protection contre le bien et le mal|Dispel Evil and Good
-Protection contre le bien et le mal|Protection from Evil and Good
-Protection contre les poisons et maladies|Create Food and Water
-Protection contre les poisons et maladies|Detect Poison and Disease
-Protection contre les poisons et maladies|Purify Food and Drink
 Radiance|Sickening Radiance
 Radiance|Wall of Light
 Rafale de lames|Cloud of Daggers
@@ -232,9 +184,7 @@ Souffle du serpent|Protection from Poison
 Stase|Sequester
 Stase|Temporal Shunt
 Système 3-actions|Expeditious Retreat
-Talent|Augury
 Talent|Contingency
-Talent|Magic Weapon
 Talent|Prayer of Healing
 Temple|Forbiddance
 Temple|Hallow
@@ -243,13 +193,6 @@ Temporalité|Delay
 Temporalité|Haste
 Temporalité|Hurry
 Temporalité|Slow
-Thaumaturgie|Ceremony
-Thaumaturgie|Life Transference
-Thaumaturgie|Mending
-Thaumaturgie|Thaumaturgy
-Thaumaturgie|Toll the Dead
-Thaumaturgie|Warding Bond
-Troisième œil|True Seeing
 Télékinésie|Disintegrate
 Télékinésie|Passwall
 Télékinésie|Telekinesis

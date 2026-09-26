@@ -4,6 +4,7 @@ Augury|Devient un talent de tiers 1 accessible à tous les spellcasters.
 Contingency|Talent de tiers 3 requérant Méta-magie.
 Dragon's Breath|Remplace le souffle de la transformation; pour souffle du serpent, poison seulement. 7 éléments pour transformation!
 Find Steed|Talent pour le Champion, ou capacité de la spécialisation, utilise le Pouvoir divin.
+Find Traps|Appliquer le même traitement que les Locate.
 Gift of Alacrity|Également en lien avec la Surprise.
 Hellish Rebuke|Thématique _balefire_ (la Roue du Temps).
 Kinetic Jaunt|+10 ft → Longstrider; no opportunity and move through → Freedom of Movement, but cannot end turn in occupied space.
@@ -13,3 +14,5 @@ Sending|Inclure Rary's Telepathic Bond et Telepathic feat (speak).
 Silvery Barbs|Avec Pendulum.
 Telekinesis|Inclure Telekinesis feat (shove).
 Wall of Light|Also dispels Darkness, as Light and Daylight.
+Gift of Alacrity|Joindre avec Encode Thoughts (simultanément ; niveau 3).
+Mind Spike|Dans télépathie, offre effet feat Telepathic pendant 1 minute (C), puis peut mettre fin au pouvoir pour infliger les dégâts psychiques; dans Frappe véritable, savoir où la cible se trouve.

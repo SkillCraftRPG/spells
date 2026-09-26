@@ -1,4 +1,4 @@
-Voici tous les spells de Necromancy des niveaux 0 à 7 pour la magie arcane.
+Voici tous les spells de Divination des niveaux 0 à 7.
 Oublie tout ce qu’on a défini par le passé.
 L’objectif est de créer des groupes de 2 spells et plus, idéalement 3, et de nommer un nom court et efficace, mais distingué et évocateur.
 Les règles sont :

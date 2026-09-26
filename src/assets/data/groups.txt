@@ -1,11 +1,32 @@
-Arts féériques|Druidcraft
-Arts féériques|Mending
-Arts féériques|Pass Without Trace
-Arts féériques|Plant Growth
-Arts féériques|Shillelagh
+Arts druidiques|Druidcraft
+Arts druidiques|Mending
+Arts druidiques|Pass Without Trace
+Arts druidiques|Plant Growth
+Arts druidiques|Shillelagh
+Balancier|Fortune's Favor
+Balancier|Pendulum
+Balancier|Silvery Barbs
+Bénédiction|Aid
+Bénédiction|Bane
+Bénédiction|Bless
+Bénédiction|Guidance
 Cage spirituelle|Magic Jar
 Cage spirituelle|Soul Cage
 Cage spirituelle|Tether Essence
+Clairvoyance|Arcane Eye
+Clairvoyance|Clairvoyance
+Clairvoyance|Scrying
+Communication|Encode Thoughts
+Communication|Message
+Communication|Sending
+Communion|Commune
+Communion|Commune with Nature
+Communion|Contact Other Plane
+Communion|Divination
+Compréhension|Borrowed Knowledge
+Compréhension|Comprehend Languages
+Compréhension|Identify
+Compréhension|Tongues
 Danse macabre|Animate Dead
 Danse macabre|Danse Macabre
 Débilitation|Blindness/Deafness
@@ -16,10 +37,23 @@ Esprits funèbres|Spirit Of Death
 Esprits funèbres|Spirit Shroud
 Esprits funèbres|Summon Undead
 Esprits gardiens|Spirit Shroud
+Frappe véritable|Hunter's Mark
+Frappe véritable|Mind Spike
+Frappe véritable|True Strike
 Frisson|Blight
 Frisson|Cause Fear
 Frisson|Chill Touch
 Frisson|Sapping Sting
+Invisibilité|Blur
+Invisibilité|Greater Invisibility
+Invisibilité|Invisibility
+Lien animal|Beast Bond
+Lien animal|Beast Sense
+Lien animal|Speak with Animals
+Localisation|Find Traps
+Localisation|Locate Animals or Plants
+Localisation|Locate Creature
+Localisation|Locate Object
 Malédiction|Bestow Curse
 Malédiction|Contagion
 Malédiction|Hex
@@ -29,6 +63,16 @@ Nécrogenèse|Negative Energy Flood
 Prestidigitation|Magic Stone
 Prestidigitation|Mending
 Prestidigitation|Prestidigitation
+Protection contre la magie|Detect Magic
+Protection contre la magie|Dispel Magic
+Protection contre la magie|See Invisibility
+Protection contre la magie|Warp Sense
+Protection contre le bien et le mal|Detect Evil and Good
+Protection contre le bien et le mal|Dispel Evil and Good
+Protection contre le bien et le mal|Protection from Evil and Good
+Protection contre les poisons et maladies|Create Food and Water
+Protection contre les poisons et maladies|Detect Poison and Disease
+Protection contre les poisons et maladies|Purify Food and Drink
 Préservation|Feign Death
 Préservation|Gentle Repose
 Préservation|Spare the Dying
@@ -36,6 +80,11 @@ Préservation|Speak with Dead
 Résurrection|Raise Dead
 Résurrection|Resurrection
 Résurrection|Revivify
+Révélation|Find the Path
+Révélation|Legend Lore
+Révélation|True Seeing
+Talent|Augury
+Talent|Magic Weapon
 Thaumaturgie|Ceremony
 Thaumaturgie|Life Transference
 Thaumaturgie|Mending
@@ -46,9 +95,34 @@ Toucher vampirique|False Life
 Toucher vampirique|Life Transference
 Toucher vampirique|Vampiric Touch
 Toucher vampirique|Wither and Bloom
+Télépathie|Detect Thoughts
+Télépathie|Gift of Alacrity
+Télépathie|Mind Spike
+Télépathie|Rary's Telepathic Bond
 Émanations sépulcrales|Circle of Death
 Émanations sépulcrales|Enervation
 Émanations sépulcrales|Eyebite
+🔥|Aganazzar's Scorcher
+🔥|Burning Hands
+🔥|Control Flames
+🔥|Delayed Blast Fireball
+🔥|Fire Bolt
+🔥|Fire Shield
+🔥|Fire Storm
+🔥|Fireball
+🔥|Flame Arrows
+🔥|Flame Blade
+🔥|Flame Strike
+🔥|Flaming Sphere
+🔥|Green-Flame Blade
+🔥|Heat Metal
+🔥|Immolation
+🔥|Investiture of Flame
+🔥|Melf's Minute Meteors
+🔥|Prismatic Spray
+🔥|Produce Flame
+🔥|Scorching Ray
+🔥|Wall of Fire
 🚧Harm|Harm
 🚧Harm|Inflict Wounds
 🚧Wither and Bloom|Blight
