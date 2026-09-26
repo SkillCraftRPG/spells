@@ -1,3 +1,8 @@
+Adaptation naturelle|Barkskin
+Adaptation naturelle|Darkvision
+Adaptation naturelle|Enhance Ability
+Adaptation naturelle|Guardian of Nature
+Adaptation naturelle|Water Breathing
 Arts druidiques|Druidcraft
 Arts druidiques|Mending
 Arts druidiques|Pass Without Trace
@@ -27,6 +32,10 @@ Compréhension|Borrowed Knowledge
 Compréhension|Comprehend Languages
 Compréhension|Identify
 Compréhension|Tongues
+Contrôle de la Terre|Mold Earth
+Contrôle de l’Air|Gust
+Contrôle de l’Eau|Shape Water
+Contrôle du Feu|Control Flames
 Danse macabre|Animate Dead
 Danse macabre|Danse Macabre
 Débilitation|Blindness/Deafness
@@ -37,6 +46,9 @@ Esprits funèbres|Spirit Of Death
 Esprits funèbres|Spirit Shroud
 Esprits funèbres|Summon Undead
 Esprits gardiens|Spirit Shroud
+Façonnage|Animate Objects
+Façonnage|Fabricate
+Façonnage|Tiny Servant
 Frappe véritable|Hunter's Mark
 Frappe véritable|Mind Spike
 Frappe véritable|True Strike
@@ -57,9 +69,17 @@ Localisation|Locate Object
 Malédiction|Bestow Curse
 Malédiction|Contagion
 Malédiction|Hex
+Métamorphose|Alter Self
+Métamorphose|Enlarge/Reduce
+Métamorphose|Polymorph
+Métamorphose|Water Breathing
+N/A|Create Spelljamming Helm
+N/A|Goodberry
 Nécrogenèse|Create Undead
 Nécrogenèse|Finger of Death
 Nécrogenèse|Negative Energy Flood
+Orbe chromatique|Chaos Bolt
+Orbe chromatique|Chromatic Orb
 Prestidigitation|Magic Stone
 Prestidigitation|Mending
 Prestidigitation|Prestidigitation
@@ -102,9 +122,62 @@ Télépathie|Rary's Telepathic Bond
 Émanations sépulcrales|Circle of Death
 Émanations sépulcrales|Enervation
 Émanations sépulcrales|Eyebite
+⚡|Booming Blade
+⚡|Call Lightning
+⚡|Chain Lightning
+⚡|Destructive Wave
+⚡|Lightning Arrow
+⚡|Lightning Bolt
+⚡|Lightning Lure
+⚡|Shatter
+⚡|Shocking Grasp
+⚡|Storm Sphere
+⚡|Thunder Step
+⚡|Thunderclap
+⚡|Thunderous Smite
+⚡|Thunderwave
+⚡|Witch Bolt
+❄️|Armor of Agathys
+❄️|Cone of Cold
+❄️|Frost Fingers
+❄️|Frostbite
+❄️|Ice Knife
+❄️|Ice Storm
+❄️|Investiture of Ice
+❄️|Otiluke's Freezing Sphere
+❄️|Ray of Frost
+❄️|Rime's Binding Ice
+❄️|Sleet Storm
+❄️|Snilloc's Snowball Swarm
+❄️|Wall of Ice
+💧|Control Water
+💧|Create or Destroy Water
+💧|Fog Cloud
+💧|Maelstrom
+💧|Tidal Wave
+💧|Wall of Water
+💧|Water Breathing
+💧|Water Walk
+💧|Watery Sphere
+💨|Air Bubble
+💨|Cloudkill
+💨|Control Winds
+💨|Dust Devil
+💨|Feather Fall
+💨|Fly
+💨|Fog Cloud
+💨|Gaseous Form
+💨|Gust of Wind
+💨|Investiture of Wind
+💨|Levitate
+💨|Skywrite
+💨|Warding Wind
+💨|Whirlwind
+💨|Wind Walk
+💨|Wind Wall
+💨|Zephyr Strike
 🔥|Aganazzar's Scorcher
 🔥|Burning Hands
-🔥|Control Flames
 🔥|Delayed Blast Fireball
 🔥|Fire Bolt
 🔥|Fire Shield
@@ -119,7 +192,6 @@ Télépathie|Rary's Telepathic Bond
 🔥|Immolation
 🔥|Investiture of Flame
 🔥|Melf's Minute Meteors
-🔥|Prismatic Spray
 🔥|Produce Flame
 🔥|Scorching Ray
 🔥|Wall of Fire
@@ -127,3 +199,23 @@ Télépathie|Rary's Telepathic Bond
 🚧Harm|Inflict Wounds
 🚧Wither and Bloom|Blight
 🚧Wither and Bloom|Wither and Bloom
+🧪|Acid Splash
+🧪|Melf's Acid Arrow
+🧪|Primal Savagery
+🧪|Tasha's Caustic Brew
+🧪|Vitriolic Sphere
+🪨|Bones of the Earth
+🪨|Dust Devil
+🪨|Earth Tremor
+🪨|Erupting Earth
+🪨|Flesh to Stone
+🪨|Investiture of Stone
+🪨|Maximillian's Earthen Grasp
+🪨|Meld into Stone
+🪨|Move Earth
+🪨|Passwall
+🪨|Stone Shape
+🪨|Stoneskin
+🪨|Transmute Rock
+🪨|Wall of Sand
+🪨|Wall of Stone

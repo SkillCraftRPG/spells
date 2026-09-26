@@ -1,8 +1,3 @@
-Adaptation naturelle|Barkskin
-Adaptation naturelle|Darkvision
-Adaptation naturelle|Enhance Ability
-Adaptation naturelle|Guardian of Nature
-Adaptation naturelle|Water Breathing
 Aranéide|Darkvision
 Aranéide|Spider Climb
 Aranéide|Web
@@ -47,9 +42,6 @@ Exaltation|Ashardalon's Stride
 Exaltation|Skill Empowerment
 Exaltation|Tasha's Otherworldly Guise
 Exaltation|Tenser's Transformation
-Façonnage|Animate Objects
-Façonnage|Fabricate
-Façonnage|Tiny Servant
 Flamme sacrée|Guiding Bolt
 Flamme sacrée|Sacred Flame
 Flétrissure et floraison|Antilife Shell
@@ -122,14 +114,6 @@ Mirage|Mirage Arcane
 Missiles magiques|Eldritch Blast
 Missiles magiques|Jim's Magic Missile
 Missiles magiques|Magic Missile
-Métamorphose|Alter Self
-Métamorphose|Enlarge/Reduce
-Métamorphose|Polymorph
-Métamorphose|Water Breathing
-N/A|Create Spelljamming Helm
-N/A|Goodberry
-Orbe chromatique|Chaos Bolt
-Orbe chromatique|Chromatic Orb
 Parangon|Banishing Smite
 Parangon|Circle of Power
 Parangon|Destructive Wave
@@ -225,96 +209,3 @@ Vortex|Wristpocket
 Êtres féériques|Conjure Woodland Beings
 Êtres féériques|Summon Beast
 Êtres féériques|Summon Fey
-----------------------------------------------------------------------------------------------------
-Acid|Acid Splash
-Acid|Melf's Acid Arrow
-Acid|Primal Savagery
-Acid|Tasha's Caustic Brew
-Acid|Vitriolic Sphere
-Earth|Earth Tremor
-Earth|Erupting Earth
-Earth|Maximillian's Earthen Grasp
-Earth|Mold Earth
-Earth|Move Earth
-Earth|Wall of Sand
-Fire|Aganazzar's Scorcher
-Fire|Burning Hands
-Fire|Control Flames
-Fire|Delayed Blast Fireball
-Fire|Fire Bolt
-Fire|Fire Shield
-Fire|Fire Storm
-Fire|Fireball
-Fire|Flame Arrows
-Fire|Flame Blade
-Fire|Flame Strike
-Fire|Flaming Sphere
-Fire|Green-Flame Blade
-Fire|Heat Metal
-Fire|Immolation
-Fire|Investiture of Flame
-Fire|Melf's Minute Meteors
-Fire|Produce Flame
-Fire|Scorching Ray
-Fire|Wall of Fire
-Ice|Armor of Agathys
-Ice|Cone of Cold
-Ice|Frost Fingers
-Ice|Frostbite
-Ice|Ice Knife
-Ice|Ice Storm
-Ice|Investiture of Ice
-Ice|Otiluke's Freezing Sphere
-Ice|Ray of Frost
-Ice|Rime's Binding Ice
-Ice|Sleet Storm
-Ice|Snilloc's Snowball Swarm
-Ice|Wall of Ice
-Lightning|Call Lightning
-Lightning|Chain Lightning
-Lightning|Lightning Arrow
-Lightning|Lightning Bolt
-Lightning|Lightning Lure
-Lightning|Shocking Grasp
-Lightning|Storm Sphere
-Lightning|Witch Bolt
-Stone|Bones of the Earth
-Stone|Flesh to Stone
-Stone|Investiture of Stone
-Stone|Meld into Stone
-Stone|Passwall
-Stone|Stone Shape
-Stone|Stoneskin
-Stone|Transmute Rock
-Stone|Wall of Stone
-Thunder|Booming Blade
-Thunder|Shatter
-Thunder|Thunder Step
-Thunder|Thunderclap
-Thunder|Thunderwave
-Water|Control Water
-Water|Create or Destroy Water
-Water|Maelstrom
-Water|Shape Water
-Water|Tidal Wave
-Water|Wall of Water
-Water|Water Breathing
-Water|Water Walk
-Water|Watery Sphere
-Wind|Air Bubble
-Wind|Cloudkill
-Wind|Control Winds
-Wind|Dust Devil
-Wind|Fog Cloud
-Wind|Gaseous Form
-Wind|Gust
-Wind|Gust of Wind
-Wind|Investiture of Wind
-Wind|Skywrite
-Wind|Steel Wind Strike
-Wind|Stinking Cloud
-Wind|Warding Wind
-Wind|Whirlwind
-Wind|Wind Walk
-Wind|Wind Wall
-Wind|Zephyr Strike
