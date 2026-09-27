@@ -1,8 +1,6 @@
 Aranéide|Darkvision
 Aranéide|Spider Climb
 Aranéide|Web
-Arcane Light|Continual Flame
-Arcane Light|Dancing Lights
 Armure magique|Intellect Fortress
 Armure magique|Mage Armor
 Armure magique|Shield
@@ -19,25 +17,11 @@ Capacités élémentaires|Summon Elemental
 Carapace|Blade Ward
 Carapace|Resistance
 Carapace|Stoneskin
-Champion/Paladin|Blinding Smite
-Champion/Paladin|Branding Smite
-Champion/Paladin|Find Greater Steed
-Champion/Paladin|Find Steed
-Champion/Paladin|Searing Smite
-Champion/Paladin|Staggering Smite
-Champion/Paladin|Thunderous Smite
-Champion/Paladin|Wrathful Smite
-Convoi divin|Etherealness
-Convoi divin|Plane Shift
-Convoi divin|Word of Recall
 Corde enchantée|Earthbind
 Corde enchantée|Rope Trick
 Corde enchantée|Snare
 Distorsion|Gravity Fissure
 Distorsion|Reverse Gravity
-Esprits gardiens|Beacon of Hope
-Esprits gardiens|Spirit Guardians
-Esprits gardiens|Spirit Shroud
 Exaltation|Ashardalon's Stride
 Exaltation|Skill Empowerment
 Exaltation|Tasha's Otherworldly Guise
@@ -59,41 +43,16 @@ Globe d’invulnérabilité|Fizban's Platinum Shield
 Globe d’invulnérabilité|Globe of Invulnerability
 Gravité|Gravity Sinkhole
 Gravité|Pulse Wave
-Guérison|Cure Wounds
-Guérison|Healing Word
-Guérison|Mass Cure Wounds
-Guérison|Mass Healing Word
-Hallucination|Minor Illusion
 Homoncule|Create Homunculus
 Homoncule|Create Magen
 Interdiction|Alarm
 Interdiction|Arcane Lock
 Interdiction|Nondetection
-Invocation céleste|Conjure Celestial
-Invocation céleste|Planar Ally
-Invocation céleste|Summon Celestial
-Invocation infernale|Infernal Calling
-Invocation infernale|Summon Fiend
-Invocation infernale|Summon Greater Demon
-Invocation infernale|Summon Lesser Demons
 Iridescence|Crown of Stars
 Iridescence|Prismatic Spray
-Liberté|Fly
-Liberté|Freedom of Movement
-Liberté|Jump
-Liberté|Kinetic Jaunt
-Liberté|Longstrider
-Lien animal|Animal Friendship
-Lien animal|Animal Messenger
-Lien animal|Beast Bond
-Lien animal|Beast Sense
-Lien animal|Speak with Animals
 Lueurs féériques|Create Bonfire
 Lueurs féériques|Faerie Fire
 Lueurs féériques|Moonbeam
-Lumière|Daylight
-Lumière|Light
-Lumière|Word of Radiance
 Main magique|Bigby's Hand
 Main magique|Mage Hand
 Main magique|Tenser's Floating Disk
@@ -102,33 +61,13 @@ Manifestation de force|Forcecage
 Manifestation de force|Mordenkainen's Sword
 Manifestation de force|Otiluke's Resilient Sphere
 Manifestation de force|Wall of Force
-Manifestation draconique|Draconic Transformation
-Manifestation draconique|Dragon's Breath
-Manifestation draconique|Summon Draconic Spirit
-Miracles|Divine Word
-Miracles|Heal
-Miracles|Heroes' Feast
-Miracles|Regenerate
-Mirage|Hallucinatory Terrain
-Mirage|Mirage Arcane
 Missiles magiques|Eldritch Blast
 Missiles magiques|Jim's Magic Missile
 Missiles magiques|Magic Missile
-Parangon|Banishing Smite
-Parangon|Circle of Power
-Parangon|Destructive Wave
 Pesanteur|Feather Fall
 Pesanteur|Immovable Object
 Pesanteur|Levitate
 Pesanteur|Magnify Gravity
-Peste|Giant Insect
-Peste|Infestation
-Peste|Insect Plague
-Porte dimensionnelle|Dimension Door
-Porte dimensionnelle|Far Step
-Porte dimensionnelle|Galder's Speedy Courier
-Porte dimensionnelle|Leomund's Secret Chest
-Porte dimensionnelle|Teleportation Circle
 Poulpe|Darkness
 Poulpe|Evard's Black Tentacles
 Poulpe|Grease
@@ -137,24 +76,6 @@ Radiance|Wall of Light
 Rafale de lames|Cloud of Daggers
 Rafale de lames|Spray Of Cards
 Rafale de lames|Sword Burst
-Restauration|Greater Restoration
-Restauration|Lesser Restoration
-Restauration|Remove Curse
-Réseau de racines|Plane Shift
-Réseau de racines|Transport via Plants
-Réseau de racines|Tree Stride
-Résonance primordiale|Absorb Elements
-Résonance primordiale|Elemental Bane
-Résonance primordiale|Elemental Weapon
-Résonance primordiale|Primordial Ward
-Résonance primordiale|Protection from Energy
-Sanctuaire|Sanctuary
-Sanctuaire|Silence
-Sanctuaire|Zone of Truth
-Sceau magique|Banishment
-Sceau magique|Gate Seal
-Sceau magique|Magic Circle
-Sceau magique|Planar Binding
 Serviteur|Find Familiar
 Serviteur|Flock of Familiars
 Serviteur|Mordenkainen's Faithful Hound
@@ -162,17 +83,8 @@ Serviteur|Summon Construct
 Songe|Dream
 Songe|Dream of the Blue Veil
 Songe|Etherealness
-Souffle du serpent|Dragon's Breath
-Souffle du serpent|Poison Spray
-Souffle du serpent|Protection from Poison
 Stase|Sequester
 Stase|Temporal Shunt
-Système 3-actions|Expeditious Retreat
-Talent|Contingency
-Talent|Prayer of Healing
-Temple|Forbiddance
-Temple|Hallow
-Temple|Temple of the Gods
 Temporalité|Delay
 Temporalité|Haste
 Temporalité|Hurry
@@ -180,11 +92,6 @@ Temporalité|Slow
 Télékinésie|Disintegrate
 Télékinésie|Passwall
 Télékinésie|Telekinesis
-Téléportation|Arcane Gate
-Téléportation|Drawmij's Instant Summons
-Téléportation|Plane Shift
-Téléportation|Scatter
-Téléportation|Teleport
 Vide|Arms of Hadar
 Vide|Hellish Rebuke
 Vide|Hunger Of Hadar
@@ -195,17 +102,8 @@ Vignes épineuses|Entangle
 Vignes épineuses|Hail of Thorns
 Vignes épineuses|Spike Growth
 Vignes épineuses|Thorn Whip
-Vortex|Blink
-Vortex|Misty Step
-Vortex|Vortex Warp
-Vortex|Wristpocket
 Éclat mental|Mind Sliver
 Éclat mental|Vicious Mockery
 Éveil|Awaken
 Éveil|Grasping Vine
 Éveil|Speak with Plants
-Êtres féériques|Conjure Animals
-Êtres féériques|Conjure Fey
-Êtres féériques|Conjure Woodland Beings
-Êtres féériques|Summon Beast
-Êtres féériques|Summon Fey

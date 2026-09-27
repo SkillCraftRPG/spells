@@ -11,6 +11,7 @@ Arts druidiques|Shillelagh
 Balancier|Fortune's Favor
 Balancier|Pendulum
 Balancier|Silvery Barbs
+Bosquet|Heroes' Feast
 Bénédiction|Aid
 Bénédiction|Bane
 Bénédiction|Bless
@@ -22,6 +23,7 @@ Clairvoyance|Arcane Eye
 Clairvoyance|Clairvoyance
 Clairvoyance|Scrying
 Communication|Encode Thoughts
+Communication|Magic Mouth
 Communication|Message
 Communication|Sending
 Communion|Commune
@@ -36,6 +38,9 @@ Contrôle de la Terre|Mold Earth
 Contrôle de l’Air|Gust
 Contrôle de l’Eau|Shape Water
 Contrôle du Feu|Control Flames
+Convoi divin|Etherealness
+Convoi divin|Plane Shift
+Convoi divin|Word of Recall
 Danse macabre|Animate Dead
 Danse macabre|Danse Macabre
 Débilitation|Blindness/Deafness
@@ -45,10 +50,13 @@ Esprits funèbres|Shadow Of Moil
 Esprits funèbres|Spirit Of Death
 Esprits funèbres|Spirit Shroud
 Esprits funèbres|Summon Undead
+Esprits gardiens|Spirit Guardians
 Esprits gardiens|Spirit Shroud
 Façonnage|Animate Objects
 Façonnage|Fabricate
 Façonnage|Tiny Servant
+Flamme sacrée|Guiding Bolt
+Flamme sacrée|Sacred Flame
 Frappe véritable|Hunter's Mark
 Frappe véritable|Mind Spike
 Frappe véritable|True Strike
@@ -56,9 +64,33 @@ Frisson|Blight
 Frisson|Cause Fear
 Frisson|Chill Touch
 Frisson|Sapping Sting
+Guérison|Cure Wounds
+Guérison|Healing Word
+Guérison|Mass Cure Wounds
+Guérison|Mass Healing Word
+Hallucination|Minor Illusion
 Invisibilité|Blur
 Invisibilité|Greater Invisibility
 Invisibilité|Invisibility
+Invocation céleste|Conjure Celestial
+Invocation céleste|Planar Ally
+Invocation céleste|Summon Celestial
+Invocation féérique|Conjure Animals
+Invocation féérique|Conjure Fey
+Invocation féérique|Conjure Woodland Beings
+Invocation féérique|Summon Beast
+Invocation féérique|Summon Fey
+Invocation infernale|Infernal Calling
+Invocation infernale|Summon Fiend
+Invocation infernale|Summon Greater Demon
+Invocation infernale|Summon Lesser Demons
+Liberté|Fly
+Liberté|Freedom of Movement
+Liberté|Jump
+Liberté|Kinetic Jaunt
+Liberté|Longstrider
+Lien animal|Animal Friendship
+Lien animal|Animal Messenger
 Lien animal|Beast Bond
 Lien animal|Beast Sense
 Lien animal|Speak with Animals
@@ -66,9 +98,21 @@ Localisation|Find Traps
 Localisation|Locate Animals or Plants
 Localisation|Locate Creature
 Localisation|Locate Object
+Lumière|Daylight
+Lumière|Light
+Lumière|Word of Radiance
 Malédiction|Bestow Curse
 Malédiction|Contagion
 Malédiction|Hex
+Manifestation draconique|Draconic Transformation
+Manifestation draconique|Dragon's Breath
+Manifestation draconique|Summon Draconic Spirit
+Miracles|Divine Word
+Miracles|Heal
+Miracles|Heroes' Feast
+Miracles|Regenerate
+Mirage|Hallucinatory Terrain
+Mirage|Mirage Arcane
 Métamorphose|Alter Self
 Métamorphose|Enlarge/Reduce
 Métamorphose|Polymorph
@@ -80,6 +124,14 @@ Nécrogenèse|Finger of Death
 Nécrogenèse|Negative Energy Flood
 Orbe chromatique|Chaos Bolt
 Orbe chromatique|Chromatic Orb
+Peste|Giant Insect
+Peste|Infestation
+Peste|Insect Plague
+Porte dimensionnelle|Dimension Door
+Porte dimensionnelle|Far Step
+Porte dimensionnelle|Galder's Speedy Courier
+Porte dimensionnelle|Leomund's Secret Chest
+Porte dimensionnelle|Teleportation Circle
 Prestidigitation|Magic Stone
 Prestidigitation|Mending
 Prestidigitation|Prestidigitation
@@ -97,14 +149,42 @@ Préservation|Feign Death
 Préservation|Gentle Repose
 Préservation|Spare the Dying
 Préservation|Speak with Dead
+Restauration|Greater Restoration
+Restauration|Lesser Restoration
+Restauration|Remove Curse
+Réseau de racines|Plane Shift
+Réseau de racines|Transport via Plants
+Réseau de racines|Tree Stride
+Résonance primordiale|Absorb Elements
+Résonance primordiale|Elemental Bane
+Résonance primordiale|Elemental Weapon
+Résonance primordiale|Primordial Ward
+Résonance primordiale|Protection from Energy
 Résurrection|Raise Dead
 Résurrection|Resurrection
 Résurrection|Revivify
 Révélation|Find the Path
 Révélation|Legend Lore
 Révélation|True Seeing
+Sanctuaire|Sanctuary
+Sanctuaire|Silence
+Sanctuaire|Zone of Truth
+Sceau magique|Banishment
+Sceau magique|Gate Seal
+Sceau magique|Magic Circle
+Sceau magique|Planar Binding
+Souffle du serpent|Dragon's Breath
+Souffle du serpent|Poison Spray
+Souffle du serpent|Protection from Poison
+Système 3-actions|Expeditious Retreat
 Talent|Augury
+Talent|Contingency
 Talent|Magic Weapon
+Talent|Prayer of Healing
+Talent|Prayer of Healing
+Temple|Forbiddance
+Temple|Hallow
+Temple|Temple of the Gods
 Thaumaturgie|Ceremony
 Thaumaturgie|Life Transference
 Thaumaturgie|Mending
@@ -119,13 +199,21 @@ Télépathie|Detect Thoughts
 Télépathie|Gift of Alacrity
 Télépathie|Mind Spike
 Télépathie|Rary's Telepathic Bond
+Téléportation|Arcane Gate
+Téléportation|Drawmij's Instant Summons
+Téléportation|Plane Shift
+Téléportation|Scatter
+Téléportation|Teleport
+Vortex|Blink
+Vortex|Misty Step
+Vortex|Vortex Warp
+Vortex|Wristpocket
 Émanations sépulcrales|Circle of Death
 Émanations sépulcrales|Enervation
 Émanations sépulcrales|Eyebite
 ⚡|Booming Blade
 ⚡|Call Lightning
 ⚡|Chain Lightning
-⚡|Destructive Wave
 ⚡|Lightning Arrow
 ⚡|Lightning Bolt
 ⚡|Lightning Lure
@@ -195,8 +283,19 @@ Télépathie|Rary's Telepathic Bond
 🔥|Produce Flame
 🔥|Scorching Ray
 🔥|Wall of Fire
-🚧Harm|Harm
-🚧Harm|Inflict Wounds
+🚧Arcane Light|Continual Flame
+🚧Arcane Light|Dancing Lights
+🚧Glyph|Glyph of Warding
+🚧Glyph|Symbol
+🚧Smite|Banishing Smite
+🚧Smite|Blinding Smite
+🚧Smite|Branding Smite
+🚧Smite|Searing Smite
+🚧Smite|Staggering Smite
+🚧Smite|Thunderous Smite
+🚧Smite|Wrathful Smite
+🚧Steed|Find Greater Steed
+🚧Steed|Find Steed
 🚧Wither and Bloom|Blight
 🚧Wither and Bloom|Wither and Bloom
 🧪|Acid Splash

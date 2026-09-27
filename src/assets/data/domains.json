@@ -1,30 +1,82 @@
 {
   "animism": {
-    "0": ["Arts féériques"],
+    "0": [],
     "1": [],
     "2": [],
     "3": []
   },
   "divination": {
-    "0": ["Frappe véritable"],
-    "1": ["Compréhension", "Localisation", "Protection contre la magie"],
-    "2": ["Clairvoyance", "Communion", "Télépathie"],
-    "3": ["Révélation"]
+    "0": [
+      "Frappe véritable"
+    ],
+    "1": [
+      "Compréhension",
+      "Localisation",
+      "Protection contre la magie"
+    ],
+    "2": [
+      "Clairvoyance",
+      "Communion",
+      "Télépathie"
+    ],
+    "3": [
+      "Révélation"
+    ]
   },
   "divine": {
-    "0": ["Préservation", "Thaumaturgie"],
-    "1": [],
-    "2": [],
-    "3": []
+    "0": [
+      "Bénédiction",
+      "Flamme sacrée",
+      "Lumière",
+      "Préservation",
+      "Thaumaturgie"
+    ],
+    "1": [
+      "Guérison",
+      "Protection contre la magie",
+      "Protection contre le bien et le mal",
+      "Protection contre les poisons et maladies",
+      "Restauration"
+    ],
+    "2": [
+      "Communion",
+      "Esprits gardiens",
+      "Sceau magique"
+    ],
+    "3": [
+      "Convoi divin",
+      "Invocation céleste",
+      "Miracles",
+      "Résurrection",
+      "Révélation",
+      "Temple"
+    ]
   },
   "necromancy": {
-    "0": ["Frisson", "Préservation"],
-    "1": ["Débilitation", "Toucher vampirique"],
-    "2": ["Danse macabre", "Esprits funèbres", "Malédiction"],
-    "3": ["Cage spirituelle", "Émanations sépulcrales", "Nécrogenèse", "Résurrection"]
+    "0": [
+      "Frisson",
+      "Préservation"
+    ],
+    "1": [
+      "Débilitation",
+      "Toucher vampirique"
+    ],
+    "2": [
+      "Danse macabre",
+      "Esprits funèbres",
+      "Malédiction"
+    ],
+    "3": [
+      "Cage spirituelle",
+      "Émanations sépulcrales",
+      "Nécrogenèse",
+      "Résurrection"
+    ]
   },
   "transmutation": {
-    "0": ["Prestidigitation"],
+    "0": [
+      "Prestidigitation"
+    ],
     "1": [],
     "2": [],
     "3": []
