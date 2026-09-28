@@ -1,18 +1,7 @@
-Aranéide|Darkvision
-Aranéide|Spider Climb
-Aranéide|Web
-Bosquet|Druid Grove
 Bosquet|Wall of Thorns
 Bosquet|Wrath Of Nature
-Capacités élémentaires|Conjure Elemental
-Capacités élémentaires|Conjure Minor Elementals
-Capacités élémentaires|Summon Elemental
 Distorsion|Gravity Fissure
 Distorsion|Reverse Gravity
-Exaltation|Ashardalon's Stride
-Exaltation|Skill Empowerment
-Exaltation|Tasha's Otherworldly Guise
-Exaltation|Tenser's Transformation
 Flétrissure et floraison|Antilife Shell
 Flétrissure et floraison|Aura of Vitality
 Flétrissure et floraison|Blight
@@ -21,8 +10,6 @@ Flétrissure et floraison|Reincarnate
 Flétrissure et floraison|Wither and Bloom
 Gravité|Gravity Sinkhole
 Gravité|Pulse Wave
-Homoncule|Create Homunculus
-Homoncule|Create Magen
 Iridescence|Crown of Stars
 Iridescence|Prismatic Spray
 Lueurs féériques|Create Bonfire
@@ -39,10 +26,6 @@ Manifestation de force|Wall of Force
 Missiles magiques|Eldritch Blast
 Missiles magiques|Jim's Magic Missile
 Missiles magiques|Magic Missile
-Pesanteur|Feather Fall
-Pesanteur|Immovable Object
-Pesanteur|Levitate
-Pesanteur|Magnify Gravity
 Poulpe|Darkness
 Poulpe|Evard's Black Tentacles
 Poulpe|Grease
@@ -58,15 +41,6 @@ Serviteur|Summon Construct
 Songe|Dream
 Songe|Dream of the Blue Veil
 Songe|Etherealness
-Stase|Sequester
-Stase|Temporal Shunt
-Temporalité|Delay
-Temporalité|Haste
-Temporalité|Hurry
-Temporalité|Slow
-Télékinésie|Disintegrate
-Télékinésie|Passwall
-Télékinésie|Telekinesis
 Vide|Arms of Hadar
 Vide|Hellish Rebuke
 Vide|Hunger Of Hadar

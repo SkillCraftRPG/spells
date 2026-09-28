@@ -3,6 +3,9 @@ Adaptation naturelle|Darkvision
 Adaptation naturelle|Enhance Ability
 Adaptation naturelle|Guardian of Nature
 Adaptation naturelle|Water Breathing
+Aranéide|Darkvision
+Aranéide|Spider Climb
+Aranéide|Web
 Armure magique|Intellect Fortress
 Armure magique|Mage Armor
 Armure magique|Shield
@@ -62,12 +65,17 @@ Esprits funèbres|Spirit Shroud
 Esprits funèbres|Summon Undead
 Esprits gardiens|Spirit Guardians
 Esprits gardiens|Spirit Shroud
+Exaltation|Ashardalon's Stride
+Exaltation|Skill Empowerment
+Exaltation|Tasha's Otherworldly Guise
+Exaltation|Tenser's Transformation
 Faveur divine|Crusader's Mantle
 Faveur divine|Destructive Wave
 Faveur divine|Divine Favor
 Faveur divine|Holy Weapon
 Façonnage|Animate Objects
 Façonnage|Fabricate
+Façonnage|Passwall
 Façonnage|Tiny Servant
 Flamme sacrée|Guiding Bolt
 Flamme sacrée|Sacred Flame
@@ -93,6 +101,8 @@ Guérison|Healing Word
 Guérison|Mass Cure Wounds
 Guérison|Mass Healing Word
 Hallucination|Minor Illusion
+Homoncule|Create Homunculus
+Homoncule|Create Magen
 Injonction|Command
 Injonction|Compelled Duel
 Interdiction|Alarm
@@ -152,6 +162,10 @@ Nécrogenèse|Finger of Death
 Nécrogenèse|Negative Energy Flood
 Orbe chromatique|Chaos Bolt
 Orbe chromatique|Chromatic Orb
+Pesanteur|Feather Fall
+Pesanteur|Immovable Object
+Pesanteur|Levitate
+Pesanteur|Magnify Gravity
 Peste|Giant Insect
 Peste|Infestation
 Peste|Insect Plague
@@ -160,9 +174,12 @@ Porte dimensionnelle|Far Step
 Porte dimensionnelle|Galder's Speedy Courier
 Porte dimensionnelle|Leomund's Secret Chest
 Porte dimensionnelle|Teleportation Circle
+Prestidigitation|Catapult
+Prestidigitation|Knock
 Prestidigitation|Magic Stone
 Prestidigitation|Mending
 Prestidigitation|Prestidigitation
+Prestidigitation|Pyrotechnics
 Protection contre la magie|Counterspell
 Protection contre la magie|Detect Magic
 Protection contre la magie|Dispel Magic
@@ -206,11 +223,17 @@ Sceau magique|Planar Binding
 Souffle du serpent|Dragon's Breath
 Souffle du serpent|Poison Spray
 Souffle du serpent|Protection from Poison
+Stase|Sequester
+Stase|Temporal Shunt
 Système 3-actions|Expeditious Retreat
 Temple|Blade Barrier
 Temple|Forbiddance
 Temple|Hallow
 Temple|Temple of the Gods
+Temporalité|Delay
+Temporalité|Haste
+Temporalité|Hurry
+Temporalité|Slow
 Thaumaturgie|Ceremony
 Thaumaturgie|Life Transference
 Thaumaturgie|Mending
@@ -222,6 +245,8 @@ Toucher vampirique|Inflict Wounds
 Toucher vampirique|Life Transference
 Toucher vampirique|Vampiric Touch
 Toucher vampirique|Wither and Bloom
+Télékinésie|Disintegrate
+Télékinésie|Telekinesis
 Télépathie|Detect Thoughts
 Télépathie|Gift of Alacrity
 Télépathie|Mind Spike

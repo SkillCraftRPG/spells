@@ -40,8 +40,8 @@
   },
   "transmutation": {
     "0": ["Prestidigitation"],
-    "1": [],
-    "2": [],
-    "3": []
+    "1": ["Aranéide", "Corde enchantée", "Liberté", "Métamorphose", "Pesanteur"],
+    "2": ["Façonnage", "Temporalité"],
+    "3": ["Exaltation", "Homoncule", "Manifestation draconique", "Stase", "Télékinésie"]
   }
 }
