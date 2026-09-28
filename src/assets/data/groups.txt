@@ -64,6 +64,9 @@ Frisson|Blight
 Frisson|Cause Fear
 Frisson|Chill Touch
 Frisson|Sapping Sting
+Gardien de la foi|GuFardian of Faith
+Gardien de la foi|Shield of Faith
+Gardien de la foi|Spiritual Weapon
 Guérison|Cure Wounds
 Guérison|Healing Word
 Guérison|Mass Cure Wounds
@@ -166,6 +169,7 @@ Résurrection|Revivify
 Révélation|Find the Path
 Révélation|Legend Lore
 Révélation|True Seeing
+Sanctuaire|Death Ward
 Sanctuaire|Sanctuary
 Sanctuaire|Silence
 Sanctuaire|Zone of Truth
@@ -222,7 +226,6 @@ Vortex|Wristpocket
 ⚡|Storm Sphere
 ⚡|Thunder Step
 ⚡|Thunderclap
-⚡|Thunderous Smite
 ⚡|Thunderwave
 ⚡|Witch Bolt
 ❄️|Armor of Agathys
@@ -283,10 +286,17 @@ Vortex|Wristpocket
 🔥|Produce Flame
 🔥|Scorching Ray
 🔥|Wall of Fire
+🚧Aid|Motivational Speech
 🚧Arcane Light|Continual Flame
 🚧Arcane Light|Dancing Lights
+🚧Aura of Courage|Heroism
+🚧Bénédiction|Heroism
+🚧Circle of Power|Motivational Speech
 🚧Glyph|Glyph of Warding
 🚧Glyph|Symbol
+🚧Heroism|Heroism
+🚧Heroism|Motivational Speech
+🚧Orateur|Motivational Speech
 🚧Smite|Banishing Smite
 🚧Smite|Blinding Smite
 🚧Smite|Branding Smite
