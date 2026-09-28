@@ -12,8 +12,9 @@ export const useSpellStore = defineStore("spells", () => {
       filters.value.group ||
       filters.value.level?.minimum !== 0 ||
       filters.value.level?.maximum !== 7 ||
-      filters.value.school ||
-      filters.value.search,
+      filters.value.schools?.length ||
+      filters.value.search ||
+      filters.value.tags?.length,
     ),
   );
 

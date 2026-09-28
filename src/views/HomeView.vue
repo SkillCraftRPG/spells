@@ -22,7 +22,7 @@
       </div>
     </section>
     <section>
-      <h2 class="h3">{{ t("spells.school.title") }}</h2>
+      <h2 class="h3">{{ t("spells.school.label") }}</h2>
       <div class="row text-center">
         <div v-for="(domain, index) in schools" :key="index" class="col-md-6 col-lg-4 col-xl-3">
           <RouterLink class="card clickable mb-3" :to="{ name: domain.route }">
