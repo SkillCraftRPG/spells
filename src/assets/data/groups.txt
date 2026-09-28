@@ -119,6 +119,13 @@ Guérison|Mass Healing Word
 Hallucination|Minor Illusion
 Homoncule|Create Homunculus
 Homoncule|Create Magen
+Homoncule|Summon Construct
+Hypnose|Color Spray
+Hypnose|Hypnotic Pattern
+Hypnose|Spray Of Cards
+Illumination|Continual Flame
+Illumination|Dancing Lights
+Illumination|Daylight
 Interdiction|Alarm
 Interdiction|Arcane Lock
 Interdiction|Nondetection
@@ -137,6 +144,12 @@ Invocation infernale|Infernal Calling
 Invocation infernale|Summon Fiend
 Invocation infernale|Summon Greater Demon
 Invocation infernale|Summon Lesser Demons
+Iridescence|Crown of Stars
+Iridescence|Prismatic Spray
+Iridescence|Sickening Radiance
+Lames magiques|Cloud of Daggers
+Lames magiques|Shadow Blade
+Lames magiques|Sword Burst
 Liberté|Fly
 Liberté|Freedom of Movement
 Liberté|Jump
@@ -151,9 +164,9 @@ Localisation|Find Traps
 Localisation|Locate Animals or Plants
 Localisation|Locate Creature
 Localisation|Locate Object
-Lueurs nocturnes|Create Bonfire
-Lueurs nocturnes|Faerie Fire
-Lueurs nocturnes|Moonbeam
+Lueur lunaire|Create Bonfire
+Lueur lunaire|Faerie Fire
+Lueur lunaire|Moonbeam
 Lumière|Daylight
 Lumière|Light
 Lumière|Word of Radiance
@@ -178,6 +191,7 @@ Miracles|Heroes' Feast
 Miracles|Regenerate
 Mirage|Hallucinatory Terrain
 Mirage|Mirage Arcane
+Missiles magiques|Eldritch Blast
 Missiles magiques|Jim's Magic Missile
 Missiles magiques|Magic Missile
 Métamorphose|Alter Self
@@ -311,6 +325,9 @@ Vortex|Vortex Warp
 Vortex|Wristpocket
 Éclat mental|Mind Sliver
 Éclat mental|Vicious Mockery
+Éclat solaire|Dawn
+Éclat solaire|Sunbeam
+Éclat solaire|Wall of Light
 Émanations sépulcrales|Circle of Death
 Émanations sépulcrales|Enervation
 Émanations sépulcrales|Eyebite
@@ -369,10 +386,12 @@ Vortex|Wristpocket
 ❄️|Sleet Storm
 ❄️|Snilloc's Snowball Swarm
 ❄️|Wall of Ice
+💧|Cloudkill
 💧|Control Water
 💧|Create or Destroy Water
 💧|Fog Cloud
 💧|Maelstrom
+💧|Stinking Cloud
 💧|Tidal Wave
 💧|Wall of Water
 💧|Water Breathing
@@ -391,6 +410,7 @@ Vortex|Wristpocket
 💨|Levitate
 💨|Skywrite
 💨|Steel Wind Strike
+💨|Stinking Cloud
 💨|Warding Wind
 💨|Whirlwind
 💨|Wind Walk
@@ -415,8 +435,6 @@ Vortex|Wristpocket
 🔥|Produce Flame
 🔥|Scorching Ray
 🔥|Wall of Fire
-🚧Arcane Light|Continual Flame
-🚧Arcane Light|Dancing Lights
 🧪|Acid Splash
 🧪|Melf's Acid Arrow
 🧪|Primal Savagery
@@ -432,6 +450,7 @@ Vortex|Wristpocket
 🪨|Meld into Stone
 🪨|Move Earth
 🪨|Passwall
+🪨|Stinking Cloud
 🪨|Stone Shape
 🪨|Stoneskin
 🪨|Transmute Rock

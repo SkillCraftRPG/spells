@@ -6,7 +6,7 @@
     "3": ["Forteresse", "Globe d’invulnérabilité"]
   },
   "animism": {
-    "0": ["Arts druidiques", "Carapace", "Lueurs nocturnes", "Souffle du serpent", "Vignes épineuses"],
+    "0": ["Arts druidiques", "Carapace", "Lueur lunaire", "Souffle du serpent", "Vignes épineuses"],
     "1": [
       "Adaptation naturelle",
       "Liberté",
@@ -37,13 +37,13 @@
       "Sanctuaire"
     ],
     "2": ["Aura sacrée", "Communion", "Esprits gardiens", "Faveur divine", "Malédiction", "Sceau magique"],
-    "3": ["Convoi divin", "Invocation céleste", "Miracles", "Résurrection", "Révélation", "Temple"]
+    "3": ["Convoi divin", "Éclat solaire", "Invocation céleste", "Miracles", "Résurrection", "Révélation", "Temple"]
   },
   "invocation": {
-    "0": ["Main magique"],
-    "1": ["Missiles magiques", "Orbe chromatique", "Poulpe", "Serviteur", "Vortex"],
-    "2": ["Distorsion", "Invocation infernale", "Porte dimensionnelle", "Vide"],
-    "3": ["Gravité", "Manifestation de force", "Téléportation"]
+    "0": ["Illumination", "Lames magiques", "Main magique", "Missiles magiques"],
+    "1": ["Orbe chromatique", "Poulpe", "Serviteur", "Vortex"],
+    "2": ["Gravité", "Invocation infernale", "Porte dimensionnelle", "Vide"],
+    "3": ["Distorsion", "Éclat solaire", "Iridescence", "Manifestation de force", "Téléportation"]
   },
   "necromancy": {
     "0": ["Frisson", "Préservation"],
