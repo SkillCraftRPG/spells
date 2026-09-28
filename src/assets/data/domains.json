@@ -39,6 +39,12 @@
     "2": ["Aura sacrée", "Communion", "Esprits gardiens", "Faveur divine", "Malédiction", "Sceau magique"],
     "3": ["Convoi divin", "Invocation céleste", "Miracles", "Résurrection", "Révélation", "Temple"]
   },
+  "invocation": {
+    "0": ["Main magique"],
+    "1": ["Missiles magiques", "Orbe chromatique", "Poulpe", "Serviteur", "Vortex"],
+    "2": ["Distorsion", "Invocation infernale", "Porte dimensionnelle", "Vide"],
+    "3": ["Gravité", "Manifestation de force", "Téléportation"]
+  },
   "necromancy": {
     "0": ["Frisson", "Préservation"],
     "1": ["Débilitation", "Toucher vampirique"],

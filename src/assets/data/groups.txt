@@ -66,6 +66,8 @@ Cycle naturel|Blight
 Cycle naturel|Wither and Bloom
 Danse macabre|Animate Dead
 Danse macabre|Danse Macabre
+Distorsion|Gravity Fissure
+Distorsion|Reverse Gravity
 Débilitation|Blindness/Deafness
 Débilitation|Ray of Enfeeblement
 Débilitation|Ray of Sickness
@@ -108,6 +110,8 @@ Gardien de la foi|Shield of Faith
 Gardien de la foi|Spiritual Weapon
 Globe d’invulnérabilité|Fizban's Platinum Shield
 Globe d’invulnérabilité|Globe of Invulnerability
+Gravité|Gravity Sinkhole
+Gravité|Pulse Wave
 Guérison|Cure Wounds
 Guérison|Healing Word
 Guérison|Mass Cure Wounds
@@ -153,10 +157,18 @@ Lueurs nocturnes|Moonbeam
 Lumière|Daylight
 Lumière|Light
 Lumière|Word of Radiance
+Main magique|Bigby's Hand
+Main magique|Mage Hand
+Main magique|Tenser's Floating Disk
+Main magique|Unseen Servant
 Malédiction|Bestow Curse
 Malédiction|Contagion
 Malédiction|Harm
 Malédiction|Hex
+Manifestation de force|Forcecage
+Manifestation de force|Mordenkainen's Sword
+Manifestation de force|Otiluke's Resilient Sphere
+Manifestation de force|Wall of Force
 Manifestation draconique|Draconic Transformation
 Manifestation draconique|Dragon's Breath
 Manifestation draconique|Summon Draconic Spirit
@@ -166,6 +178,8 @@ Miracles|Heroes' Feast
 Miracles|Regenerate
 Mirage|Hallucinatory Terrain
 Mirage|Mirage Arcane
+Missiles magiques|Jim's Magic Missile
+Missiles magiques|Magic Missile
 Métamorphose|Alter Self
 Métamorphose|Enlarge/Reduce
 Métamorphose|Polymorph
@@ -187,6 +201,9 @@ Porte dimensionnelle|Far Step
 Porte dimensionnelle|Galder's Speedy Courier
 Porte dimensionnelle|Leomund's Secret Chest
 Porte dimensionnelle|Teleportation Circle
+Poulpe|Darkness
+Poulpe|Evard's Black Tentacles
+Poulpe|Grease
 Prestidigitation|Catapult
 Prestidigitation|Knock
 Prestidigitation|Magic Stone
@@ -236,6 +253,12 @@ Sceau magique|Banishment
 Sceau magique|Gate Seal
 Sceau magique|Magic Circle
 Sceau magique|Planar Binding
+Serviteur|Find Familiar
+Serviteur|Flock of Familiars
+Serviteur|Mordenkainen's Faithful Hound
+Songe|Dream
+Songe|Dream of the Blue Veil
+Songe|Etherealness
 Souffle du serpent|Dragon's Breath
 Souffle du serpent|Poison Spray
 Souffle du serpent|Protection from Poison
@@ -272,6 +295,11 @@ Téléportation|Drawmij's Instant Summons
 Téléportation|Plane Shift
 Téléportation|Scatter
 Téléportation|Teleport
+Vide|Arms of Hadar
+Vide|Hellish Rebuke
+Vide|Hunger Of Hadar
+Vide|Summon Aberration
+Vide|Summon Shadowspawn
 Vignes épineuses|Ensnaring Strike
 Vignes épineuses|Entangle
 Vignes épineuses|Hail of Thorns
@@ -281,6 +309,8 @@ Vortex|Blink
 Vortex|Misty Step
 Vortex|Vortex Warp
 Vortex|Wristpocket
+Éclat mental|Mind Sliver
+Éclat mental|Vicious Mockery
 Émanations sépulcrales|Circle of Death
 Émanations sépulcrales|Enervation
 Émanations sépulcrales|Eyebite
