@@ -1,10 +1,5 @@
 # Clerc
 
-- Aura of Vitality (3): BA to heal 2d6
-- Beacon of Hope (3): advantage Wisdom and death ST, max. heal
-- Aura of Life (4): resistance necrotic, max. HP cannot be reduced, living creatures regain 1 HP when start turn with 0 HP
-- Aura of Purity (4): immune disease, resistance poison, advantage ST against blinded, charmed, deafened, paralyzed, poisoned and stunned
-- Circle of Power (5): avantage ST against magic, succeed ST ⇒ takes no damage instead of half
 - Dawn (5): sunlight 4d10 radiant damage
 - Sunbeam (6): 6d8 radiant and blinded
 

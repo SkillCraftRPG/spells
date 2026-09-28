@@ -1,20 +1,9 @@
-Bosquet|Wall of Thorns
-Bosquet|Wrath Of Nature
 Distorsion|Gravity Fissure
 Distorsion|Reverse Gravity
-Flétrissure et floraison|Antilife Shell
-Flétrissure et floraison|Aura of Vitality
-Flétrissure et floraison|Blight
-Flétrissure et floraison|Plant Growth
-Flétrissure et floraison|Reincarnate
-Flétrissure et floraison|Wither and Bloom
 Gravité|Gravity Sinkhole
 Gravité|Pulse Wave
 Iridescence|Crown of Stars
 Iridescence|Prismatic Spray
-Lueurs féériques|Create Bonfire
-Lueurs féériques|Faerie Fire
-Lueurs féériques|Moonbeam
 Main magique|Bigby's Hand
 Main magique|Mage Hand
 Main magique|Tenser's Floating Disk
@@ -46,13 +35,5 @@ Vide|Hellish Rebuke
 Vide|Hunger Of Hadar
 Vide|Summon Aberration
 Vide|Summon Shadowspawn
-Vignes épineuses|Ensnaring Strike
-Vignes épineuses|Entangle
-Vignes épineuses|Hail of Thorns
-Vignes épineuses|Spike Growth
-Vignes épineuses|Thorn Whip
 Éclat mental|Mind Sliver
 Éclat mental|Vicious Mockery
-Éveil|Awaken
-Éveil|Grasping Vine
-Éveil|Speak with Plants

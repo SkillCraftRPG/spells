@@ -14,11 +14,17 @@ Arts druidiques|Mending
 Arts druidiques|Pass Without Trace
 Arts druidiques|Plant Growth
 Arts druidiques|Shillelagh
+Aura sacrée|Aura of Purity
+Aura sacrée|Aura of Vitality
+Aura sacrée|Circle of Power
 Balancier|Fortune's Favor
 Balancier|Pendulum
 Balancier|Silvery Barbs
 Bosquet|Druid Grove
 Bosquet|Heroes' Feast
+Bosquet|Regenerate
+Bosquet|Wall of Thorns
+Bosquet|Wrath Of Nature
 Bénédiction|Aid
 Bénédiction|Bane
 Bénédiction|Bless
@@ -54,6 +60,10 @@ Convoi divin|Word of Recall
 Corde enchantée|Earthbind
 Corde enchantée|Rope Trick
 Corde enchantée|Snare
+Cycle naturel|Antilife Shell
+Cycle naturel|Aura of Life
+Cycle naturel|Blight
+Cycle naturel|Wither and Bloom
 Danse macabre|Animate Dead
 Danse macabre|Danse Macabre
 Débilitation|Blindness/Deafness
@@ -63,6 +73,8 @@ Esprits funèbres|Shadow Of Moil
 Esprits funèbres|Spirit Of Death
 Esprits funèbres|Spirit Shroud
 Esprits funèbres|Summon Undead
+Esprits gardiens|Beacon of Hope
+Esprits gardiens|Healing Spirit
 Esprits gardiens|Spirit Guardians
 Esprits gardiens|Spirit Shroud
 Exaltation|Ashardalon's Stride
@@ -103,8 +115,6 @@ Guérison|Mass Healing Word
 Hallucination|Minor Illusion
 Homoncule|Create Homunculus
 Homoncule|Create Magen
-Injonction|Command
-Injonction|Compelled Duel
 Interdiction|Alarm
 Interdiction|Arcane Lock
 Interdiction|Nondetection
@@ -137,6 +147,9 @@ Localisation|Find Traps
 Localisation|Locate Animals or Plants
 Localisation|Locate Creature
 Localisation|Locate Object
+Lueurs nocturnes|Create Bonfire
+Lueurs nocturnes|Faerie Fire
+Lueurs nocturnes|Moonbeam
 Lumière|Daylight
 Lumière|Light
 Lumière|Word of Radiance
@@ -198,6 +211,9 @@ Préservation|Speak with Dead
 Restauration|Greater Restoration
 Restauration|Lesser Restoration
 Restauration|Remove Curse
+Réincarnation|Raise Dead
+Réincarnation|Reincarnate
+Réincarnation|Revivify
 Réseau de racines|Plane Shift
 Réseau de racines|Transport via Plants
 Réseau de racines|Tree Stride
@@ -256,6 +272,11 @@ Téléportation|Drawmij's Instant Summons
 Téléportation|Plane Shift
 Téléportation|Scatter
 Téléportation|Teleport
+Vignes épineuses|Ensnaring Strike
+Vignes épineuses|Entangle
+Vignes épineuses|Hail of Thorns
+Vignes épineuses|Spike Growth
+Vignes épineuses|Thorn Whip
 Vortex|Blink
 Vortex|Misty Step
 Vortex|Vortex Warp
@@ -263,6 +284,12 @@ Vortex|Wristpocket
 Émanations sépulcrales|Circle of Death
 Émanations sépulcrales|Enervation
 Émanations sépulcrales|Eyebite
+Éveil végétal|Awaken
+Éveil végétal|Grasping Vine
+Éveil végétal|Speak with Plants
+⚠️Capacités élémentaires|Conjure Elemental
+⚠️Capacités élémentaires|Conjure Minor Elementals
+⚠️Capacités élémentaires|Summon Elemental
 ⚠️Champion|Find Steed
 ⚠️Glyphe|Glyph of Warding
 ⚠️Glyphe|Symbol
@@ -271,6 +298,10 @@ Vortex|Wristpocket
 ⚠️N/A|Heroism
 ⚠️N/A|Motivational Speech
 ⚠️Paladin|Find Greater Steed
+⚠️Rôdeur|Conjure Barrage
+⚠️Rôdeur|Conjure Volley
+⚠️Rôdeur|Cordon of Arrows
+⚠️Rôdeur|Swift Quiver
 ⚠️Smite|Banishing Smite
 ⚠️Smite|Blinding Smite
 ⚠️Smite|Branding Smite
@@ -329,6 +360,7 @@ Vortex|Wristpocket
 💨|Investiture of Wind
 💨|Levitate
 💨|Skywrite
+💨|Steel Wind Strike
 💨|Warding Wind
 💨|Whirlwind
 💨|Wind Walk
@@ -355,8 +387,6 @@ Vortex|Wristpocket
 🔥|Wall of Fire
 🚧Arcane Light|Continual Flame
 🚧Arcane Light|Dancing Lights
-🚧Wither and Bloom|Blight
-🚧Wither and Bloom|Wither and Bloom
 🧪|Acid Splash
 🧪|Melf's Acid Arrow
 🧪|Primal Savagery

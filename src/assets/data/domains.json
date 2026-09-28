@@ -6,10 +6,18 @@
     "3": ["Forteresse", "Globe d’invulnérabilité"]
   },
   "animism": {
-    "0": [],
-    "1": [],
-    "2": [],
-    "3": []
+    "0": ["Arts druidiques", "Carapace", "Lueurs nocturnes", "Souffle du serpent", "Vignes épineuses"],
+    "1": [
+      "Adaptation naturelle",
+      "Liberté",
+      "Lien animal",
+      "Localisation",
+      "Protection contre la magie",
+      "Protection contre les poisons et maladies",
+      "Restauration"
+    ],
+    "2": ["Communion", "Cycle naturel", "Éveil végétal", "Invocation féérique", "Peste", "Résonance primordiale"],
+    "3": ["Bosquet", "Manifestation draconique", "Mirage", "Réincarnation", "Réseau de racines"]
   },
   "divination": {
     "0": ["Frappe véritable"],
@@ -22,14 +30,13 @@
     "1": [
       "Gardien de la foi",
       "Guérison",
-      "Injonction",
       "Protection contre la magie",
       "Protection contre le bien et le mal",
       "Protection contre les poisons et maladies",
       "Restauration",
       "Sanctuaire"
     ],
-    "2": ["Communion", "Esprits gardiens", "Faveur divine", "Malédiction", "Sceau magique"],
+    "2": ["Aura sacrée", "Communion", "Esprits gardiens", "Faveur divine", "Malédiction", "Sceau magique"],
     "3": ["Convoi divin", "Invocation céleste", "Miracles", "Résurrection", "Révélation", "Temple"]
   },
   "necromancy": {
