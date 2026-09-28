@@ -1,4 +1,10 @@
 {
+  "abjuration": {
+    "0": ["Carapace"],
+    "1": ["Armure magique", "Interdiction", "Restauration"],
+    "2": ["Résonance primordiale", "Sceau magique"],
+    "3": ["Forteresse", "Globe d’invulnérabilité"]
+  },
   "animism": {
     "0": [],
     "1": [],

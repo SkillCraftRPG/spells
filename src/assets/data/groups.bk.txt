@@ -1,53 +1,28 @@
 Aranéide|Darkvision
 Aranéide|Spider Climb
 Aranéide|Web
-Armure magique|Intellect Fortress
-Armure magique|Mage Armor
-Armure magique|Shield
 Bosquet|Druid Grove
 Bosquet|Wall of Thorns
 Bosquet|Wrath Of Nature
-Bénédiction|Aid
-Bénédiction|Bane
-Bénédiction|Bless
-Bénédiction|Guidance
 Capacités élémentaires|Conjure Elemental
 Capacités élémentaires|Conjure Minor Elementals
 Capacités élémentaires|Summon Elemental
-Carapace|Blade Ward
-Carapace|Resistance
-Carapace|Stoneskin
-Corde enchantée|Earthbind
-Corde enchantée|Rope Trick
-Corde enchantée|Snare
 Distorsion|Gravity Fissure
 Distorsion|Reverse Gravity
 Exaltation|Ashardalon's Stride
 Exaltation|Skill Empowerment
 Exaltation|Tasha's Otherworldly Guise
 Exaltation|Tenser's Transformation
-Flamme sacrée|Guiding Bolt
-Flamme sacrée|Sacred Flame
 Flétrissure et floraison|Antilife Shell
 Flétrissure et floraison|Aura of Vitality
 Flétrissure et floraison|Blight
 Flétrissure et floraison|Plant Growth
 Flétrissure et floraison|Reincarnate
 Flétrissure et floraison|Wither and Bloom
-Forteresse|Galder's Tower
-Forteresse|Guards and Wards
-Forteresse|Leomund's Tiny Hut
-Forteresse|Mordenkainen's Magnificent Mansion
-Forteresse|Mordenkainen's Private Sanctum
-Globe d’invulnérabilité|Fizban's Platinum Shield
-Globe d’invulnérabilité|Globe of Invulnerability
 Gravité|Gravity Sinkhole
 Gravité|Pulse Wave
 Homoncule|Create Homunculus
 Homoncule|Create Magen
-Interdiction|Alarm
-Interdiction|Arcane Lock
-Interdiction|Nondetection
 Iridescence|Crown of Stars
 Iridescence|Prismatic Spray
 Lueurs féériques|Create Bonfire
