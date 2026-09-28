@@ -7,9 +7,11 @@ Find Steed|Talent pour le Champion, ou capacité de la spécialisation, utilise 
 Find Traps|Appliquer le même traitement que les Locate.
 Gift of Alacrity|Joindre avec Encode Thoughts (simultanément ; niveau 3); également en lien avec la Surprise.
 Hellish Rebuke|Thématique _balefire_ (la Roue du Temps).
+Heroism|Temporary HP overlaps with Aid; frightened overlaps with Aura of Courage.
 Kinetic Jaunt|+10 ft → Longstrider; no opportunity and move through → Freedom of Movement, but cannot end turn in occupied space.
 Magic Stone|Lancer un objet tenu en main (Self seulement), utilise Occultisme au lieu de Mêlée/Orientation, puis prend fin.
 Mind Spike|Dans télépathie, offre effet feat Telepathic pendant 1 minute (C), puis peut mettre fin au pouvoir pour infliger les dégâts psychiques; dans Frappe véritable, savoir où la cible se trouve.
+Motivational Speech|Temporary HP overlaps with Aid and Orateur; advantage overlaps with other spells and auras.
 Prayer of Healing|Talent de tiers 1 pour le Clerc, utilise le Pouvoir divin; par ailleurs problème avec Renvoi des morts-vivants, à reformuler.
 Sending|Inclure Rary's Telepathic Bond et Telepathic feat (speak).
 Silvery Barbs|Avec Pendulum.

@@ -16,13 +16,14 @@
     "1": [
       "Gardien de la foi",
       "Guérison",
+      "Injonction",
       "Protection contre la magie",
       "Protection contre le bien et le mal",
       "Protection contre les poisons et maladies",
       "Restauration",
       "Sanctuaire"
     ],
-    "2": ["Communion", "Esprits gardiens", "Malédiction", "Sceau magique"],
+    "2": ["Communion", "Esprits gardiens", "Faveur divine", "Malédiction", "Sceau magique"],
     "3": ["Convoi divin", "Invocation céleste", "Miracles", "Résurrection", "Révélation", "Temple"]
   },
   "necromancy": {

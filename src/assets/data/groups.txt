@@ -34,10 +34,10 @@ Compréhension|Borrowed Knowledge
 Compréhension|Comprehend Languages
 Compréhension|Identify
 Compréhension|Tongues
-Contrôle de la Terre|Mold Earth
-Contrôle de l’Air|Gust
-Contrôle de l’Eau|Shape Water
-Contrôle du Feu|Control Flames
+Contrôle de la terre|Mold Earth
+Contrôle de l’air|Gust
+Contrôle de l’eau|Shape Water
+Contrôle du feu|Control Flames
 Convoi divin|Etherealness
 Convoi divin|Plane Shift
 Convoi divin|Word of Recall
@@ -52,6 +52,10 @@ Esprits funèbres|Spirit Shroud
 Esprits funèbres|Summon Undead
 Esprits gardiens|Spirit Guardians
 Esprits gardiens|Spirit Shroud
+Faveur divine|Crusader's Mantle
+Faveur divine|Destructive Wave
+Faveur divine|Divine Favor
+Faveur divine|Holy Weapon
 Façonnage|Animate Objects
 Façonnage|Fabricate
 Façonnage|Tiny Servant
@@ -64,7 +68,7 @@ Frisson|Blight
 Frisson|Cause Fear
 Frisson|Chill Touch
 Frisson|Sapping Sting
-Gardien de la foi|GuFardian of Faith
+Gardien de la foi|Guardian of Faith
 Gardien de la foi|Shield of Faith
 Gardien de la foi|Spiritual Weapon
 Guérison|Cure Wounds
@@ -72,6 +76,8 @@ Guérison|Healing Word
 Guérison|Mass Cure Wounds
 Guérison|Mass Healing Word
 Hallucination|Minor Illusion
+Injonction|Command
+Injonction|Compelled Duel
 Invisibilité|Blur
 Invisibilité|Greater Invisibility
 Invisibilité|Invisibility
@@ -106,6 +112,7 @@ Lumière|Light
 Lumière|Word of Radiance
 Malédiction|Bestow Curse
 Malédiction|Contagion
+Malédiction|Harm
 Malédiction|Hex
 Manifestation draconique|Draconic Transformation
 Manifestation draconique|Dragon's Breath
@@ -120,8 +127,6 @@ Métamorphose|Alter Self
 Métamorphose|Enlarge/Reduce
 Métamorphose|Polymorph
 Métamorphose|Water Breathing
-N/A|Create Spelljamming Helm
-N/A|Goodberry
 Nécrogenèse|Create Undead
 Nécrogenèse|Finger of Death
 Nécrogenèse|Negative Energy Flood
@@ -181,11 +186,7 @@ Souffle du serpent|Dragon's Breath
 Souffle du serpent|Poison Spray
 Souffle du serpent|Protection from Poison
 Système 3-actions|Expeditious Retreat
-Talent|Augury
-Talent|Contingency
-Talent|Magic Weapon
-Talent|Prayer of Healing
-Talent|Prayer of Healing
+Temple|Blade Barrier
 Temple|Forbiddance
 Temple|Hallow
 Temple|Temple of the Gods
@@ -196,6 +197,7 @@ Thaumaturgie|Thaumaturgy
 Thaumaturgie|Toll the Dead
 Thaumaturgie|Warding Bond
 Toucher vampirique|False Life
+Toucher vampirique|Inflict Wounds
 Toucher vampirique|Life Transference
 Toucher vampirique|Vampiric Touch
 Toucher vampirique|Wither and Bloom
@@ -215,6 +217,25 @@ Vortex|Wristpocket
 Émanations sépulcrales|Circle of Death
 Émanations sépulcrales|Enervation
 Émanations sépulcrales|Eyebite
+⚠️Champion|Find Steed
+⚠️Glyphe|Glyph of Warding
+⚠️Glyphe|Symbol
+⚠️N/A|Create Spelljamming Helm
+⚠️N/A|Goodberry
+⚠️N/A|Heroism
+⚠️N/A|Motivational Speech
+⚠️Paladin|Find Greater Steed
+⚠️Smite|Banishing Smite
+⚠️Smite|Blinding Smite
+⚠️Smite|Branding Smite
+⚠️Smite|Searing Smite
+⚠️Smite|Staggering Smite
+⚠️Smite|Thunderous Smite
+⚠️Smite|Wrathful Smite
+⚠️Talent|Augury
+⚠️Talent|Contingency
+⚠️Talent|Magic Weapon
+⚠️Talent|Prayer of Healing
 ⚡|Booming Blade
 ⚡|Call Lightning
 ⚡|Chain Lightning
@@ -286,26 +307,8 @@ Vortex|Wristpocket
 🔥|Produce Flame
 🔥|Scorching Ray
 🔥|Wall of Fire
-🚧Aid|Motivational Speech
 🚧Arcane Light|Continual Flame
 🚧Arcane Light|Dancing Lights
-🚧Aura of Courage|Heroism
-🚧Bénédiction|Heroism
-🚧Circle of Power|Motivational Speech
-🚧Glyph|Glyph of Warding
-🚧Glyph|Symbol
-🚧Heroism|Heroism
-🚧Heroism|Motivational Speech
-🚧Orateur|Motivational Speech
-🚧Smite|Banishing Smite
-🚧Smite|Blinding Smite
-🚧Smite|Branding Smite
-🚧Smite|Searing Smite
-🚧Smite|Staggering Smite
-🚧Smite|Thunderous Smite
-🚧Smite|Wrathful Smite
-🚧Steed|Find Greater Steed
-🚧Steed|Find Steed
 🚧Wither and Bloom|Blight
 🚧Wither and Bloom|Wither and Bloom
 🧪|Acid Splash

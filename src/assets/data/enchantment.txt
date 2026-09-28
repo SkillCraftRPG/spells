@@ -1,0 +1,1 @@
+Hold Person (2 → 3) + Hold Monster (5) → tiers 2
