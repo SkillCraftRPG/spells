@@ -46,6 +46,12 @@
     "2": ["Amnésie", "Compulsion", "Contrainte"],
     "3": ["Charme collectif", "Domination", "Migraine", "Songe"]
   },
+  "illusion": {
+    "0": ["Hallucination"],
+    "1": ["Hypnose", "Imagerie", "Invisibilité", "Masque"],
+    "2": ["Phantasme"],
+    "3": ["Matérialisation", "Mirage", "Projection"]
+  },
   "invocation": {
     "0": ["Lames magiques", "Luminescence", "Main magique", "Missiles magiques"],
     "1": ["Orbe chromatique", "Poulpe", "Serviteur", "Vortex"],
