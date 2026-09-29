@@ -16,8 +16,8 @@
       "Protection contre les poisons et maladies",
       "Restauration"
     ],
-    "2": ["Communion", "Cycle naturel", "Éveil végétal", "Invocation féérique", "Peste", "Résonance primordiale"],
-    "3": ["Bosquet", "Manifestation draconique", "Mirage", "Réincarnation", "Réseau de racines"]
+    "2": ["Communion", "Contrainte", "Cycle naturel", "Éveil végétal", "Invocation féérique", "Peste", "Résonance primordiale"],
+    "3": ["Bosquet", "Éclat solaire", "Manifestation draconique", "Mirage", "Réincarnation", "Réseau de racines"]
   },
   "divination": {
     "0": ["Frappe véritable"],
@@ -30,17 +30,24 @@
     "1": [
       "Gardien de la foi",
       "Guérison",
+      "Injonction",
       "Protection contre la magie",
       "Protection contre le bien et le mal",
       "Protection contre les poisons et maladies",
       "Restauration",
       "Sanctuaire"
     ],
-    "2": ["Aura sacrée", "Communion", "Esprits gardiens", "Faveur divine", "Malédiction", "Sceau magique"],
+    "2": ["Aura sacrée", "Communion", "Contrainte", "Esprits gardiens", "Faveur divine", "Malédiction", "Sceau magique"],
     "3": ["Convoi divin", "Éclat solaire", "Invocation céleste", "Miracles", "Résurrection", "Révélation", "Temple"]
   },
+  "enchantment": {
+    "0": ["Communication", "Éclat mental", "Fascination"],
+    "1": ["Aliénation", "Balancier", "Charme", "Sédation"],
+    "2": ["Amnésie", "Compulsion", "Contrainte"],
+    "3": ["Charme collectif", "Domination", "Migraine", "Songe"]
+  },
   "invocation": {
-    "0": ["Illumination", "Lames magiques", "Main magique", "Missiles magiques"],
+    "0": ["Lames magiques", "Luminescence", "Main magique", "Missiles magiques"],
     "1": ["Orbe chromatique", "Poulpe", "Serviteur", "Vortex"],
     "2": ["Gravité", "Invocation infernale", "Porte dimensionnelle", "Vide"],
     "3": ["Distorsion", "Éclat solaire", "Iridescence", "Manifestation de force", "Téléportation"]

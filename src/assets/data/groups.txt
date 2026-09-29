@@ -3,6 +3,17 @@ Adaptation naturelle|Darkvision
 Adaptation naturelle|Enhance Ability
 Adaptation naturelle|Guardian of Nature
 Adaptation naturelle|Water Breathing
+Aliénation|Antagonize
+Aliénation|Crown of Madness
+Aliénation|Enemies Abound
+Aliénation|Tasha's Hideous Laughter
+Amnésie|Confusion
+Amnésie|Gift of Gab
+Amnésie|Modify Memory
+Apothéose de la terre|Investiture of Stone
+Apothéose de l’air|Investiture of Wind
+Apothéose de l’eau|Investiture of Ice
+Apothéose du feu|Investiture of Flame
 Aranéide|Darkvision
 Aranéide|Spider Climb
 Aranéide|Web
@@ -35,6 +46,14 @@ Cage spirituelle|Tether Essence
 Carapace|Blade Ward
 Carapace|Resistance
 Carapace|Stoneskin
+Charme collectif|Charm Monster
+Charme collectif|Charm Person
+Charme collectif|Fast Friends
+Charme collectif|Mass Suggestion
+Charme|Charm Monster
+Charme|Charm Person
+Charme|Fast Friends
+Charme|Suggestion
 Clairvoyance|Arcane Eye
 Clairvoyance|Clairvoyance
 Clairvoyance|Scrying
@@ -50,6 +69,11 @@ Compréhension|Borrowed Knowledge
 Compréhension|Comprehend Languages
 Compréhension|Identify
 Compréhension|Tongues
+Compulsion|Compulsion
+Compulsion|Otto's Irresistible Dance
+Contrainte|Geas
+Contrainte|Hold Monster
+Contrainte|Hold Person
 Contrôle de la terre|Mold Earth
 Contrôle de l’air|Gust
 Contrôle de l’eau|Shape Water
@@ -68,6 +92,9 @@ Danse macabre|Animate Dead
 Danse macabre|Danse Macabre
 Distorsion|Gravity Fissure
 Distorsion|Reverse Gravity
+Domination|Dominate Beast
+Domination|Dominate Monster
+Domination|Dominate Person
 Débilitation|Blindness/Deafness
 Débilitation|Ray of Enfeeblement
 Débilitation|Ray of Sickness
@@ -83,6 +110,10 @@ Exaltation|Ashardalon's Stride
 Exaltation|Skill Empowerment
 Exaltation|Tasha's Otherworldly Guise
 Exaltation|Tenser's Transformation
+Fascination|Enthrall
+Fascination|Friends
+Fascination|Incite Greed
+Fascination|Jim's Glowing Coin
 Faveur divine|Crusader's Mantle
 Faveur divine|Destructive Wave
 Faveur divine|Divine Favor
@@ -123,9 +154,10 @@ Homoncule|Summon Construct
 Hypnose|Color Spray
 Hypnose|Hypnotic Pattern
 Hypnose|Spray Of Cards
-Illumination|Continual Flame
-Illumination|Dancing Lights
-Illumination|Daylight
+Injonction|Calm Emotions
+Injonction|Command
+Injonction|Compelled Duel
+Injonction|Fast Friends
 Interdiction|Alarm
 Interdiction|Arcane Lock
 Interdiction|Nondetection
@@ -146,7 +178,7 @@ Invocation infernale|Summon Greater Demon
 Invocation infernale|Summon Lesser Demons
 Iridescence|Crown of Stars
 Iridescence|Prismatic Spray
-Iridescence|Sickening Radiance
+Iridescence|Wall of Light
 Lames magiques|Cloud of Daggers
 Lames magiques|Shadow Blade
 Lames magiques|Sword Burst
@@ -167,6 +199,9 @@ Localisation|Locate Object
 Lueur lunaire|Create Bonfire
 Lueur lunaire|Faerie Fire
 Lueur lunaire|Moonbeam
+Luminescence|Continual Flame
+Luminescence|Dancing Lights
+Luminescence|Sickening Radiance
 Lumière|Daylight
 Lumière|Light
 Lumière|Word of Radiance
@@ -185,6 +220,9 @@ Manifestation de force|Wall of Force
 Manifestation draconique|Draconic Transformation
 Manifestation draconique|Dragon's Breath
 Manifestation draconique|Summon Draconic Spirit
+Migraine|Power Word: Pain
+Migraine|Raulothim's Psychic Lance
+Migraine|Synaptic Static
 Miracles|Divine Word
 Miracles|Heal
 Miracles|Heroes' Feast
@@ -279,6 +317,9 @@ Souffle du serpent|Protection from Poison
 Stase|Sequester
 Stase|Temporal Shunt
 Système 3-actions|Expeditious Retreat
+Sédation|Calm Emotions
+Sédation|Catnap
+Sédation|Sleep
 Temple|Blade Barrier
 Temple|Forbiddance
 Temple|Hallow
@@ -323,11 +364,13 @@ Vortex|Blink
 Vortex|Misty Step
 Vortex|Vortex Warp
 Vortex|Wristpocket
+Éclat mental|Dissonant Whispers
 Éclat mental|Mind Sliver
+Éclat mental|Tasha's Mind Whip
 Éclat mental|Vicious Mockery
 Éclat solaire|Dawn
 Éclat solaire|Sunbeam
-Éclat solaire|Wall of Light
+Éclat solaire|Sunburst
 Émanations sépulcrales|Circle of Death
 Émanations sépulcrales|Enervation
 Émanations sépulcrales|Eyebite
@@ -379,7 +422,6 @@ Vortex|Wristpocket
 ❄️|Frostbite
 ❄️|Ice Knife
 ❄️|Ice Storm
-❄️|Investiture of Ice
 ❄️|Otiluke's Freezing Sphere
 ❄️|Ray of Frost
 ❄️|Rime's Binding Ice
@@ -406,7 +448,6 @@ Vortex|Wristpocket
 💨|Fog Cloud
 💨|Gaseous Form
 💨|Gust of Wind
-💨|Investiture of Wind
 💨|Levitate
 💨|Skywrite
 💨|Steel Wind Strike
@@ -430,7 +471,6 @@ Vortex|Wristpocket
 🔥|Green-Flame Blade
 🔥|Heat Metal
 🔥|Immolation
-🔥|Investiture of Flame
 🔥|Melf's Minute Meteors
 🔥|Produce Flame
 🔥|Scorching Ray
@@ -445,7 +485,6 @@ Vortex|Wristpocket
 🪨|Earth Tremor
 🪨|Erupting Earth
 🪨|Flesh to Stone
-🪨|Investiture of Stone
 🪨|Maximillian's Earthen Grasp
 🪨|Meld into Stone
 🪨|Move Earth
