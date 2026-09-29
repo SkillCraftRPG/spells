@@ -12,7 +12,7 @@
           @click="spellStore.clearFilters"
         />
       </div>
-      <SpellFilters :classes="classes" :groups="groups" :school="school" :tags="tags" />
+      <SpellFilters :classes="classes" :groups="groups" :schools="schools" :tags="tags" />
       <SpellTable v-if="filteredSpells.length" :spells="filteredSpells" @clicked="onClicked" />
       <p v-else>{{ t("spells.empty") }}</p>
       <SpellModal v-if="spell" ref="modal" :spell="spell" />
@@ -31,7 +31,7 @@ import SpellTable from "./SpellTable.vue";
 import groupPairs from "@/assets/data/groups.txt?raw";
 import spells from "@/assets/data/spells.json";
 import type { School, Spell } from "@/types/spells";
-import { matchClasses, matchGroup, matchLevel, matchSchool, matchSearch, matchTags } from "@/utils/spells";
+import { matchClasses, matchGroup, matchLevel, matchSchools, matchSearch, matchTags } from "@/utils/spells";
 import { useSpellStore } from "@/stores/spells";
 import TarButton from "@/components/tar/TarButton.vue";
 
@@ -86,7 +86,7 @@ const filteredSpells = computed<Spell[]>(() =>
       matchClasses(spellStore.filters.classes, spell) &&
       matchGroup(spellStore.filters.group, spell) &&
       matchLevel(spellStore.filters.level, spell) &&
-      matchSchool(spellStore.filters.school, spell) &&
+      matchSchools(spellStore.filters.schools, spell) &&
       matchSearch(spellStore.filters.search, spell) &&
       matchTags(spellStore.filters.tags, spell),
   ),
@@ -101,6 +101,11 @@ const groups = computed<string[]>(() => {
   const groups: Set<string> = new Set();
   scopedSpells.value.forEach((spell) => spell.groups.forEach((group) => groups.add(group)));
   return [...groups];
+});
+const schools = computed<School[]>(() => {
+  const schools: Set<School> = new Set();
+  scopedSpells.value.forEach((spell) => schools.add(spell.school));
+  return [...schools];
 });
 const tags = computed<string[]>(() => {
   const tags: Set<string> = new Set();

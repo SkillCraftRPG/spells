@@ -121,11 +121,17 @@ export function matchLevel(level: RangeFilter<number> | null | undefined, spell:
   return (typeof level.minimum !== "number" || spell.level >= level.minimum) && (typeof level.maximum !== "number" || spell.level <= level.maximum) ? 1 : 0;
 }
 
-export function matchSchool(school: School | null | undefined, spell: Spell): number {
-  if (!school) {
+export function matchSchools(schools: School[] | null | undefined, spell: Spell): number {
+  if (!schools?.length) {
     return -1;
   }
-  return spell.school === school ? 1 : 0;
+  let match: number = 0;
+  schools.forEach((school) => {
+    if (spell.school === school) {
+      match++;
+    }
+  });
+  return match;
 }
 
 export function matchSearch(search: string | null | undefined, spell: Spell): number {

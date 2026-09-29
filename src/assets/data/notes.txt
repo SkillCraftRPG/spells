@@ -2,14 +2,19 @@ Aid|Le spell inverse (Malédiction) réduit les PV courants & maximum.
 Arms of Hadar|Combiner avec Hunger of Hadar, niveau 3.
 Augury|Devient un talent de tiers 1 accessible à tous les spellcasters.
 Contingency|Talent de tiers 3 requérant Méta-magie.
+Continual Flame|Also dispels Darkness, as Light/Daylight.
 Dragon's Breath|Remplace le souffle de la transformation; pour souffle du serpent, poison seulement. 7 éléments pour transformation!
 Find Steed|Talent pour le Champion, ou capacité de la spécialisation, utilise le Pouvoir divin.
-Gift of Alacrity|Également en lien avec la Surprise.
+Find Traps|Appliquer le même traitement que les Locate.
+Gift of Alacrity|Joindre avec Encode Thoughts (simultanément ; niveau 3); également en lien avec la Surprise.
 Hellish Rebuke|Thématique _balefire_ (la Roue du Temps).
+Heroism|Temporary HP overlaps with Aid; frightened overlaps with Aura of Courage.
 Kinetic Jaunt|+10 ft → Longstrider; no opportunity and move through → Freedom of Movement, but cannot end turn in occupied space.
 Magic Stone|Lancer un objet tenu en main (Self seulement), utilise Occultisme au lieu de Mêlée/Orientation, puis prend fin.
+Mind Spike|Dans télépathie, offre effet feat Telepathic pendant 1 minute (C), puis peut mettre fin au pouvoir pour infliger les dégâts psychiques; dans Frappe véritable, savoir où la cible se trouve.
+Motivational Speech|Temporary HP overlaps with Aid and Orateur; advantage overlaps with other spells and auras.
 Prayer of Healing|Talent de tiers 1 pour le Clerc, utilise le Pouvoir divin; par ailleurs problème avec Renvoi des morts-vivants, à reformuler.
 Sending|Inclure Rary's Telepathic Bond et Telepathic feat (speak).
 Silvery Barbs|Avec Pendulum.
 Telekinesis|Inclure Telekinesis feat (shove).
-Wall of Light|Also dispels Darkness, as Light and Daylight.
+Wall of Light|Also dispels Darkness, as Light/Daylight.

@@ -79,7 +79,7 @@
     },
     "ritual": "Ritual",
     "school": {
-      "label": "School",
+      "label": "Schools",
       "options": {
         "Abjuration": "Abjuration",
         "Conjuration": "Conjuration",
@@ -90,13 +90,18 @@
         "Necromancy": "Necromancy",
         "Transmutation": "Transmutation"
       },
-      "title": "Schools"
+      "select": "Select schools",
+      "selected": "None selected. | {count} selected. | {count} selected."
     },
     "spirituality": "Spiritualité",
     "tags": {
       "label": "Tags",
       "select": "Select tags",
       "selected": "None selected. | {count} selected. | {count} selected."
+    },
+    "tier": {
+      "format": "Tiers {tier}",
+      "label": "Tiers"
     },
     "title": {
       "abjuration": "Abjuration Spells",

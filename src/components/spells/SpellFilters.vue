@@ -26,7 +26,7 @@
       </div>
     </div>
     <div class="col">
-      <SchoolSelect class="mb-3" :model-value="spell.filters.school ?? ''" @update:model-value="updateSchool" />
+      <SchoolSelect class="mb-3" :model-value="spell.filters.schools ?? []" :schools="schools" @update:model-value="updateSchools" />
     </div>
     <div class="col">
       <ClassSelect class="mb-3" :classes="classes" :model-value="spell.filters.classes ?? []" @update:model-value="updateClasses" />
@@ -47,7 +47,6 @@ import LevelSelect from "./LevelSelect.vue";
 import SchoolSelect from "./SchoolSelect.vue";
 import SearchInput from "@/components/search/SearchInput.vue";
 import type { School } from "@/types/spells";
-import { SCHOOLS } from "@/types/spells";
 import { useSpellStore } from "@/stores/spells";
 import TagSelect from "./TagSelect.vue";
 
@@ -56,7 +55,7 @@ const spell = useSpellStore();
 defineProps<{
   classes?: string[];
   groups?: string[];
-  school?: School;
+  schools?: School[];
   tags?: string[];
 }>();
 
@@ -83,8 +82,8 @@ function updateMinimumLevel(minimum: number | undefined): void {
 function updateSearch(search: string): void {
   spell.filters.search = search;
 }
-function updateSchool(school: string): void {
-  spell.filters = { ...spell.filters, school: SCHOOLS.includes(school) ? (school as School) : null };
+function updateSchools(schools: School[]): void {
+  spell.filters.schools = [...schools];
 }
 function updateTags(tags: string[]): void {
   spell.filters.tags = [...tags];
