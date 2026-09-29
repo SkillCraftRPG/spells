@@ -147,13 +147,18 @@ Guérison|Cure Wounds
 Guérison|Healing Word
 Guérison|Mass Cure Wounds
 Guérison|Mass Healing Word
+Hallucination|Distort Value
 Hallucination|Minor Illusion
+Hallucination|Nathair's Mischief
 Homoncule|Create Homunculus
 Homoncule|Create Magen
 Homoncule|Summon Construct
 Hypnose|Color Spray
 Hypnose|Hypnotic Pattern
 Hypnose|Spray Of Cards
+Imagerie|Major Image
+Imagerie|Mirror Image
+Imagerie|Silent Image
 Injonction|Calm Emotions
 Injonction|Command
 Injonction|Compelled Duel
@@ -220,6 +225,13 @@ Manifestation de force|Wall of Force
 Manifestation draconique|Draconic Transformation
 Manifestation draconique|Dragon's Breath
 Manifestation draconique|Summon Draconic Spirit
+Masque|Disguise Self
+Masque|Illusory Script
+Masque|Nystul's Magic Aura
+Masque|Seeming
+Matérialisation|Creation
+Matérialisation|Phantom Steed
+Matérialisation|Simulacrum
 Migraine|Power Word: Pain
 Migraine|Raulothim's Psychic Lance
 Migraine|Synaptic Static
@@ -248,6 +260,10 @@ Pesanteur|Magnify Gravity
 Peste|Giant Insect
 Peste|Infestation
 Peste|Insect Plague
+Phantasme|Fear
+Phantasme|Mental Prison
+Phantasme|Phantasmal Force
+Phantasme|Phantasmal Killer
 Porte dimensionnelle|Dimension Door
 Porte dimensionnelle|Far Step
 Porte dimensionnelle|Galder's Speedy Courier
@@ -262,6 +278,9 @@ Prestidigitation|Magic Stone
 Prestidigitation|Mending
 Prestidigitation|Prestidigitation
 Prestidigitation|Pyrotechnics
+Projection|Mislead
+Projection|Programmed Illusion
+Projection|Project Image
 Protection contre la magie|Counterspell
 Protection contre la magie|Detect Magic
 Protection contre la magie|Dispel Magic

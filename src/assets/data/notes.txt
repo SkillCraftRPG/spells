@@ -14,6 +14,7 @@ Magic Stone|Lancer un objet tenu en main (Self seulement), utilise Occultisme au
 Mind Spike|Dans télépathie, offre effet feat Telepathic pendant 1 minute (C), puis peut mettre fin au pouvoir pour infliger les dégâts psychiques; dans Frappe véritable, savoir où la cible se trouve.
 Motivational Speech|Temporary HP overlaps with Aid and Orateur; advantage overlaps with other spells and auras.
 Prayer of Healing|Talent de tiers 1 pour le Clerc, utilise le Pouvoir divin; par ailleurs problème avec Renvoi des morts-vivants, à reformuler.
+Seeming|Lv.4 same duration as Disguise Self.
 Sending|Inclure Rary's Telepathic Bond et Telepathic feat (speak).
 Silvery Barbs|Avec Pendulum.
 Telekinesis|Inclure Telekinesis feat (shove).
