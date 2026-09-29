@@ -1,9 +1,4 @@
-# Clerc
-
-- Dawn (5): sunlight 4d10 radiant damage
-- Sunbeam (6): 6d8 radiant and blinded
-
-## Paladin
+# Paladin
 
 - **Divine Sense (1).** Detect good, evil and undead ; [✅Perception divine](https://www.skillcraftrpg.ca/regles/specialisations/champion)
 - **Lay on Hands (1).** Healing or cure poison/disease ; [✅Rétablissement](https://www.skillcraftrpg.ca/regles/domaines/divins/vie)
