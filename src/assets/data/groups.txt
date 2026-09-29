@@ -10,10 +10,11 @@ Aliénation|Tasha's Hideous Laughter
 Amnésie|Confusion
 Amnésie|Gift of Gab
 Amnésie|Modify Memory
-Apothéose de la terre|Investiture of Stone
-Apothéose de l’air|Investiture of Wind
-Apothéose de l’eau|Investiture of Ice
-Apothéose du feu|Investiture of Flame
+Apothéose de la pierre|Investiture of Stone
+Apothéose des flammes|Delayed Blast Fireball
+Apothéose des flammes|Investiture of Flame
+Apothéose des marées|Investiture of Ice
+Apothéose des vents|Investiture of Wind
 Aranéide|Darkvision
 Aranéide|Spider Climb
 Aranéide|Web
@@ -141,6 +142,8 @@ Gardien de la foi|Shield of Faith
 Gardien de la foi|Spiritual Weapon
 Globe d’invulnérabilité|Fizban's Platinum Shield
 Globe d’invulnérabilité|Globe of Invulnerability
+Glyphe|Glyph of Warding
+Glyphe|Symbol
 Gravité|Gravity Sinkhole
 Gravité|Pulse Wave
 Guérison|Cure Wounds
@@ -347,6 +350,8 @@ Temporalité|Delay
 Temporalité|Haste
 Temporalité|Hurry
 Temporalité|Slow
+Tempête de flammes|Fire Storm
+Tempête de flammes|Flame Strike
 Thaumaturgie|Ceremony
 Thaumaturgie|Life Transference
 Thaumaturgie|Mending
@@ -400,8 +405,6 @@ Vortex|Wristpocket
 ⚠️Capacités élémentaires|Conjure Minor Elementals
 ⚠️Capacités élémentaires|Summon Elemental
 ⚠️Champion|Find Steed
-⚠️Glyphe|Glyph of Warding
-⚠️Glyphe|Symbol
 ⚠️N/A|Create Spelljamming Helm
 ⚠️N/A|Goodberry
 ⚠️N/A|Heroism
@@ -478,14 +481,11 @@ Vortex|Wristpocket
 💨|Zephyr Strike
 🔥|Aganazzar's Scorcher
 🔥|Burning Hands
-🔥|Delayed Blast Fireball
 🔥|Fire Bolt
 🔥|Fire Shield
-🔥|Fire Storm
 🔥|Fireball
 🔥|Flame Arrows
 🔥|Flame Blade
-🔥|Flame Strike
 🔥|Flaming Sphere
 🔥|Green-Flame Blade
 🔥|Heat Metal
