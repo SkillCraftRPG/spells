@@ -12,12 +12,16 @@ Amnésie|Gift of Gab
 Amnésie|Modify Memory
 Apothéose de la pierre|Investiture of Stone
 Apothéose des flammes|Delayed Blast Fireball
+Apothéose des flammes|Immolation
 Apothéose des flammes|Investiture of Flame
 Apothéose des marées|Investiture of Ice
 Apothéose des vents|Investiture of Wind
 Aranéide|Darkvision
 Aranéide|Spider Climb
 Aranéide|Web
+Arme enflammée|Flame Arrows
+Arme enflammée|Flame Blade
+Arme enflammée|Green-Flame Blade
 Armure magique|Intellect Fortress
 Armure magique|Mage Armor
 Armure magique|Shield
@@ -32,6 +36,8 @@ Aura sacrée|Circle of Power
 Balancier|Fortune's Favor
 Balancier|Pendulum
 Balancier|Silvery Barbs
+Barrière ardente|Fire Shield
+Barrière ardente|Wall of Fire
 Bosquet|Druid Grove
 Bosquet|Heroes' Feast
 Bosquet|Regenerate
@@ -47,6 +53,9 @@ Cage spirituelle|Tether Essence
 Carapace|Blade Ward
 Carapace|Resistance
 Carapace|Stoneskin
+Carreau de feu|Fire Bolt
+Carreau de feu|Produce Flame
+Carreau de feu|Scorching Ray
 Charme collectif|Charm Monster
 Charme collectif|Charm Person
 Charme collectif|Fast Friends
@@ -79,6 +88,7 @@ Contrôle de la terre|Mold Earth
 Contrôle de l’air|Gust
 Contrôle de l’eau|Shape Water
 Contrôle du feu|Control Flames
+Contrôle du feu|Heat Metal
 Convoi divin|Etherealness
 Convoi divin|Plane Shift
 Convoi divin|Word of Recall
@@ -281,6 +291,8 @@ Prestidigitation|Magic Stone
 Prestidigitation|Mending
 Prestidigitation|Prestidigitation
 Prestidigitation|Pyrotechnics
+Projection de flammes|Aganazzar's Scorcher
+Projection de flammes|Burning Hands
 Projection|Mislead
 Projection|Programmed Illusion
 Projection|Project Image
@@ -336,6 +348,9 @@ Songe|Etherealness
 Souffle du serpent|Dragon's Breath
 Souffle du serpent|Poison Spray
 Souffle du serpent|Protection from Poison
+Sphère incendiaire|Fireball
+Sphère incendiaire|Flaming Sphere
+Sphère incendiaire|Melf's Minute Meteors
 Stase|Sequester
 Stase|Temporal Shunt
 Système 3-actions|Expeditious Retreat
@@ -479,21 +494,6 @@ Vortex|Wristpocket
 💨|Wind Walk
 💨|Wind Wall
 💨|Zephyr Strike
-🔥|Aganazzar's Scorcher
-🔥|Burning Hands
-🔥|Fire Bolt
-🔥|Fire Shield
-🔥|Fireball
-🔥|Flame Arrows
-🔥|Flame Blade
-🔥|Flaming Sphere
-🔥|Green-Flame Blade
-🔥|Heat Metal
-🔥|Immolation
-🔥|Melf's Minute Meteors
-🔥|Produce Flame
-🔥|Scorching Ray
-🔥|Wall of Fire
 🧪|Acid Splash
 🧪|Melf's Acid Arrow
 🧪|Primal Savagery

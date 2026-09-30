@@ -59,9 +59,9 @@
     "3": ["Charme collectif", "Domination", "Migraine", "Songe"]
   },
   "fire": {
-    "0": ["Contrôle du feu"],
-    "1": [],
-    "2": [],
+    "0": ["Arme enflammée", "Carreau de feu", "Contrôle du feu"],
+    "1": ["Projection de flammes"],
+    "2": ["Barrière ardente", "Sphère incendiaire"],
     "3": ["Apothéose des flammes", "Tempête de flammes"]
   },
   "illusion": {
