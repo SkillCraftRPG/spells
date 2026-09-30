@@ -50,7 +50,7 @@
     "0": ["Contrôle de la terre"],
     "1": [],
     "2": [],
-    "3": ["Apothéose de la pierre"]
+    "3": ["Apothéose de pierre"]
   },
   "enchantment": {
     "0": ["Communication", "Éclat mental", "Fascination"],
@@ -89,9 +89,9 @@
     "3": ["Exaltation", "Homoncule", "Manifestation draconique", "Stase", "Télékinésie"]
   },
   "water": {
-    "0": ["Contrôle de l’eau"],
-    "1": [],
-    "2": [],
-    "3": ["Apothéose des marées"]
+    "0": ["Contrôle de l’eau", "Mistral"],
+    "1": ["Frontière aquatique", "Givre"],
+    "2": ["Blizzard", "Hydrosphère", "Marées"],
+    "3": ["Apothéose de glace", "Cryosphère"]
   }
 }

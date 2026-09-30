@@ -10,11 +10,12 @@ Aliénation|Tasha's Hideous Laughter
 Amnésie|Confusion
 Amnésie|Gift of Gab
 Amnésie|Modify Memory
-Apothéose de la pierre|Investiture of Stone
+Apothéose de glace|Cone of Cold
+Apothéose de glace|Investiture of Ice
+Apothéose de pierre|Investiture of Stone
 Apothéose des flammes|Delayed Blast Fireball
 Apothéose des flammes|Immolation
 Apothéose des flammes|Investiture of Flame
-Apothéose des marées|Investiture of Ice
 Apothéose des vents|Investiture of Wind
 Aranéide|Darkvision
 Aranéide|Spider Climb
@@ -38,6 +39,8 @@ Balancier|Pendulum
 Balancier|Silvery Barbs
 Barrière ardente|Fire Shield
 Barrière ardente|Wall of Fire
+Blizzard|Ice Storm
+Blizzard|Sleet Storm
 Bosquet|Druid Grove
 Bosquet|Heroes' Feast
 Bosquet|Regenerate
@@ -86,6 +89,7 @@ Contrainte|Hold Monster
 Contrainte|Hold Person
 Contrôle de la terre|Mold Earth
 Contrôle de l’air|Gust
+Contrôle de l’eau|Create or Destroy Water
 Contrôle de l’eau|Shape Water
 Contrôle du feu|Control Flames
 Contrôle du feu|Heat Metal
@@ -95,6 +99,8 @@ Convoi divin|Word of Recall
 Corde enchantée|Earthbind
 Corde enchantée|Rope Trick
 Corde enchantée|Snare
+Cryosphère|Otiluke's Freezing Sphere
+Cryosphère|Wall of Ice
 Cycle naturel|Antilife Shell
 Cycle naturel|Aura of Life
 Cycle naturel|Blight
@@ -147,9 +153,15 @@ Frisson|Blight
 Frisson|Cause Fear
 Frisson|Chill Touch
 Frisson|Sapping Sting
+Frontière aquatique|Fog Cloud
+Frontière aquatique|Water Breathing
+Frontière aquatique|Water Walk
 Gardien de la foi|Guardian of Faith
 Gardien de la foi|Shield of Faith
 Gardien de la foi|Spiritual Weapon
+Givre|Armor of Agathys
+Givre|Ice Knife
+Givre|Rime's Binding Ice
 Globe d’invulnérabilité|Fizban's Platinum Shield
 Globe d’invulnérabilité|Globe of Invulnerability
 Glyphe|Glyph of Warding
@@ -166,6 +178,8 @@ Hallucination|Nathair's Mischief
 Homoncule|Create Homunculus
 Homoncule|Create Magen
 Homoncule|Summon Construct
+Hydrosphère|Wall of Water
+Hydrosphère|Watery Sphere
 Hypnose|Color Spray
 Hypnose|Hypnotic Pattern
 Hypnose|Spray Of Cards
@@ -238,6 +252,9 @@ Manifestation de force|Wall of Force
 Manifestation draconique|Draconic Transformation
 Manifestation draconique|Dragon's Breath
 Manifestation draconique|Summon Draconic Spirit
+Marées|Control Water
+Marées|Maelstrom
+Marées|Tidal Wave
 Masque|Disguise Self
 Masque|Illusory Script
 Masque|Nystul's Magic Aura
@@ -257,6 +274,10 @@ Mirage|Mirage Arcane
 Missiles magiques|Eldritch Blast
 Missiles magiques|Jim's Magic Missile
 Missiles magiques|Magic Missile
+Mistral|Frost Fingers
+Mistral|Frostbite
+Mistral|Ray of Frost
+Mistral|Snilloc's Snowball Swarm
 Métamorphose|Alter Self
 Métamorphose|Enlarge/Reduce
 Métamorphose|Polymorph
@@ -453,36 +474,12 @@ Vortex|Wristpocket
 ⚡|Thunderclap
 ⚡|Thunderwave
 ⚡|Witch Bolt
-❄️|Armor of Agathys
-❄️|Cone of Cold
-❄️|Frost Fingers
-❄️|Frostbite
-❄️|Ice Knife
-❄️|Ice Storm
-❄️|Otiluke's Freezing Sphere
-❄️|Ray of Frost
-❄️|Rime's Binding Ice
-❄️|Sleet Storm
-❄️|Snilloc's Snowball Swarm
-❄️|Wall of Ice
-💧|Cloudkill
-💧|Control Water
-💧|Create or Destroy Water
-💧|Fog Cloud
-💧|Maelstrom
-💧|Stinking Cloud
-💧|Tidal Wave
-💧|Wall of Water
-💧|Water Breathing
-💧|Water Walk
-💧|Watery Sphere
 💨|Air Bubble
 💨|Cloudkill
 💨|Control Winds
 💨|Dust Devil
 💨|Feather Fall
 💨|Fly
-💨|Fog Cloud
 💨|Gaseous Form
 💨|Gust of Wind
 💨|Levitate
