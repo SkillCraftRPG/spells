@@ -479,10 +479,8 @@ Vortex|Wristpocket
 💨|Control Winds
 💨|Dust Devil
 💨|Feather Fall
-💨|Fly
 💨|Gaseous Form
 💨|Gust of Wind
-💨|Levitate
 💨|Skywrite
 💨|Steel Wind Strike
 💨|Stinking Cloud
@@ -497,7 +495,6 @@ Vortex|Wristpocket
 🧪|Tasha's Caustic Brew
 🧪|Vitriolic Sphere
 🪨|Bones of the Earth
-🪨|Dust Devil
 🪨|Earth Tremor
 🪨|Erupting Earth
 🪨|Flesh to Stone
@@ -505,9 +502,21 @@ Vortex|Wristpocket
 🪨|Meld into Stone
 🪨|Move Earth
 🪨|Passwall
-🪨|Stinking Cloud
 🪨|Stone Shape
 🪨|Stoneskin
 🪨|Transmute Rock
 🪨|Wall of Sand
 🪨|Wall of Stone
+----------------------------------------------------------------------------------------------------
+Air Bubble & Skywrite (atmosphère/troposphère)
+Control Winds: tiers 2 (comme Control Water)
+Dust Devil: tiers 1
+Feather Fall: premier niveau de tiers 1
+Gaseous Form: tiers 1 ou 2, mais je penche sur 2
+Gust of Wind: potentiellement dans Contrôle de l’air
+Steel Wind Strike + Wind Walk, tiers 3
+Stinking Cloud + Cloudkill: tiers 2
+Warding Wind: tiers 1
+Whirlwind: potentiellement dans Apothéose des vents
+Wind Wall: tiers 2 (comme Fire & Water)
+Zephyr Strike: probablement dans Contrôle de l’air
