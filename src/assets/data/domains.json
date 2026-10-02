@@ -3,7 +3,13 @@
     "0": ["Carapace"],
     "1": ["Armure magique", "Interdiction", "Restauration"],
     "2": ["Résonance primordiale", "Sceau magique"],
-    "3": ["Forteresse", "Globe d’invulnérabilité"]
+    "3": ["Forteresse", "Glyphe", "Globe d’invulnérabilité"]
+  },
+  "air": {
+    "0": ["Contrôle de l’air", "Coup de tonnerre", "Décharge"],
+    "1": ["Troposphère", "Vents violents"],
+    "2": ["Foudroiement", "Orage", "Vapeurs"],
+    "3": ["Apothéose de l’air", "Cyclone"]
   },
   "animism": {
     "0": ["Arts druidiques", "Carapace", "Lueur lunaire", "Souffle du serpent", "Vignes épineuses"],
@@ -17,7 +23,7 @@
       "Restauration"
     ],
     "2": ["Communion", "Contrainte", "Cycle naturel", "Éveil végétal", "Invocation féérique", "Peste", "Résonance primordiale"],
-    "3": ["Bosquet", "Éclat solaire", "Manifestation draconique", "Mirage", "Réincarnation", "Réseau de racines"]
+    "3": ["Bosquet", "Éclat solaire", "Glyphe", "Manifestation draconique", "Mirage", "Réincarnation", "Réseau de racines"]
   },
   "divination": {
     "0": ["Frappe véritable"],
@@ -38,13 +44,25 @@
       "Sanctuaire"
     ],
     "2": ["Aura sacrée", "Communion", "Contrainte", "Esprits gardiens", "Faveur divine", "Malédiction", "Sceau magique"],
-    "3": ["Convoi divin", "Éclat solaire", "Invocation céleste", "Miracles", "Résurrection", "Révélation", "Temple"]
+    "3": ["Convoi divin", "Éclat solaire", "Glyphe", "Invocation céleste", "Miracles", "Résurrection", "Révélation", "Temple"]
+  },
+  "earth": {
+    "0": ["Contrôle de la terre", "Giclée d’acide"],
+    "1": ["Entrave terrestre"],
+    "2": ["Affinité minérale", "Façonnage de pierre", "Vitriol"],
+    "3": ["Apothéose de pierre", "Soulèvement tellurique"]
   },
   "enchantment": {
     "0": ["Communication", "Éclat mental", "Fascination"],
     "1": ["Aliénation", "Balancier", "Charme", "Sédation"],
     "2": ["Amnésie", "Compulsion", "Contrainte"],
     "3": ["Charme collectif", "Domination", "Migraine", "Songe"]
+  },
+  "fire": {
+    "0": ["Arme enflammée", "Carreau de feu", "Contrôle du feu"],
+    "1": ["Projection de flammes"],
+    "2": ["Barrière ardente", "Sphère incendiaire"],
+    "3": ["Apothéose des flammes", "Tempête de flammes"]
   },
   "illusion": {
     "0": ["Hallucination"],
@@ -69,5 +87,11 @@
     "1": ["Aranéide", "Corde enchantée", "Liberté", "Métamorphose", "Pesanteur"],
     "2": ["Façonnage", "Temporalité"],
     "3": ["Exaltation", "Homoncule", "Manifestation draconique", "Stase", "Télékinésie"]
+  },
+  "water": {
+    "0": ["Contrôle de l’eau", "Mistral"],
+    "1": ["Frontière aquatique", "Givre"],
+    "2": ["Blizzard", "Hydrosphère", "Marées"],
+    "3": ["Apothéose de glace", "Cryosphère"]
   }
 }
