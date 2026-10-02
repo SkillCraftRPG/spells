@@ -16,8 +16,6 @@ Apothéose de pierre|Investiture of Stone
 Apothéose des flammes|Delayed Blast Fireball
 Apothéose des flammes|Immolation
 Apothéose des flammes|Investiture of Flame
-Apothéose des vents|Investiture of Wind
-Apothéose des vents|Whirlwind
 Aranéide|Darkvision
 Aranéide|Spider Climb
 Aranéide|Web
@@ -68,7 +66,6 @@ Charme|Charm Monster
 Charme|Charm Person
 Charme|Fast Friends
 Charme|Suggestion
-Chaîne d’éclairs 🚧|Chain Lightning
 Clairvoyance|Arcane Eye
 Clairvoyance|Clairvoyance
 Clairvoyance|Scrying
@@ -90,8 +87,6 @@ Contrainte|Geas
 Contrainte|Hold Monster
 Contrainte|Hold Person
 Contrôle de la terre|Mold Earth
-Contrôle de l’air|Gust
-Contrôle de l’air|Gust of Wind
 Contrôle de l’eau|Create or Destroy Water
 Contrôle de l’eau|Shape Water
 Contrôle du feu|Control Flames
@@ -102,9 +97,6 @@ Convoi divin|Word of Recall
 Corde enchantée|Earthbind
 Corde enchantée|Rope Trick
 Corde enchantée|Snare
-Coup de tonnerre|Booming Blade
-Coup de tonnerre|Thunderclap
-Coup de tonnerre|Thunderwave
 Cryosphère|Otiluke's Freezing Sphere
 Cryosphère|Wall of Ice
 Cycle naturel|Antilife Shell
@@ -152,15 +144,6 @@ Forteresse|Guards and Wards
 Forteresse|Leomund's Tiny Hut
 Forteresse|Mordenkainen's Magnificent Mansion
 Forteresse|Mordenkainen's Private Sanctum
-Foudre 🚧|Lightning Lure
-Foudre 🚧|Shocking Grasp
-Foudre 🚧|Witch Bolt
-Foudroiement 🚧|Lightning Arrow
-Foudroiement 🚧|Lightning Bolt
-Foulée des vents|Steel Wind Strike
-Foulée des vents|Wind Walk
-Fracas|Shatter
-Fracas|Thunder Step
 Frappe véritable|Hunter's Mark
 Frappe véritable|Mind Spike
 Frappe véritable|True Strike
@@ -297,14 +280,9 @@ Métamorphose|Alter Self
 Métamorphose|Enlarge/Reduce
 Métamorphose|Polymorph
 Métamorphose|Water Breathing
-Nuage 🚧|Cloudkill
-Nuage 🚧|Gaseous Form
-Nuage 🚧|Stinking Cloud
 Nécrogenèse|Create Undead
 Nécrogenèse|Finger of Death
 Nécrogenèse|Negative Energy Flood
-Orage|Call Lightning
-Orage|Storm Sphere
 Orbe chromatique|Chaos Bolt
 Orbe chromatique|Chromatic Orb
 Pesanteur|Feather Fall
@@ -430,8 +408,6 @@ Téléportation|Drawmij's Instant Summons
 Téléportation|Plane Shift
 Téléportation|Scatter
 Téléportation|Teleport
-Vent 🚧|Control Winds
-Vent 🚧|Wind Wall
 Vide|Arms of Hadar
 Vide|Hellish Rebuke
 Vide|Hunger Of Hadar
@@ -483,12 +459,6 @@ Vortex|Wristpocket
 ⚠️Talent|Contingency
 ⚠️Talent|Magic Weapon
 ⚠️Talent|Prayer of Healing
-💨|Air Bubble
-💨|Dust Devil
-💨|Feather Fall
-💨|Skywrite
-💨|Warding Wind
-💨|Zephyr Strike
 🧪|Acid Splash
 🧪|Melf's Acid Arrow
 🧪|Primal Savagery
@@ -507,3 +477,43 @@ Vortex|Wristpocket
 🪨|Transmute Rock
 🪨|Wall of Sand
 🪨|Wall of Stone
+----------------------------------------------------------------------------------------------------
+Apothéose de l’air 🚧|Investiture of Wind
+Contrôle de l’air|Gust
+Lightning T0 🚧|Lightning Lure
+Lightning T0 🚧|Shocking Grasp
+Lightning T0 🚧|Witch Bolt
+Thunder T0 🚧|Booming Blade
+Thunder T0 🚧|Thunderclap
+Thunder T0 🚧|Thunderwave
+💨|Air Bubble
+💨|Call Lightning
+💨|Chain Lightning
+💨|Cloudkill
+💨|Control Winds
+💨|Dust Devil
+💨|Feather Fall
+💨|Gaseous Form
+💨|Gust of Wind
+💨|Lightning Arrow
+💨|Lightning Bolt
+💨|Shatter
+💨|Skywrite
+💨|Steel Wind Strike
+💨|Stinking Cloud
+💨|Storm Sphere
+💨|Thunder Step
+💨|Warding Wind
+💨|Whirlwind
+💨|Wind Walk
+💨|Wind Wall
+💨|Zephyr Strike
+
+
+
+Zephyr Strike
+Air Bubble
+Dust Devil
+Gust of Wind
+Skywrite
+Warding Wind
