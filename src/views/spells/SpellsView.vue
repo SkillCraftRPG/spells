@@ -2,7 +2,7 @@
   <main class="container-fluid page">
     <h1>{{ title }}</h1>
     <SpellList class="mb-3" />
-    <SpellDomain domain="air" />
+    <SpellDomain domain="earth" />
   </main>
 </template>
 

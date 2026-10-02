@@ -12,7 +12,6 @@ Amnésie|Gift of Gab
 Amnésie|Modify Memory
 Apothéose de glace|Cone of Cold
 Apothéose de glace|Investiture of Ice
-Apothéose de pierre|Investiture of Stone
 Apothéose des flammes|Delayed Blast Fireball
 Apothéose des flammes|Immolation
 Apothéose des flammes|Investiture of Flame
@@ -86,7 +85,6 @@ Compulsion|Otto's Irresistible Dance
 Contrainte|Geas
 Contrainte|Hold Monster
 Contrainte|Hold Person
-Contrôle de la terre|Mold Earth
 Contrôle de l’eau|Create or Destroy Water
 Contrôle de l’eau|Shape Water
 Contrôle du feu|Control Flames
@@ -459,25 +457,6 @@ Vortex|Wristpocket
 ⚠️Talent|Contingency
 ⚠️Talent|Magic Weapon
 ⚠️Talent|Prayer of Healing
-🧪|Acid Splash
-🧪|Melf's Acid Arrow
-🧪|Primal Savagery
-🧪|Tasha's Caustic Brew
-🧪|Vitriolic Sphere
-🪨|Bones of the Earth
-🪨|Earth Tremor
-🪨|Erupting Earth
-🪨|Flesh to Stone
-🪨|Maximillian's Earthen Grasp
-🪨|Meld into Stone
-🪨|Move Earth
-🪨|Passwall
-🪨|Stone Shape
-🪨|Stoneskin
-🪨|Transmute Rock
-🪨|Wall of Sand
-🪨|Wall of Stone
-----------------------------------------------------------------------------------------------------
 Apothéose de l’air|Investiture of Wind
 Apothéose de l’air|Steel Wind Strike
 Apothéose de l’air|Wind Walk
@@ -508,3 +487,24 @@ Vapeurs|Stinking Cloud
 Vents violents|Dust Devil
 Vents violents|Shatter
 Vents violents|Wind Wall
+----------------------------------------------------------------------------------------------------
+Apothéose de pierre|Investiture of Stone
+Contrôle de la terre|Mold Earth
+Giclée d’acide|Acid Splash
+Giclée d’acide|Tasha's Caustic Brew
+🧪|Melf's Acid Arrow
+🧪|Primal Savagery
+🧪|Vitriolic Sphere
+🪨|Bones of the Earth
+🪨|Earth Tremor
+🪨|Erupting Earth
+🪨|Flesh to Stone
+🪨|Maximillian's Earthen Grasp
+🪨|Meld into Stone
+🪨|Move Earth
+🪨|Passwall
+🪨|Stone Shape
+🪨|Stoneskin
+🪨|Transmute Rock
+🪨|Wall of Sand
+🪨|Wall of Stone
