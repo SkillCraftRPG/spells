@@ -490,6 +490,7 @@ Vortex|Wristpocket
 ⚠️N/A|Goodberry
 ⚠️N/A|Heroism
 ⚠️N/A|Motivational Speech
+⚠️N/A|Primal Savagery
 ⚠️Paladin|Find Greater Steed
 ⚠️Rôdeur|Conjure Barrage
 ⚠️Rôdeur|Conjure Volley
