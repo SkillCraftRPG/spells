@@ -48,9 +48,9 @@
   },
   "earth": {
     "0": ["Contrôle de la terre", "Giclée d’acide"],
-    "1": [],
-    "2": [],
-    "3": ["Apothéose de pierre"]
+    "1": ["Entrave terrestre"],
+    "2": ["Affinité minérale", "Façonnage de pierre", "Vitriol"],
+    "3": ["Apothéose de pierre", "Soulèvement tellurique"]
   },
   "enchantment": {
     "0": ["Communication", "Éclat mental", "Fascination"],

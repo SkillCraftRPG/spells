@@ -3,6 +3,9 @@ Adaptation naturelle|Darkvision
 Adaptation naturelle|Enhance Ability
 Adaptation naturelle|Guardian of Nature
 Adaptation naturelle|Water Breathing
+Affinité minérale|Meld into Stone
+Affinité minérale|Passwall
+Affinité minérale|Stoneskin
 Aliénation|Antagonize
 Aliénation|Crown of Madness
 Aliénation|Enemies Abound
@@ -12,6 +15,12 @@ Amnésie|Gift of Gab
 Amnésie|Modify Memory
 Apothéose de glace|Cone of Cold
 Apothéose de glace|Investiture of Ice
+Apothéose de l’air|Investiture of Wind
+Apothéose de l’air|Steel Wind Strike
+Apothéose de l’air|Wind Walk
+Apothéose de pierre|Flesh to Stone
+Apothéose de pierre|Investiture of Stone
+Apothéose de pierre|Transmute Rock
 Apothéose des flammes|Delayed Blast Fireball
 Apothéose des flammes|Immolation
 Apothéose des flammes|Investiture of Flame
@@ -85,6 +94,12 @@ Compulsion|Otto's Irresistible Dance
 Contrainte|Geas
 Contrainte|Hold Monster
 Contrainte|Hold Person
+Contrôle de la terre|Earth Tremor
+Contrôle de la terre|Mold Earth
+Contrôle de l’air|Gust
+Contrôle de l’air|Gust of Wind
+Contrôle de l’air|Warding Wind
+Contrôle de l’air|Zephyr Strike
 Contrôle de l’eau|Create or Destroy Water
 Contrôle de l’eau|Shape Water
 Contrôle du feu|Control Flames
@@ -95,12 +110,18 @@ Convoi divin|Word of Recall
 Corde enchantée|Earthbind
 Corde enchantée|Rope Trick
 Corde enchantée|Snare
+Coup de tonnerre|Booming Blade
+Coup de tonnerre|Thunderclap
+Coup de tonnerre|Thunderwave
 Cryosphère|Otiluke's Freezing Sphere
 Cryosphère|Wall of Ice
 Cycle naturel|Antilife Shell
 Cycle naturel|Aura of Life
 Cycle naturel|Blight
 Cycle naturel|Wither and Bloom
+Cyclone|Chain Lightning
+Cyclone|Control Winds
+Cyclone|Whirlwind
 Danse macabre|Animate Dead
 Danse macabre|Danse Macabre
 Distorsion|Gravity Fissure
@@ -111,6 +132,11 @@ Domination|Dominate Person
 Débilitation|Blindness/Deafness
 Débilitation|Ray of Enfeeblement
 Débilitation|Ray of Sickness
+Décharge|Lightning Lure
+Décharge|Shocking Grasp
+Décharge|Witch Bolt
+Entrave terrestre|Maximillian's Earthen Grasp
+Entrave terrestre|Wall of Sand
 Esprits funèbres|Shadow Of Moil
 Esprits funèbres|Spirit Of Death
 Esprits funèbres|Spirit Shroud
@@ -131,6 +157,9 @@ Faveur divine|Crusader's Mantle
 Faveur divine|Destructive Wave
 Faveur divine|Divine Favor
 Faveur divine|Holy Weapon
+Façonnage de pierre|Erupting Earth
+Façonnage de pierre|Stone Shape
+Façonnage de pierre|Wall of Stone
 Façonnage|Animate Objects
 Façonnage|Fabricate
 Façonnage|Passwall
@@ -142,6 +171,8 @@ Forteresse|Guards and Wards
 Forteresse|Leomund's Tiny Hut
 Forteresse|Mordenkainen's Magnificent Mansion
 Forteresse|Mordenkainen's Private Sanctum
+Foudroiement|Lightning Arrow
+Foudroiement|Lightning Bolt
 Frappe véritable|Hunter's Mark
 Frappe véritable|Mind Spike
 Frappe véritable|True Strike
@@ -155,6 +186,8 @@ Frontière aquatique|Water Walk
 Gardien de la foi|Guardian of Faith
 Gardien de la foi|Shield of Faith
 Gardien de la foi|Spiritual Weapon
+Giclée d’acide|Acid Splash
+Giclée d’acide|Tasha's Caustic Brew
 Givre|Armor of Agathys
 Givre|Ice Knife
 Givre|Rime's Binding Ice
@@ -281,6 +314,9 @@ Métamorphose|Water Breathing
 Nécrogenèse|Create Undead
 Nécrogenèse|Finger of Death
 Nécrogenèse|Negative Energy Flood
+Orage|Call Lightning
+Orage|Storm Sphere
+Orage|Thunder Step
 Orbe chromatique|Chaos Bolt
 Orbe chromatique|Chromatic Orb
 Pesanteur|Feather Fall
@@ -365,6 +401,8 @@ Songe|Etherealness
 Souffle du serpent|Dragon's Breath
 Souffle du serpent|Poison Spray
 Souffle du serpent|Protection from Poison
+Soulèvement tellurique|Bones of the Earth
+Soulèvement tellurique|Move Earth
 Sphère incendiaire|Fireball
 Sphère incendiaire|Flaming Sphere
 Sphère incendiaire|Melf's Minute Meteors
@@ -395,6 +433,9 @@ Toucher vampirique|Inflict Wounds
 Toucher vampirique|Life Transference
 Toucher vampirique|Vampiric Touch
 Toucher vampirique|Wither and Bloom
+Troposphère|Air Bubble
+Troposphère|Feather Fall
+Troposphère|Skywrite
 Télékinésie|Disintegrate
 Télékinésie|Telekinesis
 Télépathie|Detect Thoughts
@@ -406,6 +447,12 @@ Téléportation|Drawmij's Instant Summons
 Téléportation|Plane Shift
 Téléportation|Scatter
 Téléportation|Teleport
+Vapeurs|Cloudkill
+Vapeurs|Gaseous Form
+Vapeurs|Stinking Cloud
+Vents violents|Dust Devil
+Vents violents|Shatter
+Vents violents|Wind Wall
 Vide|Arms of Hadar
 Vide|Hellish Rebuke
 Vide|Hunger Of Hadar
@@ -416,6 +463,8 @@ Vignes épineuses|Entangle
 Vignes épineuses|Hail of Thorns
 Vignes épineuses|Spike Growth
 Vignes épineuses|Thorn Whip
+Vitriol|Melf's Acid Arrow
+Vitriol|Vitriolic Sphere
 Vortex|Blink
 Vortex|Misty Step
 Vortex|Vortex Warp
@@ -457,54 +506,3 @@ Vortex|Wristpocket
 ⚠️Talent|Contingency
 ⚠️Talent|Magic Weapon
 ⚠️Talent|Prayer of Healing
-Apothéose de l’air|Investiture of Wind
-Apothéose de l’air|Steel Wind Strike
-Apothéose de l’air|Wind Walk
-Contrôle de l’air|Gust
-Contrôle de l’air|Gust of Wind
-Contrôle de l’air|Warding Wind
-Contrôle de l’air|Zephyr Strike
-Coup de tonnerre|Booming Blade
-Coup de tonnerre|Thunderclap
-Coup de tonnerre|Thunderwave
-Décharge|Lightning Lure
-Décharge|Shocking Grasp
-Décharge|Witch Bolt
-Foudroiement|Lightning Arrow
-Foudroiement|Lightning Bolt
-Orage|Call Lightning
-Orage|Storm Sphere
-Orage|Thunder Step
-Cyclone|Chain Lightning
-Cyclone|Control Winds
-Cyclone|Whirlwind
-Troposphère|Air Bubble
-Troposphère|Feather Fall
-Troposphère|Skywrite
-Vapeurs|Cloudkill
-Vapeurs|Gaseous Form
-Vapeurs|Stinking Cloud
-Vents violents|Dust Devil
-Vents violents|Shatter
-Vents violents|Wind Wall
-----------------------------------------------------------------------------------------------------
-Apothéose de pierre|Investiture of Stone
-Contrôle de la terre|Mold Earth
-Giclée d’acide|Acid Splash
-Giclée d’acide|Tasha's Caustic Brew
-🧪|Melf's Acid Arrow
-🧪|Primal Savagery
-🧪|Vitriolic Sphere
-🪨|Bones of the Earth
-🪨|Earth Tremor
-🪨|Erupting Earth
-🪨|Flesh to Stone
-🪨|Maximillian's Earthen Grasp
-🪨|Meld into Stone
-🪨|Move Earth
-🪨|Passwall
-🪨|Stone Shape
-🪨|Stoneskin
-🪨|Transmute Rock
-🪨|Wall of Sand
-🪨|Wall of Stone
