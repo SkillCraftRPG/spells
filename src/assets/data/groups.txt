@@ -478,42 +478,33 @@ Vortex|Wristpocket
 🪨|Wall of Sand
 🪨|Wall of Stone
 ----------------------------------------------------------------------------------------------------
-Apothéose de l’air 🚧|Investiture of Wind
+Apothéose de l’air|Investiture of Wind
+Apothéose de l’air|Steel Wind Strike
+Apothéose de l’air|Wind Walk
 Contrôle de l’air|Gust
-Lightning T0 🚧|Lightning Lure
-Lightning T0 🚧|Shocking Grasp
-Lightning T0 🚧|Witch Bolt
-Thunder T0 🚧|Booming Blade
-Thunder T0 🚧|Thunderclap
-Thunder T0 🚧|Thunderwave
-💨|Air Bubble
-💨|Call Lightning
-💨|Chain Lightning
-💨|Cloudkill
-💨|Control Winds
-💨|Dust Devil
-💨|Feather Fall
-💨|Gaseous Form
-💨|Gust of Wind
-💨|Lightning Arrow
-💨|Lightning Bolt
-💨|Shatter
-💨|Skywrite
-💨|Steel Wind Strike
-💨|Stinking Cloud
-💨|Storm Sphere
-💨|Thunder Step
-💨|Warding Wind
-💨|Whirlwind
-💨|Wind Walk
-💨|Wind Wall
-💨|Zephyr Strike
-
-
-
-Zephyr Strike
-Air Bubble
-Dust Devil
-Gust of Wind
-Skywrite
-Warding Wind
+Contrôle de l’air|Gust of Wind
+Contrôle de l’air|Warding Wind
+Contrôle de l’air|Zephyr Strike
+Coup de tonnerre|Booming Blade
+Coup de tonnerre|Thunderclap
+Coup de tonnerre|Thunderwave
+Décharge|Lightning Lure
+Décharge|Shocking Grasp
+Décharge|Witch Bolt
+Foudroiement|Lightning Arrow
+Foudroiement|Lightning Bolt
+Orage|Call Lightning
+Orage|Storm Sphere
+Orage|Thunder Step
+Cyclone|Chain Lightning
+Cyclone|Control Winds
+Cyclone|Whirlwind
+Troposphère|Air Bubble
+Troposphère|Feather Fall
+Troposphère|Skywrite
+Vapeurs|Cloudkill
+Vapeurs|Gaseous Form
+Vapeurs|Stinking Cloud
+Vents violents|Dust Devil
+Vents violents|Shatter
+Vents violents|Wind Wall

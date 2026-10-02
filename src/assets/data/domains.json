@@ -6,10 +6,10 @@
     "3": ["Forteresse", "Glyphe", "Globe d’invulnérabilité"]
   },
   "air": {
-    "0": ["Contrôle de l’air", "Lightning T0 🚧", "Thunder T0 🚧"],
-    "1": [],
-    "2": [],
-    "3": ["Apothéose de l’air 🚧"]
+    "0": ["Contrôle de l’air", "Coup de tonnerre", "Décharge"],
+    "1": ["Troposphère", "Vents violents"],
+    "2": ["Foudroiement", "Orage", "Vapeurs"],
+    "3": ["Apothéose de l’air", "Cyclone"]
   },
   "animism": {
     "0": ["Arts druidiques", "Carapace", "Lueur lunaire", "Souffle du serpent", "Vignes épineuses"],
