@@ -1,7 +1,7 @@
 <template>
   <main class="container-fluid page">
     <h1>{{ title }}</h1>
-    <SpellList class="mb-3" />
+    <SpellList />
   </main>
 </template>
 
