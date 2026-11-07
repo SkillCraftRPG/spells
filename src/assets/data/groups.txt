@@ -60,20 +60,16 @@ Bénédiction|Guidance
 Cage spirituelle|Magic Jar
 Cage spirituelle|Soul Cage
 Cage spirituelle|Tether Essence
+Calamité|Bestow Curse
+Calamité|Contagion
+Calamité|Harm
+Calamité|Hex
 Carapace|Blade Ward
 Carapace|Resistance
 Carapace|Stoneskin
 Carreau de feu|Fire Bolt
 Carreau de feu|Produce Flame
 Carreau de feu|Scorching Ray
-Charme collectif|Charm Monster
-Charme collectif|Charm Person
-Charme collectif|Fast Friends
-Charme collectif|Mass Suggestion
-Charme|Charm Monster
-Charme|Charm Person
-Charme|Fast Friends
-Charme|Suggestion
 Clairvoyance|Arcane Eye
 Clairvoyance|Clairvoyance
 Clairvoyance|Scrying
@@ -157,6 +153,7 @@ Faveur divine|Crusader's Mantle
 Faveur divine|Destructive Wave
 Faveur divine|Divine Favor
 Faveur divine|Holy Weapon
+Faveur divine|Inflict Wounds
 Façonnage de pierre|Erupting Earth
 Façonnage de pierre|Stone Shape
 Façonnage de pierre|Wall of Stone
@@ -228,6 +225,7 @@ Invisibilité|Invisibility
 Invocation céleste|Conjure Celestial
 Invocation céleste|Planar Ally
 Invocation céleste|Summon Celestial
+Invocation féérique|Awaken
 Invocation féérique|Conjure Animals
 Invocation féérique|Conjure Fey
 Invocation féérique|Conjure Woodland Beings
@@ -270,10 +268,6 @@ Main magique|Bigby's Hand
 Main magique|Mage Hand
 Main magique|Tenser's Floating Disk
 Main magique|Unseen Servant
-Malédiction|Bestow Curse
-Malédiction|Contagion
-Malédiction|Harm
-Malédiction|Hex
 Manifestation de force|Forcecage
 Manifestation de force|Mordenkainen's Sword
 Manifestation de force|Otiluke's Resilient Sphere
@@ -294,10 +288,10 @@ Matérialisation|Simulacrum
 Migraine|Power Word: Pain
 Migraine|Raulothim's Psychic Lance
 Migraine|Synaptic Static
-Miracles|Divine Word
-Miracles|Heal
-Miracles|Heroes' Feast
-Miracles|Regenerate
+Miracle|Divine Word
+Miracle|Heal
+Miracle|Heroes' Feast
+Miracle|Regenerate
 Mirage|Hallucinatory Terrain
 Mirage|Mirage Arcane
 Missiles magiques|Eldritch Blast
@@ -310,6 +304,7 @@ Mistral|Snilloc's Snowball Swarm
 Métamorphose|Alter Self
 Métamorphose|Enlarge/Reduce
 Métamorphose|Polymorph
+Métamorphose|Primal Savagery
 Métamorphose|Water Breathing
 Nécrogenèse|Create Undead
 Nécrogenèse|Finger of Death
@@ -373,11 +368,11 @@ Réincarnation|Revivify
 Réseau de racines|Plane Shift
 Réseau de racines|Transport via Plants
 Réseau de racines|Tree Stride
-Résonance primordiale|Absorb Elements
-Résonance primordiale|Elemental Bane
-Résonance primordiale|Elemental Weapon
-Résonance primordiale|Primordial Ward
-Résonance primordiale|Protection from Energy
+Résonance élémentaire|Absorb Elements
+Résonance élémentaire|Elemental Bane
+Résonance élémentaire|Elemental Weapon
+Résonance élémentaire|Primordial Ward
+Résonance élémentaire|Protection from Energy
 Résurrection|Raise Dead
 Résurrection|Resurrection
 Résurrection|Revivify
@@ -412,6 +407,14 @@ Système 3-actions|Expeditious Retreat
 Sédation|Calm Emotions
 Sédation|Catnap
 Sédation|Sleep
+Séduction collective|Charm Monster
+Séduction collective|Charm Person
+Séduction collective|Fast Friends
+Séduction collective|Mass Suggestion
+Séduction|Charm Monster
+Séduction|Charm Person
+Séduction|Fast Friends
+Séduction|Suggestion
 Temple|Blade Barrier
 Temple|Forbiddance
 Temple|Hallow
@@ -490,7 +493,6 @@ Vortex|Wristpocket
 ⚠️N/A|Goodberry
 ⚠️N/A|Heroism
 ⚠️N/A|Motivational Speech
-⚠️N/A|Primal Savagery
 ⚠️Paladin|Find Greater Steed
 ⚠️Rôdeur|Conjure Barrage
 ⚠️Rôdeur|Conjure Volley
