@@ -3,7 +3,7 @@
     "0": ["Carapace"],
     "1": ["Armure magique", "Interdiction", "Restauration"],
     "2": ["Résonance élémentaire", "Sceau magique"],
-    "3": ["Forteresse", "Glyphe", "Globe d’invulnérabilité"]
+    "3": ["Forteresse", "Globe d’invulnérabilité", "Glyphe"]
   },
   "air": {
     "0": ["Contrôle de l’air", "Coup de tonnerre", "Décharge"],
@@ -56,7 +56,7 @@
     "0": ["Communication", "Éclat mental", "Fascination"],
     "1": ["Aliénation", "Balancier", "Sédation", "Séduction"],
     "2": ["Amnésie", "Compulsion", "Contrainte"],
-    "3": ["Charme collectif", "Domination", "Migraine", "Songe"]
+    "3": ["Domination", "Migraine", "Séduction collective", "Songe"]
   },
   "fire": {
     "0": ["Arme enflammée", "Carreau de feu", "Contrôle du feu"],
